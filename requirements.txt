@@ -1,0 +1,4 @@
+pyenergyplus-lbnl
+ollama
+pandas
+matplotlib

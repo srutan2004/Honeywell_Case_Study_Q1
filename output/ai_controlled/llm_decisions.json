@@ -1,0 +1,3842 @@
+[
+  {
+    "timestep": 1,
+    "hour": 0,
+    "zone_temp": 20.71,
+    "outdoor_temp": 17.15,
+    "humidity": 50.0,
+    "pmv": -1.21,
+    "ppd": 35.7,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 5923.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 2,
+    "hour": 0,
+    "zone_temp": 20.68,
+    "outdoor_temp": 17.1,
+    "humidity": 50.0,
+    "pmv": -1.22,
+    "ppd": 36.1,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 3,
+    "hour": 0,
+    "zone_temp": 20.65,
+    "outdoor_temp": 17.05,
+    "humidity": 50.0,
+    "pmv": -1.23,
+    "ppd": 36.6,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 730.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 4,
+    "hour": 0,
+    "zone_temp": 20.62,
+    "outdoor_temp": 17.0,
+    "humidity": 50.0,
+    "pmv": -1.24,
+    "ppd": 37.1,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 744.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 5,
+    "hour": 1,
+    "zone_temp": 20.59,
+    "outdoor_temp": 16.93,
+    "humidity": 50.0,
+    "pmv": -1.25,
+    "ppd": 37.5,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 739.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 6,
+    "hour": 1,
+    "zone_temp": 20.56,
+    "outdoor_temp": 16.85,
+    "humidity": 50.0,
+    "pmv": -1.26,
+    "ppd": 38.0,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 7,
+    "hour": 1,
+    "zone_temp": 20.54,
+    "outdoor_temp": 16.77,
+    "humidity": 50.0,
+    "pmv": -1.26,
+    "ppd": 38.3,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 8,
+    "hour": 1,
+    "zone_temp": 20.52,
+    "outdoor_temp": 16.7,
+    "humidity": 50.0,
+    "pmv": -1.27,
+    "ppd": 38.6,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 744.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 9,
+    "hour": 2,
+    "zone_temp": 20.49,
+    "outdoor_temp": 16.62,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.1,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 742.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 10,
+    "hour": 2,
+    "zone_temp": 20.47,
+    "outdoor_temp": 16.55,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.4,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 745.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 11,
+    "hour": 2,
+    "zone_temp": 20.45,
+    "outdoor_temp": 16.47,
+    "humidity": 50.0,
+    "pmv": -1.29,
+    "ppd": 39.7,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 751.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 12,
+    "hour": 2,
+    "zone_temp": 20.43,
+    "outdoor_temp": 16.4,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.1,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 13,
+    "hour": 3,
+    "zone_temp": 20.41,
+    "outdoor_temp": 16.32,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.4,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 743.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 14,
+    "hour": 3,
+    "zone_temp": 20.39,
+    "outdoor_temp": 16.25,
+    "humidity": 50.0,
+    "pmv": -1.31,
+    "ppd": 40.7,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 730.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 15,
+    "hour": 3,
+    "zone_temp": 20.38,
+    "outdoor_temp": 16.18,
+    "humidity": 50.0,
+    "pmv": -1.31,
+    "ppd": 40.9,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 733.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 16,
+    "hour": 3,
+    "zone_temp": 20.36,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.32,
+    "ppd": 41.2,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 740.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 17,
+    "hour": 4,
+    "zone_temp": 20.34,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.32,
+    "ppd": 41.5,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 18,
+    "hour": 4,
+    "zone_temp": 20.33,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.33,
+    "ppd": 41.7,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 696.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 19,
+    "hour": 4,
+    "zone_temp": 20.32,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.33,
+    "ppd": 41.8,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 694.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 20,
+    "hour": 4,
+    "zone_temp": 20.32,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.33,
+    "ppd": 41.8,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 681.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 21,
+    "hour": 5,
+    "zone_temp": 20.32,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.33,
+    "ppd": 41.8,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 22,
+    "hour": 5,
+    "zone_temp": 20.33,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.33,
+    "ppd": 41.7,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 23,
+    "hour": 5,
+    "zone_temp": 20.34,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.32,
+    "ppd": 41.5,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 719.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 24,
+    "hour": 5,
+    "zone_temp": 20.36,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.32,
+    "ppd": 41.2,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 25,
+    "hour": 6,
+    "zone_temp": 20.4,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -1.31,
+    "ppd": 40.5,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 26,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 42.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 27,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 42.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 28,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 42.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 29,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.25,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 42.5,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 740.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 30,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.4,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 43.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 715.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 31,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.55,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 43.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 32,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.7,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 44.5,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 720.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 33,
+    "hour": 8,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.82,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 490,
+    "peak_util_pct": 45.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 34,
+    "hour": 8,
+    "zone_temp": 22.33,
+    "outdoor_temp": 16.95,
+    "humidity": 50.0,
+    "pmv": -0.71,
+    "ppd": 15.5,
+    "carbon_gco2": 490,
+    "peak_util_pct": 45.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 747.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 35,
+    "hour": 8,
+    "zone_temp": 22.49,
+    "outdoor_temp": 17.07,
+    "humidity": 50.0,
+    "pmv": -0.66,
+    "ppd": 14.1,
+    "carbon_gco2": 490,
+    "peak_util_pct": 46.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 36,
+    "hour": 8,
+    "zone_temp": 22.69,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -0.61,
+    "ppd": 12.7,
+    "carbon_gco2": 490,
+    "peak_util_pct": 46.5,
+    "setpoint": 24.2,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 37,
+    "hour": 9,
+    "zone_temp": 22.84,
+    "outdoor_temp": 17.35,
+    "humidity": 50.0,
+    "pmv": -0.56,
+    "ppd": 11.6,
+    "carbon_gco2": 510,
+    "peak_util_pct": 47.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 745.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 38,
+    "hour": 9,
+    "zone_temp": 23.47,
+    "outdoor_temp": 17.5,
+    "humidity": 50.0,
+    "pmv": -0.38,
+    "ppd": 7.9,
+    "carbon_gco2": 510,
+    "peak_util_pct": 48.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 39,
+    "hour": 9,
+    "zone_temp": 23.83,
+    "outdoor_temp": 17.65,
+    "humidity": 50.0,
+    "pmv": -0.27,
+    "ppd": 6.5,
+    "carbon_gco2": 510,
+    "peak_util_pct": 49.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 40,
+    "hour": 9,
+    "zone_temp": 24.05,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.2,
+    "ppd": 5.9,
+    "carbon_gco2": 510,
+    "peak_util_pct": 52.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 754.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 41,
+    "hour": 10,
+    "zone_temp": 24.26,
+    "outdoor_temp": 17.93,
+    "humidity": 50.0,
+    "pmv": -0.14,
+    "ppd": 5.4,
+    "carbon_gco2": 520,
+    "peak_util_pct": 55.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 42,
+    "hour": 10,
+    "zone_temp": 24.46,
+    "outdoor_temp": 18.05,
+    "humidity": 50.0,
+    "pmv": -0.08,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 59.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 716.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 43,
+    "hour": 10,
+    "zone_temp": 24.0,
+    "outdoor_temp": 18.18,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 74.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 719.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 44,
+    "hour": 10,
+    "zone_temp": 24.49,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 71.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 739.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 45,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 74.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 763.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 46,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 67.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 47,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 68.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 704.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 48,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 70.5,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 706.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 49,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.45,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 71.6,
+    "setpoint": 25.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 707.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 50,
+    "hour": 12,
+    "zone_temp": 24.64,
+    "outdoor_temp": 18.6,
+    "humidity": 50.0,
+    "pmv": -0.03,
+    "ppd": 5.0,
+    "carbon_gco2": 535,
+    "peak_util_pct": 57.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 716.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 51,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.75,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 63.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 52,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 62.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 719.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 53,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.62,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 66.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 54,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.35,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 72.5,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 55,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 18.08,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 72.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 56,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 71.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 716.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 57,
+    "hour": 14,
+    "zone_temp": 24.0,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 525,
+    "peak_util_pct": 82.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 742.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 58,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 79.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 59,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 80.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 710.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 60,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 72.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 61,
+    "hour": 15,
+    "zone_temp": 24.0,
+    "outdoor_temp": 17.38,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 84.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 62,
+    "hour": 15,
+    "zone_temp": 24.49,
+    "outdoor_temp": 16.95,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 70.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 735.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 63,
+    "hour": 15,
+    "zone_temp": 24.5,
+    "outdoor_temp": 16.53,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 69.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 64,
+    "hour": 15,
+    "zone_temp": 24.5,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 61.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 720.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 65,
+    "hour": 16,
+    "zone_temp": 24.5,
+    "outdoor_temp": 15.98,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 59.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 733.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 66,
+    "hour": 16,
+    "zone_temp": 24.36,
+    "outdoor_temp": 15.85,
+    "humidity": 50.0,
+    "pmv": -0.11,
+    "ppd": 5.3,
+    "carbon_gco2": 530,
+    "peak_util_pct": 55.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 743.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 67,
+    "hour": 16,
+    "zone_temp": 24.22,
+    "outdoor_temp": 15.72,
+    "humidity": 50.0,
+    "pmv": -0.15,
+    "ppd": 5.5,
+    "carbon_gco2": 530,
+    "peak_util_pct": 54.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 715.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 68,
+    "hour": 16,
+    "zone_temp": 24.13,
+    "outdoor_temp": 15.6,
+    "humidity": 50.0,
+    "pmv": -0.18,
+    "ppd": 5.7,
+    "carbon_gco2": 530,
+    "peak_util_pct": 53.5,
+    "setpoint": 24.8,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 732.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 69,
+    "hour": 17,
+    "zone_temp": 24.06,
+    "outdoor_temp": 15.72,
+    "humidity": 50.0,
+    "pmv": -0.2,
+    "ppd": 5.8,
+    "carbon_gco2": 540,
+    "peak_util_pct": 48.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 746.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 70,
+    "hour": 17,
+    "zone_temp": 24.0,
+    "outdoor_temp": 15.85,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 540,
+    "peak_util_pct": 56.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 71,
+    "hour": 17,
+    "zone_temp": 23.95,
+    "outdoor_temp": 15.98,
+    "humidity": 50.0,
+    "pmv": -0.23,
+    "ppd": 6.1,
+    "carbon_gco2": 540,
+    "peak_util_pct": 52.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 72,
+    "hour": 17,
+    "zone_temp": 23.9,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.25,
+    "ppd": 6.3,
+    "carbon_gco2": 540,
+    "peak_util_pct": 54.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 73,
+    "hour": 18,
+    "zone_temp": 23.84,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.27,
+    "ppd": 6.5,
+    "carbon_gco2": 510,
+    "peak_util_pct": 55.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 744.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 74,
+    "hour": 18,
+    "zone_temp": 23.21,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.45,
+    "ppd": 9.3,
+    "carbon_gco2": 510,
+    "peak_util_pct": 51.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 75,
+    "hour": 18,
+    "zone_temp": 22.85,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.56,
+    "ppd": 11.5,
+    "carbon_gco2": 510,
+    "peak_util_pct": 51.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 76,
+    "hour": 18,
+    "zone_temp": 22.66,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.61,
+    "ppd": 12.9,
+    "carbon_gco2": 510,
+    "peak_util_pct": 51.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 721.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 77,
+    "hour": 19,
+    "zone_temp": 22.51,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.65,
+    "ppd": 13.9,
+    "carbon_gco2": 480,
+    "peak_util_pct": 50.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 721.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 78,
+    "hour": 19,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 480,
+    "peak_util_pct": 50.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 721.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 79,
+    "hour": 19,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 480,
+    "peak_util_pct": 50.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 706.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 80,
+    "hour": 19,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 480,
+    "peak_util_pct": 49.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 81,
+    "hour": 20,
+    "zone_temp": 22.2,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 450,
+    "peak_util_pct": 49.4,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 731.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 82,
+    "hour": 20,
+    "zone_temp": 22.01,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.81,
+    "ppd": 18.7,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 742.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 83,
+    "hour": 20,
+    "zone_temp": 21.84,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.86,
+    "ppd": 20.5,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 731.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 84,
+    "hour": 20,
+    "zone_temp": 21.73,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.89,
+    "ppd": 21.8,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 715.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 85,
+    "hour": 21,
+    "zone_temp": 21.63,
+    "outdoor_temp": 16.38,
+    "humidity": 50.0,
+    "pmv": -0.92,
+    "ppd": 23.0,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 86,
+    "hour": 21,
+    "zone_temp": 21.52,
+    "outdoor_temp": 16.65,
+    "humidity": 50.0,
+    "pmv": -0.96,
+    "ppd": 24.4,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 742.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 87,
+    "hour": 21,
+    "zone_temp": 21.38,
+    "outdoor_temp": 16.92,
+    "humidity": 50.0,
+    "pmv": -1.0,
+    "ppd": 26.2,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 88,
+    "hour": 21,
+    "zone_temp": 21.26,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.04,
+    "ppd": 27.8,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 89,
+    "hour": 22,
+    "zone_temp": 21.17,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.07,
+    "ppd": 29.0,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 90,
+    "hour": 22,
+    "zone_temp": 21.1,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.09,
+    "ppd": 30.0,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 91,
+    "hour": 22,
+    "zone_temp": 21.03,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.11,
+    "ppd": 31.0,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 92,
+    "hour": 22,
+    "zone_temp": 20.97,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.13,
+    "ppd": 31.8,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 737.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 93,
+    "hour": 23,
+    "zone_temp": 20.91,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.15,
+    "ppd": 32.7,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 94,
+    "hour": 23,
+    "zone_temp": 20.86,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.16,
+    "ppd": 33.4,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 95,
+    "hour": 23,
+    "zone_temp": 20.81,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.18,
+    "ppd": 34.2,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 96,
+    "hour": 23,
+    "zone_temp": 20.76,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.19,
+    "ppd": 34.9,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 715.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 97,
+    "hour": 0,
+    "zone_temp": 20.73,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.2,
+    "ppd": 35.4,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 746.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 98,
+    "hour": 0,
+    "zone_temp": 20.7,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.21,
+    "ppd": 35.8,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 710.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 99,
+    "hour": 0,
+    "zone_temp": 20.67,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.22,
+    "ppd": 36.3,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 100,
+    "hour": 0,
+    "zone_temp": 20.64,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.23,
+    "ppd": 36.8,
+    "carbon_gco2": 380,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 101,
+    "hour": 1,
+    "zone_temp": 20.62,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.24,
+    "ppd": 37.1,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 102,
+    "hour": 1,
+    "zone_temp": 20.59,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.25,
+    "ppd": 37.5,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 708.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 103,
+    "hour": 1,
+    "zone_temp": 20.57,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.25,
+    "ppd": 37.9,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 104,
+    "hour": 1,
+    "zone_temp": 20.55,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.26,
+    "ppd": 38.2,
+    "carbon_gco2": 370,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 105,
+    "hour": 2,
+    "zone_temp": 20.54,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.26,
+    "ppd": 38.3,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 106,
+    "hour": 2,
+    "zone_temp": 20.52,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.27,
+    "ppd": 38.6,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 107,
+    "hour": 2,
+    "zone_temp": 20.5,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.27,
+    "ppd": 39.0,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 709.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 108,
+    "hour": 2,
+    "zone_temp": 20.49,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.1,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 109,
+    "hour": 3,
+    "zone_temp": 20.48,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.3,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 110,
+    "hour": 3,
+    "zone_temp": 20.47,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.4,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 111,
+    "hour": 3,
+    "zone_temp": 20.45,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.29,
+    "ppd": 39.7,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 112,
+    "hour": 3,
+    "zone_temp": 20.44,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.29,
+    "ppd": 39.9,
+    "carbon_gco2": 355,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 704.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 113,
+    "hour": 4,
+    "zone_temp": 20.43,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.1,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 779.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 114,
+    "hour": 4,
+    "zone_temp": 20.42,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.2,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 700.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 115,
+    "hour": 4,
+    "zone_temp": 20.42,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.2,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 116,
+    "hour": 4,
+    "zone_temp": 20.43,
+    "outdoor_temp": 17.2,
+    "humidity": 50.0,
+    "pmv": -1.3,
+    "ppd": 40.1,
+    "carbon_gco2": 360,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 117,
+    "hour": 5,
+    "zone_temp": 20.44,
+    "outdoor_temp": 17.35,
+    "humidity": 50.0,
+    "pmv": -1.29,
+    "ppd": 39.9,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 118,
+    "hour": 5,
+    "zone_temp": 20.47,
+    "outdoor_temp": 17.5,
+    "humidity": 50.0,
+    "pmv": -1.28,
+    "ppd": 39.4,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 119,
+    "hour": 5,
+    "zone_temp": 20.5,
+    "outdoor_temp": 17.65,
+    "humidity": 50.0,
+    "pmv": -1.27,
+    "ppd": 39.0,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 120,
+    "hour": 5,
+    "zone_temp": 20.54,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -1.26,
+    "ppd": 38.3,
+    "carbon_gco2": 375,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 121,
+    "hour": 6,
+    "zone_temp": 20.59,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -1.25,
+    "ppd": 37.5,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 737.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 122,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 48.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 123,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 48.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 124,
+    "hour": 6,
+    "zone_temp": 22.2,
+    "outdoor_temp": 17.8,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 420,
+    "peak_util_pct": 48.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 689.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 125,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 17.93,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 47.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 126,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 18.05,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 47.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 127,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 18.18,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 47.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 128,
+    "hour": 7,
+    "zone_temp": 22.2,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 460,
+    "peak_util_pct": 47.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 714.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 129,
+    "hour": 8,
+    "zone_temp": 22.2,
+    "outdoor_temp": 18.58,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 490,
+    "peak_util_pct": 46.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 130,
+    "hour": 8,
+    "zone_temp": 22.48,
+    "outdoor_temp": 18.85,
+    "humidity": 50.0,
+    "pmv": -0.66,
+    "ppd": 14.2,
+    "carbon_gco2": 490,
+    "peak_util_pct": 47.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 131,
+    "hour": 8,
+    "zone_temp": 22.7,
+    "outdoor_temp": 19.12,
+    "humidity": 50.0,
+    "pmv": -0.6,
+    "ppd": 12.6,
+    "carbon_gco2": 490,
+    "peak_util_pct": 48.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 719.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 132,
+    "hour": 8,
+    "zone_temp": 22.91,
+    "outdoor_temp": 19.4,
+    "humidity": 50.0,
+    "pmv": -0.54,
+    "ppd": 11.1,
+    "carbon_gco2": 490,
+    "peak_util_pct": 49.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 133,
+    "hour": 9,
+    "zone_temp": 23.08,
+    "outdoor_temp": 19.55,
+    "humidity": 50.0,
+    "pmv": -0.49,
+    "ppd": 10.0,
+    "carbon_gco2": 510,
+    "peak_util_pct": 50.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 134,
+    "hour": 9,
+    "zone_temp": 23.73,
+    "outdoor_temp": 19.7,
+    "humidity": 50.0,
+    "pmv": -0.3,
+    "ppd": 6.8,
+    "carbon_gco2": 510,
+    "peak_util_pct": 51.5,
+    "setpoint": 24.1,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 723.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 135,
+    "hour": 9,
+    "zone_temp": 24.09,
+    "outdoor_temp": 19.85,
+    "humidity": 50.0,
+    "pmv": -0.19,
+    "ppd": 5.8,
+    "carbon_gco2": 510,
+    "peak_util_pct": 56.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 136,
+    "hour": 9,
+    "zone_temp": 24.3,
+    "outdoor_temp": 20.0,
+    "humidity": 50.0,
+    "pmv": -0.13,
+    "ppd": 5.3,
+    "carbon_gco2": 510,
+    "peak_util_pct": 55.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 137,
+    "hour": 10,
+    "zone_temp": 24.5,
+    "outdoor_temp": 20.27,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 58.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 138,
+    "hour": 10,
+    "zone_temp": 24.5,
+    "outdoor_temp": 20.55,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 63.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 139,
+    "hour": 10,
+    "zone_temp": 24.5,
+    "outdoor_temp": 20.83,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 67.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 721.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 140,
+    "hour": 10,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.1,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 71.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 141,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.53,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 74.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 715.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 142,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.95,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 74.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 755.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 143,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.38,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 76.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 748.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 144,
+    "hour": 11,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 79.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 757.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 145,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.08,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 81.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 748.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 146,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.35,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 74.1,
+    "setpoint": 25.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 730.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 147,
+    "hour": 12,
+    "zone_temp": 24.94,
+    "outdoor_temp": 23.62,
+    "humidity": 50.0,
+    "pmv": 0.06,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 64.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 736.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 148,
+    "hour": 12,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 535,
+    "peak_util_pct": 72.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 740.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 149,
+    "hour": 13,
+    "zone_temp": 24.0,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 530,
+    "peak_util_pct": 84.7,
+    "setpoint": 25.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 150,
+    "hour": 13,
+    "zone_temp": 25.23,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": 0.16,
+    "ppd": 5.5,
+    "carbon_gco2": 530,
+    "peak_util_pct": 64.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 151,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 86.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 152,
+    "hour": 13,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 83.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 153,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 91.6,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 154,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 93.9,
+    "setpoint": 25.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 155,
+    "hour": 14,
+    "zone_temp": 25.0,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": 0.08,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 85.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 156,
+    "hour": 14,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.9,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 91.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 712.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 157,
+    "hour": 15,
+    "zone_temp": 24.0,
+    "outdoor_temp": 23.62,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 117.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 158,
+    "hour": 15,
+    "zone_temp": 24.5,
+    "outdoor_temp": 23.35,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 520,
+    "peak_util_pct": 100.2,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 720.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 159,
+    "hour": 15,
+    "zone_temp": 24.0,
+    "outdoor_temp": 23.08,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 104.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 731.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 160,
+    "hour": 15,
+    "zone_temp": 24.0,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 100.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 161,
+    "hour": 16,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 96.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 755.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 162,
+    "hour": 16,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 92.5,
+    "setpoint": 24.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 730.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 163,
+    "hour": 16,
+    "zone_temp": 24.0,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 530,
+    "peak_util_pct": 95.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 164,
+    "hour": 16,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.8,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 530,
+    "peak_util_pct": 91.2,
+    "setpoint": 25.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 710.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 165,
+    "hour": 17,
+    "zone_temp": 24.95,
+    "outdoor_temp": 22.53,
+    "humidity": 50.0,
+    "pmv": 0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 540,
+    "peak_util_pct": 66.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 739.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 166,
+    "hour": 17,
+    "zone_temp": 24.5,
+    "outdoor_temp": 22.25,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 540,
+    "peak_util_pct": 76.8,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 167,
+    "hour": 17,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.97,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 540,
+    "peak_util_pct": 75.2,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 733.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 168,
+    "hour": 17,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.7,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 540,
+    "peak_util_pct": 81.1,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 169,
+    "hour": 18,
+    "zone_temp": 24.5,
+    "outdoor_temp": 21.42,
+    "humidity": 50.0,
+    "pmv": -0.07,
+    "ppd": 5.1,
+    "carbon_gco2": 510,
+    "peak_util_pct": 78.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 170,
+    "hour": 18,
+    "zone_temp": 24.14,
+    "outdoor_temp": 21.15,
+    "humidity": 50.0,
+    "pmv": -0.18,
+    "ppd": 5.6,
+    "carbon_gco2": 510,
+    "peak_util_pct": 61.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 722.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 171,
+    "hour": 18,
+    "zone_temp": 23.87,
+    "outdoor_temp": 20.88,
+    "humidity": 50.0,
+    "pmv": -0.26,
+    "ppd": 6.4,
+    "carbon_gco2": 510,
+    "peak_util_pct": 58.9,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 172,
+    "hour": 18,
+    "zone_temp": 23.69,
+    "outdoor_temp": 20.6,
+    "humidity": 50.0,
+    "pmv": -0.31,
+    "ppd": 7.0,
+    "carbon_gco2": 510,
+    "peak_util_pct": 56.0,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 733.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 173,
+    "hour": 19,
+    "zone_temp": 23.52,
+    "outdoor_temp": 20.03,
+    "humidity": 50.0,
+    "pmv": -0.36,
+    "ppd": 7.7,
+    "carbon_gco2": 480,
+    "peak_util_pct": 53.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 725.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 174,
+    "hour": 19,
+    "zone_temp": 22.89,
+    "outdoor_temp": 19.45,
+    "humidity": 50.0,
+    "pmv": -0.55,
+    "ppd": 11.3,
+    "carbon_gco2": 480,
+    "peak_util_pct": 50.3,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 731.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 175,
+    "hour": 19,
+    "zone_temp": 22.46,
+    "outdoor_temp": 18.88,
+    "humidity": 50.0,
+    "pmv": -0.67,
+    "ppd": 14.3,
+    "carbon_gco2": 480,
+    "peak_util_pct": 47.4,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 717.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 176,
+    "hour": 19,
+    "zone_temp": 22.21,
+    "outdoor_temp": 18.3,
+    "humidity": 50.0,
+    "pmv": -0.74,
+    "ppd": 16.6,
+    "carbon_gco2": 480,
+    "peak_util_pct": 44.7,
+    "setpoint": 24.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 177,
+    "hour": 20,
+    "zone_temp": 22.2,
+    "outdoor_temp": 17.9,
+    "humidity": 50.0,
+    "pmv": -0.75,
+    "ppd": 16.7,
+    "carbon_gco2": 450,
+    "peak_util_pct": 42.1,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 178,
+    "hour": 20,
+    "zone_temp": 22.33,
+    "outdoor_temp": 17.5,
+    "humidity": 50.0,
+    "pmv": -0.71,
+    "ppd": 15.5,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 733.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 179,
+    "hour": 20,
+    "zone_temp": 22.34,
+    "outdoor_temp": 17.1,
+    "humidity": 50.0,
+    "pmv": -0.7,
+    "ppd": 15.4,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 729.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 180,
+    "hour": 20,
+    "zone_temp": 22.27,
+    "outdoor_temp": 16.7,
+    "humidity": 50.0,
+    "pmv": -0.72,
+    "ppd": 16.1,
+    "carbon_gco2": 450,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 181,
+    "hour": 21,
+    "zone_temp": 22.15,
+    "outdoor_temp": 16.55,
+    "humidity": 50.0,
+    "pmv": -0.76,
+    "ppd": 17.2,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 746.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 182,
+    "hour": 21,
+    "zone_temp": 22.0,
+    "outdoor_temp": 16.4,
+    "humidity": 50.0,
+    "pmv": -0.81,
+    "ppd": 18.8,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 718.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 183,
+    "hour": 21,
+    "zone_temp": 21.81,
+    "outdoor_temp": 16.25,
+    "humidity": 50.0,
+    "pmv": -0.87,
+    "ppd": 20.9,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 739.2,
+    "used_fallback": false
+  },
+  {
+    "timestep": 184,
+    "hour": 21,
+    "zone_temp": 21.65,
+    "outdoor_temp": 16.1,
+    "humidity": 50.0,
+    "pmv": -0.92,
+    "ppd": 22.8,
+    "carbon_gco2": 420,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 756.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 185,
+    "hour": 22,
+    "zone_temp": 21.51,
+    "outdoor_temp": 15.83,
+    "humidity": 50.0,
+    "pmv": -0.96,
+    "ppd": 24.5,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.0,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 720.7,
+    "used_fallback": false
+  },
+  {
+    "timestep": 186,
+    "hour": 22,
+    "zone_temp": 21.39,
+    "outdoor_temp": 15.55,
+    "humidity": 50.0,
+    "pmv": -1.0,
+    "ppd": 26.0,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 734.4,
+    "used_fallback": false
+  },
+  {
+    "timestep": 187,
+    "hour": 22,
+    "zone_temp": 21.27,
+    "outdoor_temp": 15.28,
+    "humidity": 50.0,
+    "pmv": -1.03,
+    "ppd": 27.6,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 735.3,
+    "used_fallback": false
+  },
+  {
+    "timestep": 188,
+    "hour": 22,
+    "zone_temp": 21.15,
+    "outdoor_temp": 15.0,
+    "humidity": 50.0,
+    "pmv": -1.07,
+    "ppd": 29.3,
+    "carbon_gco2": 400,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 726.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 189,
+    "hour": 23,
+    "zone_temp": 21.04,
+    "outdoor_temp": 14.85,
+    "humidity": 50.0,
+    "pmv": -1.11,
+    "ppd": 30.8,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 724.1,
+    "used_fallback": false
+  },
+  {
+    "timestep": 190,
+    "hour": 23,
+    "zone_temp": 20.94,
+    "outdoor_temp": 14.7,
+    "humidity": 50.0,
+    "pmv": -1.14,
+    "ppd": 32.3,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.8,
+    "used_fallback": false
+  },
+  {
+    "timestep": 191,
+    "hour": 23,
+    "zone_temp": 20.84,
+    "outdoor_temp": 14.55,
+    "humidity": 50.0,
+    "pmv": -1.17,
+    "ppd": 33.7,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 728.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 192,
+    "hour": 23,
+    "zone_temp": 20.77,
+    "outdoor_temp": 14.4,
+    "humidity": 50.0,
+    "pmv": -1.19,
+    "ppd": 34.8,
+    "carbon_gco2": 390,
+    "peak_util_pct": 0.0,
+    "setpoint": 27.5,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 727.2,
+    "used_fallback": false
+  }
+]

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Eco-Loop Building Agents - AI-driven HVAC optimization dashboard showing energy savings and comfort analysis">
+  <title>Eco-Loop | AI HVAC Optimization Dashboard</title>
+  <link rel="stylesheet" href="index.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+</head>
+<body>
+  <div class="dashboard" id="dashboard">
+
+    <!-- Header -->
+    <header class="header">
+      <h1>Eco-Loop Building Agents</h1>
+      <p class="subtitle">AI-Driven HVAC Optimization &mdash; Powered by LLM + EnergyPlus</p>
+      <span class="badge">Ollama llama3:8b &bull; 5-Zone Office &bull; Chicago IL</span>
+    </header>
+
+    <!-- Loading State -->
+    <div id="loading-state" class="loading-state">
+      <div class="spinner"></div>
+      <p style="color: var(--text-secondary);">Loading simulation data&hellip;</p>
+    </div>
+
+    <!-- Error State (hidden by default) -->
+    <div id="error-state" class="error-state" style="display:none;">
+      <p style="font-size:1.2rem;">&#9888; Could not load data</p>
+      <p id="error-message" style="color:var(--text-muted);margin-top:8px;"></p>
+    </div>
+
+    <!-- Main Content (hidden until data loads) -->
+    <div id="main-content" style="display:none;">
+
+      <!-- Hero: HVAC Savings -->
+      <div class="hero-card" id="hero-card">
+        <p class="hero-label">HVAC Energy Savings</p>
+        <div class="hero-value"><span id="hero-savings">0.0</span><span class="unit">%</span></div>
+        <p class="hero-detail" id="hero-detail">Baseline vs AI-Controlled (48-hour simulation)</p>
+        <div class="hero-sub-row">
+          <div class="hero-sub-item">
+            <div class="value" id="hero-baseline-kwh">--</div>
+            <div class="label">Baseline kWh</div>
+          </div>
+          <div class="hero-sub-item">
+            <div class="value" id="hero-ai-kwh">--</div>
+            <div class="label">AI kWh</div>
+          </div>
+          <div class="hero-sub-item">
+            <div class="value" id="hero-comfort">--</div>
+            <div class="label">Comfort %</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats Cards -->
+      <div class="stats-grid" style="grid-template-columns: repeat(3, 1fr);">
+        <div class="stat-card">
+          <div class="stat-icon green">&#9889;</div>
+          <div class="stat-label">Total Energy Saved</div>
+          <div class="stat-value" id="stat-total-savings">--</div>
+          <div class="stat-sub" id="stat-total-detail">total kWh reduction</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon green">&#128176;</div>
+          <div class="stat-label">Cost Savings</div>
+          <div class="stat-value" id="stat-cost">--</div>
+          <div class="stat-sub" id="stat-cost-detail">at $0.12/kWh</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon green">&#127793;</div>
+          <div class="stat-label">Carbon Saved</div>
+          <div class="stat-value" id="stat-carbon">--</div>
+          <div class="stat-sub" id="stat-carbon-detail">kgCO2 reduction</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon blue">&#127777;</div>
+          <div class="stat-label">AI Avg Setpoint</div>
+          <div class="stat-value" id="stat-setpoint">--</div>
+          <div class="stat-sub">vs baseline 23.9&deg;C</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon amber">&#127919;</div>
+          <div class="stat-label">PMV Comfort</div>
+          <div class="stat-value" id="stat-pmv">--</div>
+          <div class="stat-sub" id="stat-pmv-detail">Predicted Mean Vote</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon purple">&#9201;</div>
+          <div class="stat-label">MCP Tools / Decision</div>
+          <div class="stat-value" id="stat-tools">4</div>
+          <div class="stat-sub" id="stat-latency-detail">avg 728ms latency</div>
+        </div>
+      </div>
+
+      <!-- Charts Row 1: Energy + Temperature -->
+      <div class="charts-grid">
+        <div class="chart-card">
+          <h3>HVAC Power <span class="tag">W over time</span></h3>
+          <div class="legend">
+            <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI-Controlled</div>
+          </div>
+          <div class="chart-container"><canvas id="chart-energy"></canvas></div>
+        </div>
+
+        <div class="chart-card">
+          <h3>Zone Temperature <span class="tag">Comfort Band</span></h3>
+          <div class="legend">
+            <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> Outdoor</div>
+          </div>
+          <div class="chart-container"><canvas id="chart-temp"></canvas></div>
+        </div>
+      </div>
+
+      <!-- Charts Row 2: Setpoints (full width) -->
+      <div class="charts-grid">
+        <div class="chart-card full-width">
+          <h3>Cooling Setpoint Decisions <span class="tag">LLM vs Fixed Schedule</span></h3>
+          <div class="legend">
+            <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline Schedule</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI Decisions</div>
+            <div class="legend-item"><div class="legend-dot" style="background:rgba(245,158,11,0.3)"></div> Comfort Band [21-26&deg;C]</div>
+          </div>
+          <div class="chart-container short"><canvas id="chart-setpoint"></canvas></div>
+        </div>
+      </div>
+
+    </div><!-- /main-content -->
+
+    <!-- Footer -->
+    <footer class="footer">
+      Eco-Loop Building Agents &bull; Honeywell Case Study &bull;
+      EnergyPlus V26 + Ollama llama3:8b &bull; Built for energy optimization
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
