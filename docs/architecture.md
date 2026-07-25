@@ -2,19 +2,21 @@
 
 ## Overview
 
-Eco-Loop is a closed-loop AI system that uses a local LLM (Ollama llama3:8b) to control a simulated building's HVAC cooling setpoint in real time via EnergyPlus, and proves it saves energy compared to a static baseline schedule.
+Eco-Loop is a closed-loop AI system that uses a local LLM (Ollama llama3:8b) to control a simulated building's HVAC cooling setpoint in real time via EnergyPlus. It employs a Model Context Protocol (MCP) tool-calling architecture to evaluate PMV comfort, carbon grid intensity, and peak demand thresholds autonomously.
 
 ```
 +-------------------+     sensor data     +-------------------+
-|   EnergyPlus      | ------------------> |   LLM Agent       |
-|   Simulation      |                     |   (Ollama)        |
-|   (5-Zone Office) | <------------------ |   llama3:8b       |
-+-------------------+     setpoint        +-------------------+
-         |                                         |
-         v                                         v
-  output/baseline/                          output/ai_controlled/
-  timestep_log.json                         timestep_log.json
-         |                                         |
+|   EnergyPlus      | ------------------> |   MCP Tool Server |
+|   Simulation      |                     |   (7 tools)       |
+|   (5-Zone Office) | <------------------ |                   |
++-------------------+      setpoint       +---------+---------+
+         |                                          ^
+         v                                          | (JSON tool calls)
+  output/baseline/                        +---------+---------+
+  timestep_log.json                       |   LLM Agent       |
+         |                                |   (Ollama)        |
+         |                                |   llama3:8b       |
+         |                                +-------------------+
          +------------+       +--------------------+
                       |       |
                       v       v
@@ -35,84 +37,70 @@ Eco-Loop is a closed-loop AI system that uses a local LLM (Ollama llama3:8b) to 
 
 ## Component Details
 
-### 1. IDF Patcher (`src/idf_patcher.py`)
+### 1. The Cognitive Engine & Tool-Calling Architecture (`src/mcp_server.py`, `src/mcp_agent.py`)
 
-**Purpose:** Prepares two variants of the 5ZoneAirCooled.idf building model.
+**Tool-Calling Architecture:**
+Since local `llama3:8b` models often struggle with native OpenAI-style tool APIs, we implemented a **prompt-based agentic tool-calling architecture**.
+- The `MCPToolServer` registers 7 tools (e.g., `calculate_pmv`, `get_carbon_intensity`, `get_peak_demand_status`, `parse_idf_info`, `get_error_log`).
+- At each timestep, the agent pre-fetches deterministic context (PMV, carbon, peak demand) using these tools.
+- The agent passes this rich context to the LLM and demands a strict JSON tool call response (e.g., `{"tool": "set_cooling_setpoint", "args": {"value_c": 24.5}}`).
+- The Python orchestrator parses the JSON, executes the MCP tool on the server, and injects the result back into EnergyPlus.
 
-| IDF | Description |
-|-----|-------------|
-| `baseline` | Original cooling schedule (Clg-SetP-Sch), run period shortened to Jul 1-2, extra output variables added |
-| `ai` | All baseline patches + `Schedule:Constant` actuator (`AI_Cooling_Setpoint_Sch`) + thermostat references patched to use it |
+### 2. Prompt Engineering Strategies
 
-**Key design decision:** Text-based string replacement rather than full IDF parsing — simpler, fewer dependencies, and sufficient for targeted patches.
+- **Strict JSON Enforcement:** We use Ollama's `format` parameter with a strict JSON schema for the tool call to eliminate parsing errors and hallucinated formatting.
+- **Context Distillation:** Instead of dumping raw IDF files into the prompt, the agent uses the `parse_idf_info` tool to extract only relevant building parameters.
+- **Rules-Based Guardrails:** The system prompt explicitly defines operational boundaries:
+  - "During occupied hours (6am-8pm): Use 24.0-25.5°C"
+  - "If PMV > 0.5 (warm): Lower setpoint by 0.5°C"
+  - "NEVER set below 23°C or above 28°C"
+- **Low Temperature:** We use a generation temperature of `0.3` to ensure deterministic, highly focused responses.
 
-### 2. EnergyPlus Bridge (`src/ep_bridge.py`)
+### 3. Prompt Latency Management
+
+- **Local GPU Execution:** We host Ollama locally, eliminating network round-trips and API rate limits.
+- **Context Truncation:** We pass only the current timestep's sensor readings rather than the entire historical log. The LLM acts as a Markov decision process (relying only on current state), drastically reducing prompt token count and keeping latency under 1 second per decision.
+- **Pre-fetching:** Deterministic tools (like PMV math and carbon lookups) are executed *before* calling the LLM, reducing the number of LLM inference cycles required per timestep.
+
+### 4. Handling Lengthy Simulation Logs
+
+- **In-Memory Streaming vs Disk I/O:** Rather than writing logs to disk and parsing them later, the `ep_bridge.py` uses the `pyenergyplus` API to stream variables in memory via callbacks (`callback_begin_zone_timestep_after_init_heat_balance`).
+- **Targeted Extraction:** The MCP `get_error_log` tool uses targeted string matching (`** Severe **` and `** Warning **`) to parse the `eplusout.err` file efficiently without loading the entire multi-megabyte log into memory or the LLM's context window.
+
+### 5. EnergyPlus Bridge (`src/ep_bridge.py`)
 
 **Purpose:** Wraps the EnergyPlus Python API for library-mode simulation with timestep callbacks.
 
 **Architecture:**
 - Registers `callback_begin_zone_timestep_after_init_heat_balance` — runs after zone heat balance init but before HVAC calculations (ideal for setpoint injection)
-- Initializes 7 sensor handles + 1 actuator handle on first real timestep (after `api_data_fully_ready`)
+- Initializes 8 sensor handles (including Zone Humidity for PMV) + 1 actuator handle on first real timestep (after `api_data_fully_ready`)
 - Skips warmup periods via `warmup_flag` check
 - Accepts a pluggable `on_timestep(sensor_data) -> Optional[float]` callback
-  - `None` = baseline mode (no override)
-  - `agent.decide` = AI mode (LLM makes decisions)
-
-**Sensor handles:**
-| Variable | Key |
-|----------|-----|
-| Zone Air Temperature | SPACE1-1 |
-| Site Outdoor Air Drybulb Temperature | Environment |
-| Zone Thermostat Cooling Setpoint Temperature | SPACE1-1 |
-| Zone Air System Sensible Cooling Rate | SPACE1-1 |
-| Chiller Electricity Rate | CENTRAL CHILLER |
-| Facility Total HVAC Electricity Demand Rate | Whole Building |
-| Facility Total Electricity Demand Rate | Whole Building |
 
 **Actuator:** `Schedule:Constant / Schedule Value / AI_Cooling_Setpoint_Sch`
 
-### 3. LLM Agent (`src/llm_agent.py`)
-
-**Purpose:** Makes HVAC cooling setpoint decisions using structured LLM inference.
-
-**Inference pipeline:**
-```
-Sensor Data --> Format Prompt --> Ollama Chat API --> JSON Parse --> Clamp [23, 28]°C --> Return
-                                       |                  |
-                                       v (fail)           v (fail)
-                                  Retry (3x)        Regex Fallback
-                                       |                  |
-                                       v (fail x3)        |
-                                  Heuristic Rule-based ---+
-```
-
-**Key design decisions:**
-- **JSON schema enforcement** via Ollama `format=` parameter (not free-text parsing)
-- **Temperature 0.3** for consistency (low randomness in setpoint decisions)
-- **Clamping floor at 23°C** (not 20°C) to prevent crossing below the heating setpoint (22.2°C) + deadband, which causes EnergyPlus DualSetPoint errors
-- **Heuristic fallback** ensures the system never crashes even if the LLM is down
-
-### 4. Runners (`src/baseline_runner.py`, `src/ai_runner.py`)
+### 6. Runners (`src/baseline_runner.py`, `src/ai_runner.py`)
 
 **Purpose:** Execute simulations and save results.
 
 - **Baseline:** `EnergyPlusBridge(on_timestep=None, enable_actuator=False)`
 - **AI:** `EnergyPlusBridge(on_timestep=agent.decide, enable_actuator=True)`
 
-### 5. Analysis Engine (`src/analysis.py`, `src/comfort.py`)
+### 7. Analysis Engine (`src/analysis.py`, `src/comfort.py`, `src/pmv.py`)
 
 **Purpose:** Compares baseline vs AI runs quantitatively.
 
 **Metrics calculated:**
 - Energy: total kWh, HVAC kWh, peak power, savings %
-- Comfort: % occupied timesteps within [21, 26]°C, violation counts, excursions
-- Agent: average setpoint, latency, failure rate
+- Comfort: ISO 7730 PMV/PPD index tracking, % occupied timesteps within [21, 26]°C
+- Costs: Dollar savings calculated via hourly grid usage
+- Agent: average setpoint, latency, tool calls
 
 **Outputs:**
 - `results/comparison_data.json` — structured data for dashboard (32 KB)
 - `results/summary_report.md` — human-readable findings
 
-### 6. Dashboard (`dashboard/`)
+### 8. Dashboard (`dashboard/`)
 
 **Purpose:** Interactive visualization of results.
 
@@ -123,7 +111,7 @@ Sensor Data --> Format Prompt --> Ollama Chat API --> JSON Parse --> Clamp [23, 
   2. Zone Temperature with comfort band annotation
   3. Cooling Setpoint decisions (stepped line, LLM vs fixed schedule)
 
-### 7. Orchestrator (`main.py`)
+### 9. Orchestrator (`main.py`)
 
 **Purpose:** End-to-end pipeline runner.
 
@@ -176,9 +164,11 @@ python main.py --no-dashboard
 
 | Metric | Value |
 |--------|-------|
-| HVAC Energy Savings | **6.34%** |
-| Total Energy Savings | **1.5%** |
-| Comfort Maintained | 98.2% (no degradation) |
-| LLM Reliability | 192/192 (100%) |
-| LLM Latency | 863ms avg |
-| Simulation Runtime | ~3 min (incl. LLM calls) |
+| HVAC Energy Savings | **7.53%** |
+| Total Energy Savings | **1.78%** |
+| Cost Savings | **$0.69 / 48hr** |
+| Carbon Reductions | **3.04 kgCO2** |
+| Comfort Maintained | **PMV -0.30 (Neutral)** |
+| LLM Reliability | **100%** (192/192 decisions) |
+| Tool Calls | **768** (4 tools per decision) |
+| Avg Latency | **~728ms** |
