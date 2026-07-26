@@ -8,15 +8,17 @@ AI-driven HVAC optimization using a local LLM (Ollama llama3:8b) to control a si
 
 | Metric | Value |
 |--------|-------|
-| **HVAC Energy Savings** | **12.55%** |
-| Total Energy Savings | 3.37% |
+| **HVAC Energy Savings** | **12.6%** |
+| Total Energy Savings | 3.4% |
 | Heuristic-only Savings | 7.5% |
 | LLM Incremental (over heuristic) | 5.05% |
 | Comfort Maintained | 97.7% |
 | PMV Average (Occupied) | -0.26 (near-neutral) |
 | LLM Reliability | 672/672 decisions (100%) |
-| LLM Latency | 772ms avg per decision |
-| Fail-Safe Tested | 3/3 scenarios validated |
+| LLM Token Usage | ~557 Prompt / 24 Completion |
+| LLM Latency | 788ms avg per decision |
+| Fail-Safe Tested | 3/3 scenarios validated (0 triggered in live run) |
+| Recovery Spikes | 15 events (&Delta; &ge; 1.5&deg;C) |
 
 ## Architecture
 

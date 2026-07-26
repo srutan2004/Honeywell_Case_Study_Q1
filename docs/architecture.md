@@ -250,6 +250,8 @@ The three-tier fail-safe pipeline (JSON parse → regex fallback → rule-based 
 | **B** | LLM completely unavailable (wrong model name) | **PASS** — heuristic fallback engaged, returned safe 25.0°C |
 | **C** | Out-of-range values (15°C, 99°C, 10°C) | **PASS** — all clamped to [23, 30]°C bounds (4/4 cases) |
 
+*Live Run Performance:* During the full 7-day simulation (672 decisions), the LLM achieved 100% schema reliability. **Zero** regex fallbacks, **zero** heuristic fallbacks, and **zero** out-of-bounds clamps were required.
+
 ## Known Limitations
 
 1. **Comfort ceiling proximity during peak heat:** During peak afternoon heat, the AI-controlled zone temperature runs closer to the upper comfort boundary (26°C) than the baseline schedule at the same hours, though it remains within the defined comfort band throughout. This reflects the AI's strategy of trading a smaller comfort margin for reduced cooling energy; a wider safety margin could be enforced by tightening the occupied-hours setpoint range if a more conservative approach is preferred.
