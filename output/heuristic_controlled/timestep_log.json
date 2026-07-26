@@ -3108,7 +3108,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.5,
-    "callback_latency_ms": 1.0
+    "callback_latency_ms": 0.0
   },
   {
     "month": 6,

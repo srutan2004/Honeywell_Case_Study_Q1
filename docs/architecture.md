@@ -131,7 +131,7 @@ During peak afternoon heat (e.g., Day 2 from 12:00 to 18:00), the AI's cooling s
 
 **Prompt Latency Management:**
 - **Local GPU Execution:** We host Ollama locally, eliminating network round-trips and API rate limits.
-- **Context Truncation:** We pass only the current timestep's sensor readings rather than the entire historical log. The LLM acts as a Markov decision process (relying only on current state), drastically reducing prompt token count and keeping latency under 1 second per decision.
+- **Prompt Context:** We pass the current timestep's sensor readings and tool outputs (PMV, Carbon, Peak) alongside a 3-step trailing memory array of past decisions. This maintains agent awareness of recent behavior while keeping the prompt token count manageable (~550 tokens) and latency under 1 second per decision.
 - **Pre-fetching:** Deterministic tools (like PMV math and carbon lookups) are executed *before* calling the LLM, reducing the number of LLM inference cycles required per timestep.
 
 **Handling Lengthy Simulation Logs:**
@@ -256,11 +256,11 @@ The three-tier fail-safe pipeline (JSON parse → regex fallback → rule-based 
 
 2. **Setpoint oscillation pattern — mixed correlation finding:** Analysis of the full 7-day extended run reveals a nuanced pattern:
    - **On hot days (e.g., June 27-28, outdoor temps 29-31°C):** Oscillation strongly correlates with Peak Demand Status. When HVAC utilization spikes above 85-145% of the 4000W threshold, the AI raises setpoints to 26.0-27.0°C to shed load; when utilization drops, it lowers setpoints to 24.5°C. The average peak utilization when setpoints rise is 70.4% vs 60.5% when they drop — a clear directional signal.
-   - **On cool days (e.g., June 29, outdoor temps 17-23°C):** HVAC power is near zero, peak utilization is 0%, yet the LLM still alternates between 24.0-24.5°C. This mild oscillation is decision noise — the LLM re-evaluates similar states independently at each timestep without a smoothing mechanism.
+   - **On cool days (e.g., June 29, outdoor temps 17-23°C):** HVAC power is near zero, peak utilization is 0%, yet the LLM still alternates between 24.0-24.5°C. This mild oscillation is decision noise — although the LLM receives its recent history in the prompt, the low-stakes nature of the cool day provides insufficient signal to lock onto a single stable setpoint.
    - **Carbon intensity** shows only 30 gCO2/kWh variation within any afternoon window (510→540), which is insufficient to drive setpoint changes. Carbon is not a meaningful oscillation driver.
    - **Conclusion:** The oscillation is a genuine peak-demand response feature on hot/high-load days, and acknowledged decision noise on cool/low-load days where the signal isn't strong enough to stabilize behavior.
 
-3. **Peak Demand Overshoot (Recurring Prompt Rule Conflict):** The `PEAK_DEMAND_THRESHOLD` is set to 4000W, but the AI-controlled run produced a peak of 6,989W (higher than the baseline's 6,240W peak). Analysis of the timesteps reveals this is not an isolated glitch, but a recurring pattern (observed 19 times during occupied hours) driven by a conflict in the prompt rules:
+3. **Peak Demand Overshoot (Recurring Prompt Rule Conflict):** The `PEAK_DEMAND_THRESHOLD` is set to 4000W, but the AI-controlled run produced a peak of 6,989W (higher than the baseline's 6,240W peak). Analysis of the timesteps reveals this is not an isolated glitch, but a recurring pattern (observed 15 times during occupied hours) driven by a conflict in the prompt rules:
    - The AI successfully sheds load during peak hours by raising the setpoint to 26.0-27.0°C (keeping power near 3,900W).
    - However, when the zone temperature drifts up and breaches the comfort threshold (PMV > 0.5), the AI prioritizes the "restore comfort" rule over the "shed load" and "gradual change" rules.
    - Instead of ramping down gently, it repeatedly issues a sudden 1.5-2.5°C setpoint drop (e.g., from 27.0°C directly to 24.5°C) in a single timestep. This massive, instant setpoint reduction forces the simulated HVAC to run at absolute maximum capacity (6,989W) to recover the temperature.

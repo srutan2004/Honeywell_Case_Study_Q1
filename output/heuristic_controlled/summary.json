@@ -9,7 +9,5 @@
   "peak_hvac_power_w": 5769.3,
   "avg_ai_setpoint": 26.59,
   "min_ai_setpoint": 24.0,
-  "max_ai_setpoint": 29.5,
-  "avg_llm_latency_ms": 1.0,
-  "max_llm_latency_ms": 1.0
+  "max_ai_setpoint": 29.5
 }

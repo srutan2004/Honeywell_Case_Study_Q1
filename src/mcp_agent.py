@@ -90,6 +90,8 @@ class MCPAgent:
         self.failures = 0
         self.fallbacks = 0
         self.total_tool_calls = 0
+        self.total_prompt_tokens = 0
+        self.total_completion_tokens = 0
         self.memory = []  # Stores last few (zone_temp, setpoint) dicts
 
     def decide(self, sensor_data, mcp_server):
@@ -147,6 +149,8 @@ class MCPAgent:
         ]
 
         setpoint = None
+        prompt_tokens = 0
+        completion_tokens = 0
         tool_calls_made = ["calculate_pmv", "get_carbon_intensity", "get_peak_demand_status"]
         self.total_tool_calls += 3
 
@@ -158,6 +162,9 @@ class MCPAgent:
                 format=TOOL_CALL_SCHEMA,
                 options={"temperature": 0.0},
             )
+            
+            prompt_tokens += response.get("prompt_eval_count", 0)
+            completion_tokens += response.get("eval_count", 0)
 
             content = response.get("message", {}).get("content", "")
             parsed = self._parse_tool_call(content)
@@ -190,6 +197,10 @@ class MCPAgent:
                     format=TOOL_CALL_SCHEMA,
                     options={"temperature": 0.0},
                 )
+                
+                prompt_tokens += response2.get("prompt_eval_count", 0)
+                completion_tokens += response2.get("eval_count", 0)
+                
                 content2 = response2.get("message", {}).get("content", "")
                 parsed2 = self._parse_tool_call(content2)
 
@@ -222,9 +233,13 @@ class MCPAgent:
             self.fallbacks += 1
             tool_calls_made.append("heuristic_fallback")
 
+        raw_setpoint = setpoint
+
         # Final clamp
         setpoint = max(config.COOLING_SETPOINT_MIN,
                        min(config.COOLING_SETPOINT_MAX, setpoint))
+        
+        clamped = raw_setpoint != setpoint
 
         # Update memory
         self.memory.append({"zone_temp": zone_t, "setpoint": setpoint})
@@ -233,6 +248,9 @@ class MCPAgent:
 
         elapsed = (time.time() - start) * 1000
         self.total_latency += elapsed
+        
+        self.total_prompt_tokens += prompt_tokens
+        self.total_completion_tokens += completion_tokens
         self.max_latency = max(self.max_latency, elapsed)
         self.min_latency = min(self.min_latency, elapsed)
 
@@ -248,6 +266,9 @@ class MCPAgent:
             "carbon_gco2": carbon_data["carbon_intensity_gco2_kwh"],
             "peak_util_pct": peak_data["utilization_pct"],
             "setpoint": setpoint,
+            "prompt_tokens": prompt_tokens,
+            "completion_tokens": completion_tokens,
+            "clamped": clamped,
             "tools_called": tool_calls_made,
             "latency_ms": round(elapsed, 1),
             "used_fallback": "heuristic_fallback" in tool_calls_made,
@@ -355,6 +376,10 @@ class MCPAgent:
             "avg_latency_ms": round(self.total_latency / max(1, self.call_count), 1),
             "max_latency_ms": round(self.max_latency, 1),
             "min_latency_ms": round(self.min_latency, 1),
+            "total_prompt_tokens": self.total_prompt_tokens,
+            "total_completion_tokens": self.total_completion_tokens,
+            "avg_prompt_tokens": round(self.total_prompt_tokens / max(1, self.call_count), 1),
+            "avg_completion_tokens": round(self.total_completion_tokens / max(1, self.call_count), 1),
         }
 
     def save_decisions(self, path):

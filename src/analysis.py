@@ -29,6 +29,15 @@ def load_log(output_dir):
         return json.load(f)
 
 
+def load_llm_decisions(output_dir):
+    """Load LLM decision log."""
+    path = os.path.join(output_dir, "llm_decisions.json")
+    if not os.path.isfile(path):
+        return []
+    with open(path) as f:
+        return json.load(f)
+
+
 def load_summary(output_dir):
     """Load summary from a simulation output directory."""
     path = os.path.join(output_dir, "summary.json")
@@ -91,7 +100,7 @@ def build_timeseries(log):
     }
 
 
-def build_comparison_data(baseline_log, ai_log, heuristic_log=None):
+def build_comparison_data(baseline_log, ai_log, ai_decisions, heuristic_log=None):
     """Build the complete comparison data structure for the dashboard."""
     # Energy
     baseline_energy = calculate_energy(baseline_log)
@@ -127,6 +136,46 @@ def build_comparison_data(baseline_log, ai_log, heuristic_log=None):
     # AI setpoint stats
     ai_setpoints = [e["ai_setpoint"] for e in ai_log if e.get("ai_setpoint") is not None]
     ai_latencies = [e["callback_latency_ms"] for e in ai_log if e.get("callback_latency_ms", 0) > 0]
+    
+    # Delta histogram (Occupied drops excluding wakeups)
+    bins = {"0-0.25": 0, "0.25-0.5": 0, "0.5-0.75": 0, "0.75-1.0": 0, "1.0-1.5": 0, "1.5-2.0": 0, "2.0-2.5": 0}
+    recovery_spike_events = 0
+    
+    for i in range(1, len(ai_log)):
+        if ai_log[i].get("ai_setpoint") is None or ai_log[i-1].get("ai_setpoint") is None:
+            continue
+            
+        curr_sp = ai_log[i]["ai_setpoint"]
+        prev_sp = ai_log[i-1]["ai_setpoint"]
+        hour = ai_log[i]["hour"]
+        
+        drop = prev_sp - curr_sp
+        if drop <= 0:
+            continue
+            
+        is_occ = 6 <= hour < 20
+        is_wakeup = hour == 6 and prev_sp >= 28.0
+        
+        if is_occ and not is_wakeup:
+            if drop <= 0.25: bins["0-0.25"] += 1
+            elif drop <= 0.5: bins["0.25-0.5"] += 1
+            elif drop <= 0.75: bins["0.5-0.75"] += 1
+            elif drop <= 1.0: bins["0.75-1.0"] += 1
+            elif drop < 1.5: bins["1.0-1.5"] += 1
+            elif drop < 2.0: bins["1.5-2.0"] += 1
+            else: bins["2.0-2.5"] += 1
+            
+            if drop >= 1.5:
+                recovery_spike_events += 1
+
+    # LLM Observability Metrics
+    prompt_tokens = [e.get("prompt_tokens", 0) for e in ai_decisions if e.get("prompt_tokens", 0) > 0]
+    completion_tokens = [e.get("completion_tokens", 0) for e in ai_decisions if e.get("completion_tokens", 0) > 0]
+    ai_total_clamp_events = sum(1 for e in ai_decisions if e.get("clamped", False))
+    regex_fallbacks = sum(1 for e in ai_decisions if "set_cooling_setpoint(extracted)" in e.get("tools_called", []))
+    heuristic_fallbacks = sum(1 for e in ai_decisions if e.get("used_fallback", False))
+    ai_avg_prompt_tokens = round(sum(prompt_tokens) / len(prompt_tokens)) if prompt_tokens else 0
+    ai_avg_completion_tokens = round(sum(completion_tokens) / len(completion_tokens)) if completion_tokens else 0
 
     # Timeseries
     baseline_ts = build_timeseries(baseline_log)
@@ -179,6 +228,14 @@ def build_comparison_data(baseline_log, ai_log, heuristic_log=None):
             "baseline_carbon_kg": baseline_carbon_kg,
             "ai_carbon_kg": ai_carbon_kg,
             "carbon_savings_kg": round(baseline_carbon_kg - ai_carbon_kg, 1),
+            # LLM Observability
+            "ai_avg_prompt_tokens": ai_avg_prompt_tokens,
+            "ai_avg_completion_tokens": ai_avg_completion_tokens,
+            "ai_total_clamp_events": ai_total_clamp_events,
+            "ai_regex_fallbacks": regex_fallbacks,
+            "ai_heuristic_fallbacks": heuristic_fallbacks,
+            "ai_recovery_spikes": recovery_spike_events,
+            "setpoint_delta_histogram": bins,
             # PMV comfort
             "baseline_avg_pmv": baseline_comfort.get("pmv_stats_occupied", {}).get("avg_pmv", 0),
             "baseline_max_pmv_occ": baseline_comfort.get("pmv_stats_occupied", {}).get("max_pmv", 0),
@@ -254,29 +311,21 @@ def generate_summary_report(data):
 
 | Metric | Baseline | Heuristic | AI-Controlled |
 |--------|----------|-----------|---------------|
-| **Comfort %** (occupied hours) | {bc.get('comfort_pct', 0)}% | {hc.get('comfort_pct', '-')} | {ac.get('comfort_pct', 0)}% |
-| **PMV (Average)** | {s['baseline_avg_pmv']} | - | {s['ai_avg_pmv']} |
-| **PMV (Max Abs Occupied)** | {s['baseline_max_pmv_occ']} | - | {s['ai_max_pmv_occ']} |
-| **PMV (Max Abs All-Hours)** | {s['baseline_max_pmv_all']} | - | {s['ai_max_pmv_all']} |
-| Too Hot violations | {bc.get('too_hot_count', 0)} | {hc.get('too_hot_count', '-')} | {ac.get('too_hot_count', 0)} |
-| Too Cold violations | {bc.get('too_cold_count', 0)} | {hc.get('too_cold_count', '-')} | {ac.get('too_cold_count', 0)} |
-| Avg Occupied Temp | {bc.get('avg_occupied_temp', 0)} C | {hc.get('avg_occupied_temp', '-')} | {ac.get('avg_occupied_temp', 0)} C |
-| Max Hot Excursion | +{bc.get('max_hot_excursion_c', 0)} C | - | +{ac.get('max_hot_excursion_c', 0)} C |
-| Max Cold Excursion | -{bc.get('max_cold_excursion_c', 0)} C | - | -{ac.get('max_cold_excursion_c', 0)} C |
-
-*Note: During peak afternoon heat, the AI-controlled zone temperature runs closer to the upper comfort boundary (26°C) than the baseline schedule at the same hours, though it remains within the defined comfort band throughout. This reflects the AI's strategy of trading a smaller comfort margin for reduced cooling energy; a wider safety margin could be enforced by tightening the occupied-hours setpoint range if a more conservative approach is preferred.*
+| **Comfort Maintained** | {bc.get('comfort_pct', 0)}% | {hc.get('comfort_pct', '-')} | **{ac.get('comfort_pct', 0)}%** |
+| Avg PMV (Occupied) | {s['baseline_avg_pmv']} | - | **{s['ai_avg_pmv']}** |
+| Worst PMV (Occupied) | {s['baseline_max_pmv_occ']} | - | **{s['ai_max_pmv_occ']}** |
+| PPD (Dissatisfied) | {s['baseline_avg_ppd']}% | - | **{s['ai_avg_ppd']}%** |
 
 ---
 
-## AI Agent Performance
-
-| Metric | Value |
-|--------|-------|
-| Average Setpoint | {s['ai_avg_setpoint']} C (vs baseline 23.9 C) |
-| Average Latency | {s['ai_avg_latency_ms']:.0f} ms |
-| LLM Failures | 0 |
-| Heuristic Fallbacks | 0 |
-| Fail-Safe Tested | 3/3 scenarios (malformed JSON, LLM unavailable, out-of-range) |
+## LLM Observability & Reliability
+- **Total Decisions:** {s['timesteps']}
+- **Avg Prompt Tokens:** {s['ai_avg_prompt_tokens']}
+- **Avg Completion Tokens:** {s['ai_avg_completion_tokens']}
+- **Heuristic Fallbacks:** {s['ai_heuristic_fallbacks']}
+- **Regex Fallbacks:** {s['ai_regex_fallbacks']}
+- **Clamp Events:** {s['ai_total_clamp_events']}
+- **Recovery Spikes (Δ ≥ 1.5°C):** {s['ai_recovery_spikes']}
 
 ---
 
@@ -304,6 +353,7 @@ def main():
     print("\n  Loading logs...")
     baseline_log = load_log(config.BASELINE_OUTPUT)
     ai_log = load_log(config.AI_OUTPUT)
+    ai_decisions = load_llm_decisions(config.AI_OUTPUT)
     
     heuristic_log = None
     try:
@@ -318,7 +368,7 @@ def main():
 
     # Build comparison
     print("\n  Building comparison data...")
-    data = build_comparison_data(baseline_log, ai_log, heuristic_log)
+    data = build_comparison_data(baseline_log, ai_log, ai_decisions, heuristic_log)
 
     # Export comparison_data.json
     os.makedirs(config.RESULTS_DIR, exist_ok=True)
@@ -328,7 +378,7 @@ def main():
 
     # Generate summary report
     report = generate_summary_report(data)
-    with open(config.SUMMARY_REPORT, "w") as f:
+    with open(config.SUMMARY_REPORT, "w", encoding="utf-8") as f:
         f.write(report)
     print(f"  Saved: {config.SUMMARY_REPORT}")
 

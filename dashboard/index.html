@@ -103,7 +103,19 @@
           <div class="stat-icon purple">&#9201;</div>
           <div class="stat-label">MCP Tools / Decision</div>
           <div class="stat-value" id="stat-tools">4</div>
-          <div class="stat-sub" id="stat-latency-detail">avg 728ms latency</div>
+          <div class="stat-sub" id="stat-latency-detail">avg --ms latency</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon purple">&#128065;</div>
+          <div class="stat-label">LLM Observability &amp; Reliability</div>
+          <div class="stat-value" style="font-size: 1.1rem; padding-top: 4px;">
+            Tokens: <span id="stat-prompt-tokens">--</span> in / <span id="stat-completion-tokens">--</span> out
+          </div>
+          <div class="stat-sub" style="font-size: 0.8rem; line-height: 1.4; margin-top: 5px; color: var(--text-secondary);">
+            Spikes (&ge;1.5&deg;): <span id="stat-spikes" style="color: #ef4444; font-weight: bold;">--</span> | Clamps: <span id="stat-clamps">--</span><br>
+            Fallbacks: <span id="stat-regex-fb">--</span> (regex), <span id="stat-heuristic-fb">--</span> (heur)<br>
+            Avg Latency: <span id="stat-latency-new">--</span>ms | Decisions: <span id="stat-decisions">672</span>
+          </div>
         </div>
       </div>
 
@@ -142,6 +154,17 @@
             <div class="legend-item"><div class="legend-dot" style="background:rgba(245,158,11,0.3)"></div> Comfort Band [21-26&deg;C]</div>
           </div>
           <div class="chart-container short"><canvas id="chart-setpoint"></canvas></div>
+        </div>
+      </div>
+      
+      <!-- Charts Row 3: Histogram (full width) -->
+      <div class="charts-grid">
+        <div class="chart-card full-width">
+          <h3>Setpoint Delta Histogram <span class="tag">Behavior Distribution</span></h3>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 5px; margin-bottom: 10px;">
+            15 recovery-spike events (&Delta; &ge; 1.5&deg;C) &mdash; see Known Limitations.
+          </p>
+          <div class="chart-container short"><canvas id="chart-histogram"></canvas></div>
         </div>
       </div>
 

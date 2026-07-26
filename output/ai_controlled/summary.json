@@ -11,8 +11,8 @@
     "avg_ai_setpoint": 26.3,
     "min_ai_setpoint": 23.5,
     "max_ai_setpoint": 29.5,
-    "avg_llm_latency_ms": 777.1,
-    "max_llm_latency_ms": 5329.1
+    "avg_llm_latency_ms": 787.6,
+    "max_llm_latency_ms": 5873.9
   },
   "agent": {
     "total_decisions": 672,
@@ -21,9 +21,13 @@
     "llm_success_rate": 100.0,
     "total_mcp_tool_calls": 2688,
     "avg_tools_per_decision": 4.0,
-    "avg_latency_ms": 777.0,
-    "max_latency_ms": 5329.1,
-    "min_latency_ms": 708.4
+    "avg_latency_ms": 787.5,
+    "max_latency_ms": 5873.9,
+    "min_latency_ms": 713.7,
+    "total_prompt_tokens": 374184,
+    "total_completion_tokens": 16128,
+    "avg_prompt_tokens": 556.8,
+    "avg_completion_tokens": 24.0
   },
   "mode": "MCP_agentic"
 }

@@ -114,6 +114,18 @@
       latEl.textContent = `avg ${Math.round(s.ai_avg_latency_ms)}ms latency`;
     }
 
+    // LLM Observability
+    if (document.getElementById('stat-prompt-tokens')) {
+      document.getElementById('stat-prompt-tokens').textContent = s.ai_avg_prompt_tokens || 0;
+      document.getElementById('stat-completion-tokens').textContent = s.ai_avg_completion_tokens || 0;
+      document.getElementById('stat-spikes').textContent = s.ai_recovery_spikes || 0;
+      document.getElementById('stat-clamps').textContent = s.ai_total_clamp_events || 0;
+      document.getElementById('stat-regex-fb').textContent = s.ai_regex_fallbacks || 0;
+      document.getElementById('stat-heuristic-fb').textContent = s.ai_heuristic_fallbacks || 0;
+      document.getElementById('stat-latency-new').textContent = Math.round(s.ai_avg_latency_ms || 0);
+      document.getElementById('stat-decisions').textContent = s.timesteps || 672;
+    }
+
     // Prepare sampled data (show every point for 192 steps)
     const N = 1; // show all points
     const labels = sampleEvery(ts.timestamps, N);
@@ -342,6 +354,38 @@
         },
       },
     });
+
+    // ─── Chart 4: Histogram ────────────────────
+    if (document.getElementById('chart-histogram') && s.setpoint_delta_histogram) {
+      const hist = s.setpoint_delta_histogram;
+      const histLabels = Object.keys(hist);
+      const histData = Object.values(hist);
+      const bgColors = histLabels.map(l => (l === '1.5-2.0' || l === '2.0-2.5') ? 'rgba(239,68,68,0.8)' : 'rgba(59,130,246,0.6)');
+      
+      new Chart(document.getElementById('chart-histogram'), {
+        type: 'bar',
+        data: {
+          labels: histLabels,
+          datasets: [{
+            label: 'Decision Count',
+            data: histData,
+            backgroundColor: bgColors,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+          },
+          scales: {
+            y: { title: { display: true, text: 'Number of Decisions' } },
+            x: { title: { display: true, text: 'Absolute Setpoint Delta (°C)' } }
+          }
+        }
+      });
+    }
+
   }
 
 })();
