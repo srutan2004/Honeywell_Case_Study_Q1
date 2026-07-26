@@ -1,0 +1,15 @@
+{
+  "timesteps": 672,
+  "total_kwh": 919.36,
+  "hvac_kwh": 232.98,
+  "avg_zone_temp": 22.64,
+  "min_zone_temp": 19.29,
+  "max_zone_temp": 25.42,
+  "peak_total_power_w": 17520.9,
+  "peak_hvac_power_w": 5769.3,
+  "avg_ai_setpoint": 26.59,
+  "min_ai_setpoint": 24.0,
+  "max_ai_setpoint": 29.5,
+  "avg_llm_latency_ms": 1.0,
+  "max_llm_latency_ms": 1.0
+}

@@ -67,11 +67,20 @@
     document.getElementById('hero-baseline-kwh').textContent = s.baseline_hvac_kwh.toFixed(1);
     document.getElementById('hero-ai-kwh').textContent = s.ai_hvac_kwh.toFixed(1);
     document.getElementById('hero-comfort').textContent = s.ai_comfort_pct + '%';
+    document.getElementById('hero-detail').textContent =
+      `Baseline vs AI-Controlled (${s.simulation_hours}h / ${Math.round(s.simulation_hours/24)} days)`;
 
     // Stat cards
     animateNumber(document.getElementById('stat-total-savings'), s.total_savings_pct, '%', 1500);
     document.getElementById('stat-total-detail').textContent =
       `${s.baseline_total_kwh} -> ${s.ai_total_kwh} kWh`;
+
+    const heuristicEl = document.getElementById('stat-heuristic-savings');
+    if (heuristicEl && s.heuristic_hvac_savings_pct !== undefined) {
+      animateNumber(heuristicEl, s.heuristic_hvac_savings_pct, '% (HVAC)', 1500);
+      document.getElementById('stat-heuristic-detail').textContent =
+        `LLM Incremental: ${s.llm_incremental_savings_pct}%`;
+    }
 
     // Cost savings
     const costEl = document.getElementById('stat-cost');
@@ -91,12 +100,12 @@
 
     document.getElementById('stat-setpoint').textContent = s.ai_avg_setpoint + '\u00B0C';
 
-    // PMV
+    // PMV — show average as headline, worst-case in subtext
     const pmvEl = document.getElementById('stat-pmv');
     if (pmvEl && s.ai_avg_pmv !== undefined) {
-      pmvEl.textContent = s.ai_avg_pmv;
+      pmvEl.textContent = s.ai_avg_pmv + ' (Avg)';
       document.getElementById('stat-pmv-detail').textContent =
-        `PPD: ${s.ai_avg_ppd}% | Baseline PMV: ${s.baseline_avg_pmv}`;
+        `Worst: ${s.ai_max_pmv_occ} | All-hrs: ${s.ai_max_pmv_all} | Baseline: ${s.baseline_max_pmv_occ}`;
     }
 
     // MCP tools / latency
@@ -124,6 +133,18 @@
             fill: true,
             tension: 0.3,
             pointRadius: 0,
+          },
+          {
+            label: 'Heuristic HVAC (W)',
+            data: sampleEvery(ts.heuristic_hvac_power || [], N),
+            borderColor: '#f59e0b',
+            backgroundColor: 'rgba(245,158,11,0.08)',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            fill: true,
+            tension: 0.3,
+            pointRadius: 0,
+            hidden: !(ts.heuristic_hvac_power && ts.heuristic_hvac_power.length > 0)
           },
           {
             label: 'AI HVAC (W)',
@@ -175,6 +196,16 @@
             borderWidth: 1.5,
             tension: 0.3,
             pointRadius: 0,
+          },
+          {
+            label: 'Heuristic Zone Temp',
+            data: sampleEvery(ts.heuristic_temp || [], N),
+            borderColor: '#f59e0b',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            tension: 0.3,
+            pointRadius: 0,
+            hidden: !(ts.heuristic_temp && ts.heuristic_temp.length > 0)
           },
           {
             label: 'AI Zone Temp',
@@ -252,6 +283,16 @@
             borderWidth: 2,
             stepped: 'before',
             pointRadius: 0,
+          },
+          {
+            label: 'Heuristic Setpoint',
+            data: sampleEvery(ts.heuristic_setpoint || [], N),
+            borderColor: '#f59e0b',
+            borderWidth: 2,
+            borderDash: [5, 5],
+            stepped: 'before',
+            pointRadius: 0,
+            hidden: !(ts.heuristic_setpoint && ts.heuristic_setpoint.length > 0)
           },
           {
             label: 'AI Setpoint',

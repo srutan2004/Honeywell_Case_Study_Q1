@@ -305,9 +305,9 @@ class EnergyPlusBridge:
         powers = [e["total_power_w"] for e in self._log]
         hvac_powers = [e["hvac_power_w"] for e in self._log]
 
-        # Energy calculation: each timestep is 1 hour (hourly timesteps)
+        # Energy calculation: each timestep = 1 / TIMESTEPS_PER_HOUR hours
         # Total energy in kWh = sum(power_W) * timestep_hours / 1000
-        timestep_hours = 1.0  # hourly
+        timestep_hours = 1.0 / config.TIMESTEPS_PER_HOUR  # 0.25 for 15-min intervals
         total_kwh = sum(powers) * timestep_hours / 1000.0
         hvac_kwh = sum(hvac_powers) * timestep_hours / 1000.0
 

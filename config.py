@@ -30,6 +30,7 @@ WEATHER_FILE = os.path.join(WEATHER_DIR, "USA_IL_Chicago-OHare.Intl.AP.725300_TM
 # Output directories
 BASELINE_OUTPUT = os.path.join(OUTPUT_DIR, "baseline")
 AI_OUTPUT = os.path.join(OUTPUT_DIR, "ai_controlled")
+HEURISTIC_OUTPUT = os.path.join(OUTPUT_DIR, "heuristic_controlled")
 
 # Results
 COMPARISON_DATA = os.path.join(RESULTS_DIR, "comparison_data.json")
@@ -46,7 +47,7 @@ ALL_ZONES = ["SPACE1-1", "SPACE2-1", "SPACE3-1", "SPACE4-1", "SPACE5-1"]
 
 # ─── Setpoint Bounds ────────────────────────────────────────────────────────
 COOLING_SETPOINT_MIN = 23.0   # °C — safety floor (must stay above heating setpoint + deadband)
-COOLING_SETPOINT_MAX = 28.0   # °C — safety ceiling (never set higher)
+COOLING_SETPOINT_MAX = 30.0   # °C — safety ceiling (never set higher)
 BASELINE_COOLING_SETPOINT_OCCUPIED = 23.9    # °C — from Clg-SetP-Sch (weekdays 6am-8pm)
 BASELINE_COOLING_SETPOINT_UNOCCUPIED = 29.4  # °C — from Clg-SetP-Sch (nights/weekends)
 
@@ -64,10 +65,13 @@ OCCUPIED_START_HOUR = 6    # 6:00 AM
 OCCUPIED_END_HOUR = 20     # 8:00 PM (20:00)
 
 # ─── Simulation Period ──────────────────────────────────────────────────────
-RUN_PERIOD_BEGIN_MONTH = 7
-RUN_PERIOD_BEGIN_DAY = 1
+RUN_PERIOD_BEGIN_MONTH = 6
+RUN_PERIOD_BEGIN_DAY = 25
 RUN_PERIOD_END_MONTH = 7
-RUN_PERIOD_END_DAY = 2
+RUN_PERIOD_END_DAY = 1
+
+# ─── Timestep Settings ──────────────────────────────────────────────────────
+TIMESTEPS_PER_HOUR = 4  # 15-minute intervals (set in IDF: Timestep, 4;)
 
 # ─── AI Cooling Schedule Name (added to AI IDF) ────────────────────────────
 AI_SCHEDULE_NAME = "AI_Cooling_Setpoint_Sch"

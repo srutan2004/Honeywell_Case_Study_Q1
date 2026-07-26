@@ -103,8 +103,9 @@ def analyze_comfort(timestep_log):
         # Safety
         "dangerous_hot_count": dangerous_hot,
         "dangerous_cold_count": dangerous_cold,
-        # PMV analysis (occupied hours)
-        **_calculate_pmv_stats(occupied_steps),
+        # PMV analysis
+        "pmv_stats_occupied": _calculate_pmv_stats(occupied_steps),
+        "pmv_stats_all": _calculate_pmv_stats(timestep_log),
     }
 
 
@@ -141,10 +142,13 @@ def print_comfort_report(name, comfort):
     print(f"    In comfort: {comfort['in_comfort_count']}/{comfort['occupied_timesteps']} "
           f"({comfort['comfort_pct']}%)")
     print(f"    Too hot: {comfort['too_hot_count']} | Too cold: {comfort['too_cold_count']}")
-    if comfort.get('avg_pmv') is not None:
-        print(f"    PMV: avg={comfort['avg_pmv']}, max={comfort['max_pmv']} "
-              f"(PPD={comfort['avg_ppd']}%)")
-        print(f"    PMV comfort (|PMV|<0.7): {comfort['pmv_comfort_pct']}%")
+    if comfort.get('pmv_stats_occupied'):
+        occ_pmv = comfort['pmv_stats_occupied']
+        all_pmv = comfort['pmv_stats_all']
+        print(f"    PMV (Occupied): avg={occ_pmv['avg_pmv']}, max_abs={occ_pmv['max_pmv']} "
+              f"(PPD={occ_pmv['avg_ppd']}%)")
+        print(f"    PMV (All hours): max_abs={all_pmv['max_pmv']}")
+        print(f"    PMV comfort (|PMV|<0.7): {occ_pmv['pmv_comfort_pct']}%")
     if comfort['max_hot_excursion_c'] > 0:
         print(f"    Max hot excursion: +{comfort['max_hot_excursion_c']} C above {config.COMFORT_TEMP_MAX} C")
     if comfort['max_cold_excursion_c'] > 0:

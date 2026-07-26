@@ -110,8 +110,8 @@ def run_ai_controlled():
     print(f"    Setpoints vary: "
           f"{'PASS' if len(set(round(s,1) for s in setpoints)) > 1 else 'FAIL'}"
           if setpoints else "    N/A")
-    print(f"    Setpoints in bounds [20,28]: "
-          f"{'PASS' if all(20 <= s <= 28 for s in setpoints) else 'FAIL'}"
+    print(f"    Setpoints in bounds [{config.COOLING_SETPOINT_MIN},{config.COOLING_SETPOINT_MAX}]: "
+          f"{'PASS' if all(config.COOLING_SETPOINT_MIN <= s <= config.COOLING_SETPOINT_MAX for s in setpoints) else 'FAIL'}"
           if setpoints else "    N/A")
 
     print(f"\n  [PASS] AI-controlled (MCP agentic) run complete!")

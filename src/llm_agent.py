@@ -46,7 +46,7 @@ ENERGY OPTIMIZATION RULES:
 - The baseline uses a fixed 23.9 degrees C during occupied hours - try to beat it by using higher setpoints when possible
 
 ABSOLUTE LIMITS:
-- NEVER set below 23 degrees C or above 28 degrees C
+- NEVER set below 23 degrees C or above 30 degrees C
 - The minimum of 23 degrees C is required because the heating setpoint is 22.2 degrees C and cooling must stay above it
 - These are hard safety limits that cannot be exceeded
 

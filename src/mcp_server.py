@@ -84,13 +84,13 @@ class MCPToolServer:
                 "type": "function",
                 "function": {
                     "name": "set_cooling_setpoint",
-                    "description": "Set the cooling setpoint temperature for zone SPACE1-1. Value must be between 23.0 and 28.0 degrees C. Lower values mean more cooling (more energy), higher values mean less cooling (less energy). The heating setpoint is 22.2C so cooling must stay above 23.0C.",
+                    "description": "Set the cooling setpoint temperature for zone SPACE1-1. Value must be between 23.0 and 30.0 degrees C. Lower values mean more cooling (more energy), higher values mean less cooling (less energy). The heating setpoint is 22.2C so cooling must stay above 23.0C.",
                     "parameters": {
                         "type": "object",
                         "properties": {
                             "value_c": {
                                 "type": "number",
-                                "description": "Cooling setpoint in degrees Celsius (23.0 to 28.0)",
+                                "description": "Cooling setpoint in degrees Celsius (23.0 to 30.0)",
                             }
                         },
                         "required": ["value_c"],

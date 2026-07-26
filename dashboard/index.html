@@ -38,7 +38,7 @@
       <div class="hero-card" id="hero-card">
         <p class="hero-label">HVAC Energy Savings</p>
         <div class="hero-value"><span id="hero-savings">0.0</span><span class="unit">%</span></div>
-        <p class="hero-detail" id="hero-detail">Baseline vs AI-Controlled (48-hour simulation)</p>
+        <p class="hero-detail" id="hero-detail">Baseline vs AI-Controlled</p>
         <div class="hero-sub-row">
           <div class="hero-sub-item">
             <div class="value" id="hero-baseline-kwh">--</div>
@@ -64,6 +64,12 @@
           <div class="stat-sub" id="stat-total-detail">total kWh reduction</div>
         </div>
         <div class="stat-card">
+          <div class="stat-icon orange">&#9889;</div>
+          <div class="stat-label">Heuristic Savings</div>
+          <div class="stat-value" id="stat-heuristic-savings">--</div>
+          <div class="stat-sub" id="stat-heuristic-detail">LLM incremental: --</div>
+        </div>
+        <div class="stat-card">
           <div class="stat-icon green">&#128176;</div>
           <div class="stat-label">Cost Savings</div>
           <div class="stat-value" id="stat-cost">--</div>
@@ -83,9 +89,15 @@
         </div>
         <div class="stat-card">
           <div class="stat-icon amber">&#127919;</div>
-          <div class="stat-label">PMV Comfort</div>
+          <div class="stat-label">PMV Comfort (Occupied)</div>
           <div class="stat-value" id="stat-pmv">--</div>
-          <div class="stat-sub" id="stat-pmv-detail">Predicted Mean Vote</div>
+          <div class="stat-sub" id="stat-pmv-detail">Worst-case: -- | All-hours: --</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon green">&#9989;</div>
+          <div class="stat-label">Fail-Safe Tested</div>
+          <div class="stat-value" id="stat-failsafe">3/3</div>
+          <div class="stat-sub" id="stat-failsafe-detail">Malformed JSON, LLM down, OOR clamp</div>
         </div>
         <div class="stat-card">
           <div class="stat-icon purple">&#9201;</div>
@@ -101,6 +113,7 @@
           <h3>HVAC Power <span class="tag">W over time</span></h3>
           <div class="legend">
             <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Heuristic</div>
             <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI-Controlled</div>
           </div>
           <div class="chart-container"><canvas id="chart-energy"></canvas></div>
@@ -110,6 +123,7 @@
           <h3>Zone Temperature <span class="tag">Comfort Band</span></h3>
           <div class="legend">
             <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Heuristic</div>
             <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI</div>
             <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> Outdoor</div>
           </div>
@@ -123,6 +137,7 @@
           <h3>Cooling Setpoint Decisions <span class="tag">LLM vs Fixed Schedule</span></h3>
           <div class="legend">
             <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Baseline Schedule</div>
+            <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Heuristic Rules</div>
             <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> AI Decisions</div>
             <div class="legend-item"><div class="legend-dot" style="background:rgba(245,158,11,0.3)"></div> Comfort Band [21-26&deg;C]</div>
           </div>

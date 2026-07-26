@@ -45,12 +45,13 @@ def main():
     # ── Step 1: Patch IDF Files ──────────────────────────
     banner("Step 1/5: IDF File Preparation")
 
+    from src.idf_patcher import create_baseline_idf, create_ai_idf
     if (os.path.isfile(config.BASELINE_IDF) and os.path.isfile(config.AI_IDF)):
         print("  IDF files already exist. Skipping patching.")
+        print("  (Delete idf_files/ to force re-patching)")
     else:
-        from src.idf_patcher import create_baseline_idf, create_ai_idf
-        create_baseline_idf()
-        create_ai_idf()
+        baseline_content = create_baseline_idf()
+        create_ai_idf(baseline_content)
 
     print("  IDF files ready.")
 
@@ -81,6 +82,20 @@ def main():
         banner("Step 3/5: AI-Controlled Simulation")
         from src.ai_runner import run_ai_controlled
         run_ai_controlled()
+
+    # ── Step 3b: Heuristic Simulation ────────────────────
+    if args.skip_sim:
+        banner("Step 3b/5: Heuristic Simulation (SKIPPED)")
+        heuristic_log_path = os.path.join(config.HEURISTIC_OUTPUT, "timestep_log.json")
+        if not os.path.isfile(heuristic_log_path):
+            print(f"  [ERROR] No existing heuristic log: {heuristic_log_path}")
+            print("  Run without --skip-sim to generate it.")
+            sys.exit(1)
+        print(f"  Using existing log: {heuristic_log_path}")
+    else:
+        banner("Step 3b/5: Heuristic Simulation")
+        from src.heuristic_runner import run_heuristic_controlled
+        run_heuristic_controlled()
 
     # ── Step 4: Analysis & Comparison ────────────────────
     banner("Step 4/5: Analysis & Comparison")

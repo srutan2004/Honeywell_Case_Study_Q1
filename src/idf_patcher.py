@@ -77,12 +77,12 @@ def patch_run_period(content: str) -> str:
         old_run_period_crlf = old_run_period.replace("\n", "\r\n")
         if old_run_period_crlf in content:
             content = content.replace(old_run_period_crlf, new_run_period.replace("\n", "\r\n"))
-            print("  [OK] RunPeriod patched (Jul 1 - Jul 2) [CRLF]")
+            print(f"  [OK] RunPeriod patched ({config.RUN_PERIOD_BEGIN_MONTH}/{config.RUN_PERIOD_BEGIN_DAY} - {config.RUN_PERIOD_END_MONTH}/{config.RUN_PERIOD_END_DAY}) [CRLF]")
             return content
         raise ValueError("Could not find RunPeriod block to patch!")
 
     content = content.replace(old_run_period, new_run_period)
-    print("  [OK] RunPeriod patched (Jul 1 - Jul 2)")
+    print(f"  [OK] RunPeriod patched ({config.RUN_PERIOD_BEGIN_MONTH}/{config.RUN_PERIOD_BEGIN_DAY} - {config.RUN_PERIOD_END_MONTH}/{config.RUN_PERIOD_END_DAY})")
     return content
 
 
@@ -215,9 +215,14 @@ def create_baseline_idf() -> str:
     return content
 
 
-def create_ai_idf(baseline_content: str) -> None:
+def create_ai_idf(baseline_content=None):
     """Create the AI-controlled IDF by adding schedule actuator to the baseline."""
     print("\n=== Creating AI-Controlled IDF ===")
+    if baseline_content is None:
+        # Read from disk if not passed directly
+        if not os.path.isfile(config.BASELINE_IDF):
+            raise FileNotFoundError(f"Baseline IDF not found: {config.BASELINE_IDF}")
+        baseline_content = read_idf(config.BASELINE_IDF)
     content = baseline_content
     content = add_ai_schedule(content)
     content = patch_thermostat_for_ai(content)

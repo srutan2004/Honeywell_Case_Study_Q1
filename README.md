@@ -4,19 +4,25 @@ AI-driven HVAC optimization using a local LLM (Ollama llama3:8b) to control a si
 
 ## Key Results
 
+*Validated over 7-day extended simulation (June 25 – July 1, Chicago IL)*
+
 | Metric | Value |
 |--------|-------|
-| **HVAC Energy Savings** | **6.34%** |
-| Total Energy Savings | 1.5% |
-| Comfort Maintained | 98.2% (no degradation) |
-| LLM Reliability | 192/192 decisions (100%) |
-| LLM Latency | 863ms avg per decision |
+| **HVAC Energy Savings** | **12.55%** |
+| Total Energy Savings | 3.37% |
+| Heuristic-only Savings | 7.5% |
+| LLM Incremental (over heuristic) | 5.05% |
+| Comfort Maintained | 97.7% |
+| PMV Average (Occupied) | -0.26 (near-neutral) |
+| LLM Reliability | 672/672 decisions (100%) |
+| LLM Latency | 772ms avg per decision |
+| Fail-Safe Tested | 3/3 scenarios validated |
 
 ## Architecture
 
 ```
 EnergyPlus  -->  Sensor Data  -->  LLM Agent  -->  Setpoint  -->  EnergyPlus
-(5-Zone)         (zone temp,       (Ollama         (23-28 C,      (actuator
+(5-Zone)         (zone temp,       (Ollama         (23-30 C,      (actuator
                   outdoor,          llama3:8b)       clamped)       write)
                   HVAC power)
 ```
@@ -93,11 +99,16 @@ Honeywell_Case_Study/
     __init__.py
     idf_patcher.py          # IDF file preparation
     ep_bridge.py            # EnergyPlus API wrapper
-    llm_agent.py            # LLM decision agent
+    mcp_server.py           # MCP Tool Server (7 tools)
+    mcp_agent.py            # LLM agent with MCP tool calling
     baseline_runner.py      # Baseline simulation runner
     ai_runner.py            # AI-controlled simulation runner
+    heuristic_runner.py     # Heuristic rules-based runner
     comfort.py              # Thermal comfort analysis
+    pmv.py                  # ISO 7730 PMV calculation
     analysis.py             # Comparison & reporting
+  tests/
+    test_failsafe.py        # 3-tier fail-safe validation
   idf_files/
     5ZoneAirCooled_baseline.idf
     5ZoneAirCooled_ai.idf
@@ -106,6 +117,7 @@ Honeywell_Case_Study/
   output/
     baseline/               # Baseline simulation outputs
     ai_controlled/          # AI simulation outputs
+    heuristic_controlled/   # Heuristic simulation outputs
   results/
     comparison_data.json    # Structured comparison data
     summary_report.md       # Human-readable findings

@@ -1,10 +1,10 @@
 {
-  "timesteps": 192,
-  "total_kwh": 1299.05,
-  "hvac_kwh": 306.45,
-  "avg_zone_temp": 22.32,
-  "min_zone_temp": 20.32,
-  "max_zone_temp": 23.9,
-  "peak_total_power_w": 15762.2,
-  "peak_hvac_power_w": 4262.2
+  "timesteps": 672,
+  "total_kwh": 938.23,
+  "hvac_kwh": 251.86,
+  "avg_zone_temp": 22.46,
+  "min_zone_temp": 19.29,
+  "max_zone_temp": 25.42,
+  "peak_total_power_w": 18047.2,
+  "peak_hvac_power_w": 6239.9
 }

@@ -46,17 +46,18 @@ AVAILABLE TOOLS (call by outputting JSON):
 2. {"tool": "calculate_pmv", "args": {}} - Get PMV/PPD thermal comfort index for current conditions
 3. {"tool": "get_carbon_intensity", "args": {}} - Get grid carbon intensity (gCO2/kWh)
 4. {"tool": "get_peak_demand_status", "args": {}} - Check if near peak demand threshold
-5. {"tool": "set_cooling_setpoint", "args": {"value_c": 24.5}} - Set cooling setpoint (23-28°C)
+5. {"tool": "set_cooling_setpoint", "args": {"value_c": 24.5}} - Set cooling setpoint (23-30°C)
 
 WORKFLOW: First analyze conditions, then set the optimal setpoint.
 
 RULES:
 - During occupied hours (6am-8pm): Use 24.0-25.5°C (baseline uses fixed 23.9°C)
-- During unoccupied hours: Use 27.0-28.0°C for maximum savings
+- During unoccupied hours: Use 28.5-29.5°C to maximize savings (baseline uses 29.4°C)
+- Review Recent History in the prompt. Avoid erratic swings by making gradual changes (0.5°C at a time).
 - If PMV > 0.5 (warm): Lower setpoint by 0.5°C
 - If carbon intensity > 500: Raise setpoint 0.5°C to reduce carbon
 - If near peak demand (>85%): Raise setpoint to shed load
-- NEVER set below 23°C or above 28°C
+- NEVER set below 23°C or above 30°C
 
 OUTPUT: You MUST output exactly one JSON object per response. No other text."""
 
@@ -89,6 +90,7 @@ class MCPAgent:
         self.failures = 0
         self.fallbacks = 0
         self.total_tool_calls = 0
+        self.memory = []  # Stores last few (zone_temp, setpoint) dicts
 
     def decide(self, sensor_data, mcp_server):
         """
@@ -99,7 +101,7 @@ class MCPAgent:
             mcp_server: MCPToolServer instance
 
         Returns:
-            float: cooling setpoint in [23, 28]°C
+            float: cooling setpoint in [23, 30]°C
         """
         start = time.time()
         self.call_count += 1
@@ -119,6 +121,11 @@ class MCPAgent:
         carbon_data = json.loads(mcp_server.call_tool("get_carbon_intensity", {}))
         peak_data = json.loads(mcp_server.call_tool("get_peak_demand_status", {}))
 
+        # Prepare recent history
+        history_str = "None (first timestep)"
+        if self.memory:
+            history_str = ", ".join([f"T-{len(self.memory)-i}: Temp {m['zone_temp']:.1f}°C, Setpoint {m['setpoint']:.1f}°C" for i, m in enumerate(self.memory)])
+
         # Step 2: Build rich context prompt
         user_msg = (
             f"Timestep data:\n"
@@ -129,7 +136,8 @@ class MCPAgent:
             f"- Carbon intensity: {carbon_data['carbon_intensity_gco2_kwh']} gCO2/kWh"
             f" ({'HIGH' if carbon_data['is_peak_carbon'] else 'normal'})\n"
             f"- Peak demand: {peak_data['utilization_pct']}% of {peak_data['peak_threshold_w']}W"
-            f" ({'NEAR PEAK' if peak_data['near_peak'] else 'OK'})\n\n"
+            f" ({'NEAR PEAK' if peak_data['near_peak'] else 'OK'})\n"
+            f"- Recent History: {history_str}\n\n"
             f"Based on this data, call set_cooling_setpoint with the optimal value."
         )
 
@@ -148,7 +156,7 @@ class MCPAgent:
                 model=self.model,
                 messages=messages,
                 format=TOOL_CALL_SCHEMA,
-                options={"temperature": 0.3},
+                options={"temperature": 0.0},
             )
 
             content = response.get("message", {}).get("content", "")
@@ -180,7 +188,7 @@ class MCPAgent:
                     model=self.model,
                     messages=messages,
                     format=TOOL_CALL_SCHEMA,
-                    options={"temperature": 0.3},
+                    options={"temperature": 0.0},
                 )
                 content2 = response2.get("message", {}).get("content", "")
                 parsed2 = self._parse_tool_call(content2)
@@ -218,6 +226,11 @@ class MCPAgent:
         setpoint = max(config.COOLING_SETPOINT_MIN,
                        min(config.COOLING_SETPOINT_MAX, setpoint))
 
+        # Update memory
+        self.memory.append({"zone_temp": zone_t, "setpoint": setpoint})
+        if len(self.memory) > 3:
+            self.memory.pop(0)
+
         elapsed = (time.time() - start) * 1000
         self.total_latency += elapsed
         self.max_latency = max(self.max_latency, elapsed)
@@ -248,15 +261,26 @@ class MCPAgent:
 
     def _parse_tool_call(self, text):
         """Parse a JSON tool call from LLM output."""
+        # Strip markdown fences if present
+        cleaned = text.strip()
+        if cleaned.startswith("```"):
+            lines = cleaned.split("\n")
+            # Remove first and last lines (fences)
+            lines = [l for l in lines if not l.strip().startswith("```")]
+            cleaned = "\n".join(lines).strip()
+
         try:
-            data = json.loads(text)
+            data = json.loads(cleaned)
             if "tool" in data:
                 return data
         except (json.JSONDecodeError, TypeError):
             pass
 
-        # Try to find JSON in text
-        match = re.search(r'\{[^{}]*"tool"[^{}]*\}', text)
+        # Try to find JSON in text (supports one level of nesting for args)
+        match = re.search(r'\{[^{}]*"tool"[^{}]*\{[^{}]*\}[^{}]*\}', text)
+        if not match:
+            # Fallback: try flat JSON without nested braces
+            match = re.search(r'\{[^{}]*"tool"[^{}]*\}', text)
         if match:
             try:
                 return json.loads(match.group())
@@ -290,7 +314,7 @@ class MCPAgent:
         is_occupied = config.OCCUPIED_START_HOUR <= hour < config.OCCUPIED_END_HOUR
 
         if not is_occupied:
-            return 27.0
+            return 29.5
 
         # Start with a base setpoint
         base = 24.5
