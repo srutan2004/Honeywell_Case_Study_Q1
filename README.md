@@ -1,5 +1,7 @@
 # Eco-Loop Building Agents
 
+**[🎥 Watch the Video Demo](./Video%20And%20PPT/Honewell_Case_Study_Demo_Video.mp4)**
+
 AI-driven HVAC optimization using a local LLM (Ollama llama3:8b) to control a simulated building's cooling setpoint in real time via EnergyPlus, proving energy savings vs. a static baseline schedule.
 
 ## Key Results
