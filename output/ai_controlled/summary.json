@@ -1,9 +1,9 @@
 {
   "simulation": {
-    "timesteps": 672,
-    "total_kwh": 906.62,
-    "hvac_kwh": 220.25,
-    "avg_zone_temp": 22.75,
+    "timesteps": 670,
+    "total_kwh": 899.92,
+    "hvac_kwh": 218.8,
+    "avg_zone_temp": 22.74,
     "min_zone_temp": 19.29,
     "max_zone_temp": 26.52,
     "peak_total_power_w": 18617.6,
@@ -11,23 +11,23 @@
     "avg_ai_setpoint": 26.3,
     "min_ai_setpoint": 23.5,
     "max_ai_setpoint": 29.5,
-    "avg_llm_latency_ms": 787.6,
-    "max_llm_latency_ms": 5873.9
+    "avg_llm_latency_ms": 864.6,
+    "max_llm_latency_ms": 6800.0
   },
   "agent": {
     "total_decisions": 672,
     "llm_failures": 0,
     "heuristic_fallbacks": 0,
     "llm_success_rate": 100.0,
-    "total_mcp_tool_calls": 2688,
+    "total_mcp_tool_calls": 2686,
     "avg_tools_per_decision": 4.0,
-    "avg_latency_ms": 787.5,
-    "max_latency_ms": 5873.9,
-    "min_latency_ms": 713.7,
-    "total_prompt_tokens": 374184,
-    "total_completion_tokens": 16128,
-    "avg_prompt_tokens": 556.8,
-    "avg_completion_tokens": 24.0
+    "avg_latency_ms": 861.8,
+    "max_latency_ms": 6799.4,
+    "min_latency_ms": 674.6,
+    "total_prompt_tokens": 373066,
+    "total_completion_tokens": 16080,
+    "avg_prompt_tokens": 555.2,
+    "avg_completion_tokens": 23.9
   },
   "mode": "MCP_agentic"
 }

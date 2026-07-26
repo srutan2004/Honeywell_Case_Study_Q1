@@ -19,7 +19,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 5873.9,
+    "latency_ms": 6799.4,
     "used_fallback": false
   },
   {
@@ -42,7 +42,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.1,
+    "latency_ms": 898.0,
     "used_fallback": false
   },
   {
@@ -65,7 +65,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.9,
+    "latency_ms": 926.0,
     "used_fallback": false
   },
   {
@@ -88,7 +88,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.2,
+    "latency_ms": 932.2,
     "used_fallback": false
   },
   {
@@ -111,7 +111,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.4,
+    "latency_ms": 919.3,
     "used_fallback": false
   },
   {
@@ -134,7 +134,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 768.2,
+    "latency_ms": 922.6,
     "used_fallback": false
   },
   {
@@ -157,7 +157,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.3,
+    "latency_ms": 915.6,
     "used_fallback": false
   },
   {
@@ -180,7 +180,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.5,
+    "latency_ms": 932.3,
     "used_fallback": false
   },
   {
@@ -203,7 +203,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.5,
+    "latency_ms": 935.0,
     "used_fallback": false
   },
   {
@@ -226,7 +226,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.8,
+    "latency_ms": 885.4,
     "used_fallback": false
   },
   {
@@ -249,7 +249,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 767.6,
+    "latency_ms": 916.2,
     "used_fallback": false
   },
   {
@@ -272,7 +272,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.9,
+    "latency_ms": 914.7,
     "used_fallback": false
   },
   {
@@ -295,7 +295,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.5,
+    "latency_ms": 919.3,
     "used_fallback": false
   },
   {
@@ -318,7 +318,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.0,
+    "latency_ms": 910.7,
     "used_fallback": false
   },
   {
@@ -341,7 +341,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.0,
+    "latency_ms": 920.3,
     "used_fallback": false
   },
   {
@@ -364,7 +364,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.3,
+    "latency_ms": 915.2,
     "used_fallback": false
   },
   {
@@ -387,7 +387,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.9,
+    "latency_ms": 919.0,
     "used_fallback": false
   },
   {
@@ -410,7 +410,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.8,
+    "latency_ms": 956.7,
     "used_fallback": false
   },
   {
@@ -433,7 +433,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.0,
+    "latency_ms": 913.1,
     "used_fallback": false
   },
   {
@@ -456,7 +456,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 787.1,
+    "latency_ms": 920.7,
     "used_fallback": false
   },
   {
@@ -479,7 +479,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.5,
+    "latency_ms": 924.6,
     "used_fallback": false
   },
   {
@@ -502,7 +502,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.1,
+    "latency_ms": 921.4,
     "used_fallback": false
   },
   {
@@ -525,7 +525,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 739.4,
+    "latency_ms": 915.9,
     "used_fallback": false
   },
   {
@@ -548,7 +548,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.7,
+    "latency_ms": 899.8,
     "used_fallback": false
   },
   {
@@ -571,7 +571,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.7,
+    "latency_ms": 938.0,
     "used_fallback": false
   },
   {
@@ -594,7 +594,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 766.8,
+    "latency_ms": 918.9,
     "used_fallback": false
   },
   {
@@ -617,7 +617,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.6,
+    "latency_ms": 929.8,
     "used_fallback": false
   },
   {
@@ -640,7 +640,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.5,
+    "latency_ms": 879.8,
     "used_fallback": false
   },
   {
@@ -663,7 +663,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.2,
+    "latency_ms": 892.6,
     "used_fallback": false
   },
   {
@@ -686,7 +686,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.6,
+    "latency_ms": 873.7,
     "used_fallback": false
   },
   {
@@ -709,7 +709,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 766.4,
+    "latency_ms": 882.2,
     "used_fallback": false
   },
   {
@@ -732,7 +732,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.2,
+    "latency_ms": 897.6,
     "used_fallback": false
   },
   {
@@ -755,7 +755,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 788.0,
+    "latency_ms": 892.9,
     "used_fallback": false
   },
   {
@@ -778,7 +778,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.6,
+    "latency_ms": 903.9,
     "used_fallback": false
   },
   {
@@ -801,7 +801,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.0,
+    "latency_ms": 893.2,
     "used_fallback": false
   },
   {
@@ -824,7 +824,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.9,
+    "latency_ms": 900.2,
     "used_fallback": false
   },
   {
@@ -847,7 +847,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.4,
+    "latency_ms": 897.5,
     "used_fallback": false
   },
   {
@@ -870,7 +870,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.6,
+    "latency_ms": 893.2,
     "used_fallback": false
   },
   {
@@ -893,7 +893,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.7,
+    "latency_ms": 903.0,
     "used_fallback": false
   },
   {
@@ -916,7 +916,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.8,
+    "latency_ms": 891.3,
     "used_fallback": false
   },
   {
@@ -939,7 +939,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.3,
+    "latency_ms": 942.4,
     "used_fallback": false
   },
   {
@@ -962,7 +962,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.2,
+    "latency_ms": 896.8,
     "used_fallback": false
   },
   {
@@ -985,7 +985,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 829.2,
+    "latency_ms": 896.2,
     "used_fallback": false
   },
   {
@@ -1008,7 +1008,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.6,
+    "latency_ms": 907.1,
     "used_fallback": false
   },
   {
@@ -1031,7 +1031,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.4,
+    "latency_ms": 898.8,
     "used_fallback": false
   },
   {
@@ -1054,7 +1054,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.1,
+    "latency_ms": 896.9,
     "used_fallback": false
   },
   {
@@ -1077,7 +1077,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 848.2,
+    "latency_ms": 888.9,
     "used_fallback": false
   },
   {
@@ -1100,7 +1100,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 735.5,
+    "latency_ms": 897.5,
     "used_fallback": false
   },
   {
@@ -1123,7 +1123,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.4,
+    "latency_ms": 934.5,
     "used_fallback": false
   },
   {
@@ -1146,53 +1146,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.5,
-    "used_fallback": false
-  },
-  {
-    "timestep": 51,
-    "hour": 12,
-    "zone_temp": 24.0,
-    "outdoor_temp": 26.25,
-    "humidity": 50.0,
-    "pmv": -0.22,
-    "ppd": 6.0,
-    "carbon_gco2": 535,
-    "peak_util_pct": 87.2,
-    "setpoint": 25.5,
-    "prompt_tokens": 559,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 734.1,
-    "used_fallback": false
-  },
-  {
-    "timestep": 52,
-    "hour": 12,
-    "zone_temp": 25.18,
-    "outdoor_temp": 26.1,
-    "humidity": 50.0,
-    "pmv": 0.14,
-    "ppd": 5.4,
-    "carbon_gco2": 535,
-    "peak_util_pct": 57.1,
-    "setpoint": 24.0,
-    "prompt_tokens": 556,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 731.6,
+    "latency_ms": 894.1,
     "used_fallback": false
   },
   {
@@ -1204,31 +1158,8 @@
     "pmv": -0.22,
     "ppd": 6.0,
     "carbon_gco2": 530,
-    "peak_util_pct": 81.4,
-    "setpoint": 24.5,
-    "prompt_tokens": 556,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 753.1,
-    "used_fallback": false
-  },
-  {
-    "timestep": 54,
-    "hour": 13,
-    "zone_temp": 24.5,
-    "outdoor_temp": 25.85,
-    "humidity": 50.0,
-    "pmv": -0.07,
-    "ppd": 5.1,
-    "carbon_gco2": 530,
-    "peak_util_pct": 86.4,
-    "setpoint": 25.0,
+    "peak_util_pct": 86.0,
+    "setpoint": 25.5,
     "prompt_tokens": 559,
     "completion_tokens": 24,
     "clamped": false,
@@ -1238,20 +1169,20 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.1,
+    "latency_ms": 890.4,
     "used_fallback": false
   },
   {
-    "timestep": 55,
+    "timestep": 54,
     "hour": 13,
-    "zone_temp": 25.0,
-    "outdoor_temp": 25.73,
+    "zone_temp": 25.44,
+    "outdoor_temp": 25.85,
     "humidity": 50.0,
-    "pmv": 0.08,
-    "ppd": 5.1,
+    "pmv": 0.22,
+    "ppd": 6.0,
     "carbon_gco2": 530,
-    "peak_util_pct": 70.9,
-    "setpoint": 24.5,
+    "peak_util_pct": 57.6,
+    "setpoint": 24.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
     "clamped": false,
@@ -1261,7 +1192,30 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.8,
+    "latency_ms": 903.5,
+    "used_fallback": false
+  },
+  {
+    "timestep": 55,
+    "hour": 13,
+    "zone_temp": 24.0,
+    "outdoor_temp": 25.73,
+    "humidity": 50.0,
+    "pmv": -0.22,
+    "ppd": 6.0,
+    "carbon_gco2": 530,
+    "peak_util_pct": 100.2,
+    "setpoint": 24.5,
+    "prompt_tokens": 559,
+    "completion_tokens": 24,
+    "clamped": false,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 937.1,
     "used_fallback": false
   },
   {
@@ -1273,8 +1227,8 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 530,
-    "peak_util_pct": 79.0,
-    "setpoint": 24.0,
+    "peak_util_pct": 84.4,
+    "setpoint": 25.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
     "clamped": false,
@@ -1284,42 +1238,19 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.1,
+    "latency_ms": 899.9,
     "used_fallback": false
   },
   {
     "timestep": 57,
     "hour": 14,
-    "zone_temp": 24.0,
-    "outdoor_temp": 25.73,
-    "humidity": 50.0,
-    "pmv": -0.22,
-    "ppd": 6.0,
-    "carbon_gco2": 525,
-    "peak_util_pct": 101.4,
-    "setpoint": 25.0,
-    "prompt_tokens": 559,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 768.7,
-    "used_fallback": false
-  },
-  {
-    "timestep": 58,
-    "hour": 14,
     "zone_temp": 25.0,
-    "outdoor_temp": 25.85,
+    "outdoor_temp": 25.73,
     "humidity": 50.0,
     "pmv": 0.08,
     "ppd": 5.1,
     "carbon_gco2": 525,
-    "peak_util_pct": 74.5,
+    "peak_util_pct": 71.9,
     "setpoint": 24.5,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1330,65 +1261,19 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.7,
+    "latency_ms": 895.8,
     "used_fallback": false
   },
   {
-    "timestep": 59,
+    "timestep": 58,
     "hour": 14,
-    "zone_temp": 24.57,
-    "outdoor_temp": 25.98,
-    "humidity": 50.0,
-    "pmv": -0.05,
-    "ppd": 5.0,
-    "carbon_gco2": 525,
-    "peak_util_pct": 108.1,
-    "setpoint": 24.5,
-    "prompt_tokens": 559,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 753.6,
-    "used_fallback": false
-  },
-  {
-    "timestep": 60,
-    "hour": 14,
-    "zone_temp": 24.51,
-    "outdoor_temp": 26.1,
+    "zone_temp": 24.5,
+    "outdoor_temp": 25.85,
     "humidity": 50.0,
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 525,
-    "peak_util_pct": 88.3,
-    "setpoint": 25.0,
-    "prompt_tokens": 559,
-    "completion_tokens": 24,
-    "clamped": false,
-    "tools_called": [
-      "calculate_pmv",
-      "get_carbon_intensity",
-      "get_peak_demand_status",
-      "set_cooling_setpoint"
-    ],
-    "latency_ms": 744.8,
-    "used_fallback": false
-  },
-  {
-    "timestep": 61,
-    "hour": 15,
-    "zone_temp": 25.0,
-    "outdoor_temp": 25.98,
-    "humidity": 50.0,
-    "pmv": 0.08,
-    "ppd": 5.1,
-    "carbon_gco2": 520,
-    "peak_util_pct": 84.5,
+    "peak_util_pct": 82.4,
     "setpoint": 24.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1399,19 +1284,88 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.7,
+    "latency_ms": 901.6,
+    "used_fallback": false
+  },
+  {
+    "timestep": 59,
+    "hour": 14,
+    "zone_temp": 24.01,
+    "outdoor_temp": 25.98,
+    "humidity": 50.0,
+    "pmv": -0.21,
+    "ppd": 6.0,
+    "carbon_gco2": 525,
+    "peak_util_pct": 108.5,
+    "setpoint": 25.0,
+    "prompt_tokens": 559,
+    "completion_tokens": 24,
+    "clamped": false,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 894.9,
+    "used_fallback": false
+  },
+  {
+    "timestep": 60,
+    "hour": 14,
+    "zone_temp": 25.0,
+    "outdoor_temp": 26.1,
+    "humidity": 50.0,
+    "pmv": 0.08,
+    "ppd": 5.1,
+    "carbon_gco2": 525,
+    "peak_util_pct": 77.5,
+    "setpoint": 24.5,
+    "prompt_tokens": 556,
+    "completion_tokens": 24,
+    "clamped": false,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 882.0,
+    "used_fallback": false
+  },
+  {
+    "timestep": 61,
+    "hour": 15,
+    "zone_temp": 24.57,
+    "outdoor_temp": 25.98,
+    "humidity": 50.0,
+    "pmv": -0.05,
+    "ppd": 5.0,
+    "carbon_gco2": 520,
+    "peak_util_pct": 111.9,
+    "setpoint": 24.0,
+    "prompt_tokens": 559,
+    "completion_tokens": 24,
+    "clamped": false,
+    "tools_called": [
+      "calculate_pmv",
+      "get_carbon_intensity",
+      "get_peak_demand_status",
+      "set_cooling_setpoint"
+    ],
+    "latency_ms": 874.7,
     "used_fallback": false
   },
   {
     "timestep": 62,
     "hour": 15,
-    "zone_temp": 24.0,
+    "zone_temp": 24.01,
     "outdoor_temp": 25.85,
     "humidity": 50.0,
-    "pmv": -0.22,
+    "pmv": -0.21,
     "ppd": 6.0,
     "carbon_gco2": 520,
-    "peak_util_pct": 109.3,
+    "peak_util_pct": 105.8,
     "setpoint": 24.5,
     "prompt_tokens": 559,
     "completion_tokens": 24,
@@ -1422,7 +1376,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.6,
+    "latency_ms": 791.9,
     "used_fallback": false
   },
   {
@@ -1434,7 +1388,7 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 520,
-    "peak_util_pct": 95.9,
+    "peak_util_pct": 98.1,
     "setpoint": 25.0,
     "prompt_tokens": 559,
     "completion_tokens": 24,
@@ -1445,7 +1399,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.1,
+    "latency_ms": 772.5,
     "used_fallback": false
   },
   {
@@ -1457,7 +1411,7 @@
     "pmv": 0.08,
     "ppd": 5.1,
     "carbon_gco2": 520,
-    "peak_util_pct": 79.1,
+    "peak_util_pct": 77.4,
     "setpoint": 24.5,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1468,7 +1422,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 761.8,
+    "latency_ms": 777.9,
     "used_fallback": false
   },
   {
@@ -1480,7 +1434,7 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 530,
-    "peak_util_pct": 86.4,
+    "peak_util_pct": 86.1,
     "setpoint": 24.0,
     "prompt_tokens": 559,
     "completion_tokens": 24,
@@ -1491,7 +1445,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.0,
+    "latency_ms": 759.5,
     "used_fallback": false
   },
   {
@@ -1503,7 +1457,7 @@
     "pmv": -0.22,
     "ppd": 6.0,
     "carbon_gco2": 530,
-    "peak_util_pct": 99.6,
+    "peak_util_pct": 98.2,
     "setpoint": 25.0,
     "prompt_tokens": 559,
     "completion_tokens": 24,
@@ -1514,7 +1468,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.8,
+    "latency_ms": 771.0,
     "used_fallback": false
   },
   {
@@ -1526,7 +1480,7 @@
     "pmv": 0.08,
     "ppd": 5.1,
     "carbon_gco2": 530,
-    "peak_util_pct": 71.5,
+    "peak_util_pct": 71.0,
     "setpoint": 24.5,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1537,7 +1491,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.3,
+    "latency_ms": 779.6,
     "used_fallback": false
   },
   {
@@ -1549,7 +1503,7 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 530,
-    "peak_util_pct": 81.2,
+    "peak_util_pct": 81.0,
     "setpoint": 24.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1560,7 +1514,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.7,
+    "latency_ms": 811.4,
     "used_fallback": false
   },
   {
@@ -1572,7 +1526,7 @@
     "pmv": -0.22,
     "ppd": 6.0,
     "carbon_gco2": 540,
-    "peak_util_pct": 93.1,
+    "peak_util_pct": 92.7,
     "setpoint": 25.0,
     "prompt_tokens": 559,
     "completion_tokens": 24,
@@ -1583,7 +1537,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.3,
+    "latency_ms": 808.2,
     "used_fallback": false
   },
   {
@@ -1595,7 +1549,7 @@
     "pmv": 0.08,
     "ppd": 5.1,
     "carbon_gco2": 540,
-    "peak_util_pct": 63.0,
+    "peak_util_pct": 62.8,
     "setpoint": 24.5,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1606,7 +1560,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.5,
+    "latency_ms": 847.3,
     "used_fallback": false
   },
   {
@@ -1618,7 +1572,7 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 540,
-    "peak_util_pct": 75.1,
+    "peak_util_pct": 75.0,
     "setpoint": 24.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1629,7 +1583,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.1,
+    "latency_ms": 873.8,
     "used_fallback": false
   },
   {
@@ -1641,9 +1595,9 @@
     "pmv": -0.22,
     "ppd": 6.0,
     "carbon_gco2": 540,
-    "peak_util_pct": 85.2,
+    "peak_util_pct": 85.0,
     "setpoint": 24.5,
-    "prompt_tokens": 559,
+    "prompt_tokens": 556,
     "completion_tokens": 24,
     "clamped": false,
     "tools_called": [
@@ -1652,7 +1606,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.3,
+    "latency_ms": 806.6,
     "used_fallback": false
   },
   {
@@ -1664,7 +1618,7 @@
     "pmv": -0.07,
     "ppd": 5.1,
     "carbon_gco2": 510,
-    "peak_util_pct": 74.4,
+    "peak_util_pct": 74.2,
     "setpoint": 24.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1675,7 +1629,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.9,
+    "latency_ms": 812.2,
     "used_fallback": false
   },
   {
@@ -1698,7 +1652,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 737.5,
+    "latency_ms": 815.0,
     "used_fallback": false
   },
   {
@@ -1710,7 +1664,7 @@
     "pmv": -0.22,
     "ppd": 6.0,
     "carbon_gco2": 510,
-    "peak_util_pct": 57.2,
+    "peak_util_pct": 57.1,
     "setpoint": 25.0,
     "prompt_tokens": 556,
     "completion_tokens": 24,
@@ -1721,7 +1675,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.7,
+    "latency_ms": 811.1,
     "used_fallback": false
   },
   {
@@ -1744,7 +1698,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 741.9,
+    "latency_ms": 827.7,
     "used_fallback": false
   },
   {
@@ -1767,7 +1721,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.0,
+    "latency_ms": 805.7,
     "used_fallback": false
   },
   {
@@ -1790,7 +1744,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.1,
+    "latency_ms": 803.6,
     "used_fallback": false
   },
   {
@@ -1813,7 +1767,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.8,
+    "latency_ms": 806.3,
     "used_fallback": false
   },
   {
@@ -1836,7 +1790,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.0,
+    "latency_ms": 812.6,
     "used_fallback": false
   },
   {
@@ -1859,7 +1813,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 777.0,
+    "latency_ms": 805.5,
     "used_fallback": false
   },
   {
@@ -1882,7 +1836,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.7,
+    "latency_ms": 817.4,
     "used_fallback": false
   },
   {
@@ -1905,17 +1859,17 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 739.6,
+    "latency_ms": 794.4,
     "used_fallback": false
   },
   {
     "timestep": 84,
     "hour": 20,
-    "zone_temp": 22.47,
+    "zone_temp": 22.46,
     "outdoor_temp": 17.8,
     "humidity": 50.0,
-    "pmv": -0.66,
-    "ppd": 14.2,
+    "pmv": -0.67,
+    "ppd": 14.3,
     "carbon_gco2": 450,
     "peak_util_pct": 0.0,
     "setpoint": 29.0,
@@ -1928,7 +1882,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 723.9,
+    "latency_ms": 808.0,
     "used_fallback": false
   },
   {
@@ -1951,7 +1905,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 773.2,
+    "latency_ms": 831.2,
     "used_fallback": false
   },
   {
@@ -1974,7 +1928,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.9,
+    "latency_ms": 817.3,
     "used_fallback": false
   },
   {
@@ -1997,7 +1951,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.6,
+    "latency_ms": 799.0,
     "used_fallback": false
   },
   {
@@ -2020,7 +1974,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.7,
+    "latency_ms": 808.4,
     "used_fallback": false
   },
   {
@@ -2043,7 +1997,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 763.7,
+    "latency_ms": 806.5,
     "used_fallback": false
   },
   {
@@ -2066,7 +2020,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.7,
+    "latency_ms": 831.9,
     "used_fallback": false
   },
   {
@@ -2089,7 +2043,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.0,
+    "latency_ms": 810.6,
     "used_fallback": false
   },
   {
@@ -2112,7 +2066,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.1,
+    "latency_ms": 802.7,
     "used_fallback": false
   },
   {
@@ -2135,7 +2089,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.1,
+    "latency_ms": 809.3,
     "used_fallback": false
   },
   {
@@ -2158,7 +2112,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.2,
+    "latency_ms": 810.7,
     "used_fallback": false
   },
   {
@@ -2181,7 +2135,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.0,
+    "latency_ms": 822.5,
     "used_fallback": false
   },
   {
@@ -2204,7 +2158,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.3,
+    "latency_ms": 818.4,
     "used_fallback": false
   },
   {
@@ -2227,7 +2181,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.3,
+    "latency_ms": 809.1,
     "used_fallback": false
   },
   {
@@ -2250,7 +2204,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.7,
+    "latency_ms": 800.5,
     "used_fallback": false
   },
   {
@@ -2273,7 +2227,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 741.1,
+    "latency_ms": 800.0,
     "used_fallback": false
   },
   {
@@ -2296,17 +2250,17 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.2,
+    "latency_ms": 808.2,
     "used_fallback": false
   },
   {
     "timestep": 101,
     "hour": 1,
-    "zone_temp": 20.43,
+    "zone_temp": 20.42,
     "outdoor_temp": 13.18,
     "humidity": 50.0,
     "pmv": -1.3,
-    "ppd": 40.1,
+    "ppd": 40.2,
     "carbon_gco2": 370,
     "peak_util_pct": 0.0,
     "setpoint": 28.5,
@@ -2319,7 +2273,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.4,
+    "latency_ms": 826.8,
     "used_fallback": false
   },
   {
@@ -2342,7 +2296,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 738.9,
+    "latency_ms": 806.6,
     "used_fallback": false
   },
   {
@@ -2365,7 +2319,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.6,
+    "latency_ms": 807.4,
     "used_fallback": false
   },
   {
@@ -2388,7 +2342,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 740.0,
+    "latency_ms": 799.2,
     "used_fallback": false
   },
   {
@@ -2411,7 +2365,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.6,
+    "latency_ms": 806.0,
     "used_fallback": false
   },
   {
@@ -2434,7 +2388,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 739.9,
+    "latency_ms": 798.4,
     "used_fallback": false
   },
   {
@@ -2457,17 +2411,17 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.8,
+    "latency_ms": 808.3,
     "used_fallback": false
   },
   {
     "timestep": 108,
     "hour": 2,
-    "zone_temp": 20.07,
+    "zone_temp": 20.06,
     "outdoor_temp": 12.2,
     "humidity": 50.0,
     "pmv": -1.41,
-    "ppd": 45.9,
+    "ppd": 46.1,
     "carbon_gco2": 360,
     "peak_util_pct": 0.0,
     "setpoint": 29.0,
@@ -2480,7 +2434,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.1,
+    "latency_ms": 811.1,
     "used_fallback": false
   },
   {
@@ -2503,7 +2457,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.1,
+    "latency_ms": 809.2,
     "used_fallback": false
   },
   {
@@ -2526,7 +2480,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.8,
+    "latency_ms": 796.5,
     "used_fallback": false
   },
   {
@@ -2549,7 +2503,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 761.0,
+    "latency_ms": 810.6,
     "used_fallback": false
   },
   {
@@ -2572,7 +2526,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 767.4,
+    "latency_ms": 808.5,
     "used_fallback": false
   },
   {
@@ -2595,7 +2549,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.9,
+    "latency_ms": 822.7,
     "used_fallback": false
   },
   {
@@ -2618,7 +2572,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 761.0,
+    "latency_ms": 809.8,
     "used_fallback": false
   },
   {
@@ -2641,7 +2595,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.0,
+    "latency_ms": 810.8,
     "used_fallback": false
   },
   {
@@ -2664,7 +2618,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 720.3,
+    "latency_ms": 799.6,
     "used_fallback": false
   },
   {
@@ -2687,17 +2641,17 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.8,
+    "latency_ms": 805.5,
     "used_fallback": false
   },
   {
     "timestep": 118,
     "hour": 5,
-    "zone_temp": 19.88,
+    "zone_temp": 19.87,
     "outdoor_temp": 13.05,
     "humidity": 50.0,
     "pmv": -1.47,
-    "ppd": 49.1,
+    "ppd": 49.3,
     "carbon_gco2": 375,
     "peak_util_pct": 0.0,
     "setpoint": 29.0,
@@ -2710,7 +2664,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.3,
+    "latency_ms": 806.1,
     "used_fallback": false
   },
   {
@@ -2733,7 +2687,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.8,
+    "latency_ms": 795.1,
     "used_fallback": false
   },
   {
@@ -2756,7 +2710,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.6,
+    "latency_ms": 810.3,
     "used_fallback": false
   },
   {
@@ -2779,7 +2733,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 766.3,
+    "latency_ms": 829.9,
     "used_fallback": false
   },
   {
@@ -2802,7 +2756,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.3,
+    "latency_ms": 803.7,
     "used_fallback": false
   },
   {
@@ -2825,7 +2779,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.3,
+    "latency_ms": 804.0,
     "used_fallback": false
   },
   {
@@ -2848,7 +2802,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.0,
+    "latency_ms": 799.3,
     "used_fallback": false
   },
   {
@@ -2871,7 +2825,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.4,
+    "latency_ms": 806.1,
     "used_fallback": false
   },
   {
@@ -2894,7 +2848,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.4,
+    "latency_ms": 818.3,
     "used_fallback": false
   },
   {
@@ -2917,7 +2871,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.0,
+    "latency_ms": 804.6,
     "used_fallback": false
   },
   {
@@ -2940,7 +2894,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 736.2,
+    "latency_ms": 803.2,
     "used_fallback": false
   },
   {
@@ -2963,7 +2917,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.2,
+    "latency_ms": 813.3,
     "used_fallback": false
   },
   {
@@ -2986,7 +2940,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 787.7,
+    "latency_ms": 808.3,
     "used_fallback": false
   },
   {
@@ -3009,7 +2963,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.0,
+    "latency_ms": 805.3,
     "used_fallback": false
   },
   {
@@ -3032,7 +2986,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.1,
+    "latency_ms": 871.9,
     "used_fallback": false
   },
   {
@@ -3055,7 +3009,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.7,
+    "latency_ms": 840.5,
     "used_fallback": false
   },
   {
@@ -3078,7 +3032,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 780.9,
+    "latency_ms": 846.4,
     "used_fallback": false
   },
   {
@@ -3101,7 +3055,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.3,
+    "latency_ms": 803.1,
     "used_fallback": false
   },
   {
@@ -3124,7 +3078,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.9,
+    "latency_ms": 887.9,
     "used_fallback": false
   },
   {
@@ -3147,7 +3101,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.9,
+    "latency_ms": 814.0,
     "used_fallback": false
   },
   {
@@ -3170,7 +3124,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 769.9,
+    "latency_ms": 804.6,
     "used_fallback": false
   },
   {
@@ -3193,7 +3147,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.6,
+    "latency_ms": 809.9,
     "used_fallback": false
   },
   {
@@ -3216,7 +3170,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.5,
+    "latency_ms": 803.6,
     "used_fallback": false
   },
   {
@@ -3239,7 +3193,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.8,
+    "latency_ms": 812.6,
     "used_fallback": false
   },
   {
@@ -3262,7 +3216,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 766.0,
+    "latency_ms": 816.4,
     "used_fallback": false
   },
   {
@@ -3285,7 +3239,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 787.6,
+    "latency_ms": 816.4,
     "used_fallback": false
   },
   {
@@ -3308,7 +3262,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.3,
+    "latency_ms": 801.0,
     "used_fallback": false
   },
   {
@@ -3331,7 +3285,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.0,
+    "latency_ms": 803.7,
     "used_fallback": false
   },
   {
@@ -3354,7 +3308,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.3,
+    "latency_ms": 812.7,
     "used_fallback": false
   },
   {
@@ -3377,7 +3331,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.9,
+    "latency_ms": 799.2,
     "used_fallback": false
   },
   {
@@ -3400,7 +3354,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.7,
+    "latency_ms": 809.2,
     "used_fallback": false
   },
   {
@@ -3423,7 +3377,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.3,
+    "latency_ms": 807.6,
     "used_fallback": false
   },
   {
@@ -3446,7 +3400,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.8,
+    "latency_ms": 813.0,
     "used_fallback": false
   },
   {
@@ -3469,7 +3423,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.2,
+    "latency_ms": 814.9,
     "used_fallback": false
   },
   {
@@ -3492,7 +3446,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 767.9,
+    "latency_ms": 827.9,
     "used_fallback": false
   },
   {
@@ -3515,7 +3469,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 738.9,
+    "latency_ms": 811.0,
     "used_fallback": false
   },
   {
@@ -3538,7 +3492,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.7,
+    "latency_ms": 815.0,
     "used_fallback": false
   },
   {
@@ -3561,7 +3515,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.8,
+    "latency_ms": 829.0,
     "used_fallback": false
   },
   {
@@ -3584,7 +3538,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.6,
+    "latency_ms": 813.9,
     "used_fallback": false
   },
   {
@@ -3607,7 +3561,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 769.5,
+    "latency_ms": 832.2,
     "used_fallback": false
   },
   {
@@ -3630,7 +3584,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.7,
+    "latency_ms": 804.0,
     "used_fallback": false
   },
   {
@@ -3653,7 +3607,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.2,
+    "latency_ms": 771.5,
     "used_fallback": false
   },
   {
@@ -3676,7 +3630,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.1,
+    "latency_ms": 782.2,
     "used_fallback": false
   },
   {
@@ -3699,7 +3653,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.6,
+    "latency_ms": 787.9,
     "used_fallback": false
   },
   {
@@ -3722,7 +3676,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 740.4,
+    "latency_ms": 777.6,
     "used_fallback": false
   },
   {
@@ -3745,7 +3699,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.1,
+    "latency_ms": 793.2,
     "used_fallback": false
   },
   {
@@ -3768,7 +3722,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.2,
+    "latency_ms": 791.5,
     "used_fallback": false
   },
   {
@@ -3791,7 +3745,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.2,
+    "latency_ms": 787.0,
     "used_fallback": false
   },
   {
@@ -3814,7 +3768,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.1,
+    "latency_ms": 781.0,
     "used_fallback": false
   },
   {
@@ -3837,7 +3791,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.9,
+    "latency_ms": 787.5,
     "used_fallback": false
   },
   {
@@ -3860,7 +3814,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 774.2,
+    "latency_ms": 819.0,
     "used_fallback": false
   },
   {
@@ -3883,7 +3837,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.1,
+    "latency_ms": 798.7,
     "used_fallback": false
   },
   {
@@ -3906,7 +3860,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.7,
+    "latency_ms": 794.3,
     "used_fallback": false
   },
   {
@@ -3929,7 +3883,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 769.5,
+    "latency_ms": 811.8,
     "used_fallback": false
   },
   {
@@ -3952,7 +3906,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.2,
+    "latency_ms": 785.3,
     "used_fallback": false
   },
   {
@@ -3975,7 +3929,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.3,
+    "latency_ms": 798.6,
     "used_fallback": false
   },
   {
@@ -3998,7 +3952,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.3,
+    "latency_ms": 782.5,
     "used_fallback": false
   },
   {
@@ -4021,7 +3975,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 776.8,
+    "latency_ms": 777.6,
     "used_fallback": false
   },
   {
@@ -4044,7 +3998,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 740.3,
+    "latency_ms": 746.5,
     "used_fallback": false
   },
   {
@@ -4067,7 +4021,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.3,
+    "latency_ms": 773.1,
     "used_fallback": false
   },
   {
@@ -4090,7 +4044,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.0,
+    "latency_ms": 787.9,
     "used_fallback": false
   },
   {
@@ -4113,7 +4067,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.8,
+    "latency_ms": 742.2,
     "used_fallback": false
   },
   {
@@ -4136,7 +4090,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 735.6,
+    "latency_ms": 757.1,
     "used_fallback": false
   },
   {
@@ -4159,7 +4113,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.0,
+    "latency_ms": 776.3,
     "used_fallback": false
   },
   {
@@ -4182,7 +4136,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.7,
+    "latency_ms": 780.6,
     "used_fallback": false
   },
   {
@@ -4205,7 +4159,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 774.1,
+    "latency_ms": 784.8,
     "used_fallback": false
   },
   {
@@ -4228,7 +4182,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.1,
+    "latency_ms": 793.1,
     "used_fallback": false
   },
   {
@@ -4251,7 +4205,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 769.4,
+    "latency_ms": 785.2,
     "used_fallback": false
   },
   {
@@ -4274,7 +4228,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.6,
+    "latency_ms": 781.6,
     "used_fallback": false
   },
   {
@@ -4297,7 +4251,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.2,
+    "latency_ms": 788.8,
     "used_fallback": false
   },
   {
@@ -4320,7 +4274,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.0,
+    "latency_ms": 786.6,
     "used_fallback": false
   },
   {
@@ -4343,7 +4297,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.0,
+    "latency_ms": 788.5,
     "used_fallback": false
   },
   {
@@ -4366,7 +4320,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.5,
+    "latency_ms": 792.3,
     "used_fallback": false
   },
   {
@@ -4389,7 +4343,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 763.3,
+    "latency_ms": 782.4,
     "used_fallback": false
   },
   {
@@ -4412,7 +4366,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.6,
+    "latency_ms": 792.0,
     "used_fallback": false
   },
   {
@@ -4435,7 +4389,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.6,
+    "latency_ms": 780.4,
     "used_fallback": false
   },
   {
@@ -4458,7 +4412,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 734.1,
+    "latency_ms": 787.2,
     "used_fallback": false
   },
   {
@@ -4481,7 +4435,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.9,
+    "latency_ms": 793.5,
     "used_fallback": false
   },
   {
@@ -4504,7 +4458,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.6,
+    "latency_ms": 783.9,
     "used_fallback": false
   },
   {
@@ -4527,7 +4481,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.0,
+    "latency_ms": 786.7,
     "used_fallback": false
   },
   {
@@ -4550,7 +4504,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.1,
+    "latency_ms": 876.8,
     "used_fallback": false
   },
   {
@@ -4573,7 +4527,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.5,
+    "latency_ms": 893.5,
     "used_fallback": false
   },
   {
@@ -4596,7 +4550,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.7,
+    "latency_ms": 904.8,
     "used_fallback": false
   },
   {
@@ -4619,7 +4573,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.4,
+    "latency_ms": 915.2,
     "used_fallback": false
   },
   {
@@ -4642,7 +4596,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.1,
+    "latency_ms": 934.0,
     "used_fallback": false
   },
   {
@@ -4665,7 +4619,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.0,
+    "latency_ms": 901.3,
     "used_fallback": false
   },
   {
@@ -4688,7 +4642,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 731.9,
+    "latency_ms": 904.3,
     "used_fallback": false
   },
   {
@@ -4711,7 +4665,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.1,
+    "latency_ms": 920.6,
     "used_fallback": false
   },
   {
@@ -4734,7 +4688,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.7,
+    "latency_ms": 962.4,
     "used_fallback": false
   },
   {
@@ -4757,7 +4711,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 772.2,
+    "latency_ms": 927.1,
     "used_fallback": false
   },
   {
@@ -4780,7 +4734,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.8,
+    "latency_ms": 912.6,
     "used_fallback": false
   },
   {
@@ -4803,7 +4757,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.5,
+    "latency_ms": 927.5,
     "used_fallback": false
   },
   {
@@ -4826,7 +4780,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 737.5,
+    "latency_ms": 897.6,
     "used_fallback": false
   },
   {
@@ -4849,7 +4803,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.0,
+    "latency_ms": 956.1,
     "used_fallback": false
   },
   {
@@ -4872,7 +4826,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.2,
+    "latency_ms": 784.4,
     "used_fallback": false
   },
   {
@@ -4895,7 +4849,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 741.1,
+    "latency_ms": 813.1,
     "used_fallback": false
   },
   {
@@ -4918,7 +4872,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 713.7,
+    "latency_ms": 738.7,
     "used_fallback": false
   },
   {
@@ -4941,7 +4895,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.5,
+    "latency_ms": 787.0,
     "used_fallback": false
   },
   {
@@ -4964,7 +4918,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.7,
+    "latency_ms": 772.2,
     "used_fallback": false
   },
   {
@@ -4987,7 +4941,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.0,
+    "latency_ms": 791.0,
     "used_fallback": false
   },
   {
@@ -5010,7 +4964,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.4,
+    "latency_ms": 783.4,
     "used_fallback": false
   },
   {
@@ -5033,7 +4987,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.7,
+    "latency_ms": 774.9,
     "used_fallback": false
   },
   {
@@ -5056,7 +5010,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 738.6,
+    "latency_ms": 779.1,
     "used_fallback": false
   },
   {
@@ -5079,7 +5033,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.3,
+    "latency_ms": 785.3,
     "used_fallback": false
   },
   {
@@ -5102,7 +5056,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 739.3,
+    "latency_ms": 772.4,
     "used_fallback": false
   },
   {
@@ -5125,7 +5079,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.8,
+    "latency_ms": 769.3,
     "used_fallback": false
   },
   {
@@ -5148,7 +5102,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 740.5,
+    "latency_ms": 811.1,
     "used_fallback": false
   },
   {
@@ -5171,7 +5125,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.9,
+    "latency_ms": 788.9,
     "used_fallback": false
   },
   {
@@ -5194,7 +5148,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.1,
+    "latency_ms": 783.7,
     "used_fallback": false
   },
   {
@@ -5217,7 +5171,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 764.1,
+    "latency_ms": 774.7,
     "used_fallback": false
   },
   {
@@ -5240,7 +5194,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.5,
+    "latency_ms": 784.0,
     "used_fallback": false
   },
   {
@@ -5263,7 +5217,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.4,
+    "latency_ms": 895.4,
     "used_fallback": false
   },
   {
@@ -5286,7 +5240,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 741.3,
+    "latency_ms": 827.5,
     "used_fallback": false
   },
   {
@@ -5309,7 +5263,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.1,
+    "latency_ms": 891.0,
     "used_fallback": false
   },
   {
@@ -5332,7 +5286,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.1,
+    "latency_ms": 824.5,
     "used_fallback": false
   },
   {
@@ -5355,7 +5309,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.1,
+    "latency_ms": 777.3,
     "used_fallback": false
   },
   {
@@ -5378,7 +5332,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.7,
+    "latency_ms": 796.8,
     "used_fallback": false
   },
   {
@@ -5401,7 +5355,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.3,
+    "latency_ms": 785.2,
     "used_fallback": false
   },
   {
@@ -5424,7 +5378,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.1,
+    "latency_ms": 805.5,
     "used_fallback": false
   },
   {
@@ -5447,7 +5401,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.9,
+    "latency_ms": 779.5,
     "used_fallback": false
   },
   {
@@ -5470,7 +5424,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.1,
+    "latency_ms": 778.4,
     "used_fallback": false
   },
   {
@@ -5493,7 +5447,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 767.9,
+    "latency_ms": 810.0,
     "used_fallback": false
   },
   {
@@ -5516,7 +5470,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.5,
+    "latency_ms": 796.9,
     "used_fallback": false
   },
   {
@@ -5539,7 +5493,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.4,
+    "latency_ms": 780.7,
     "used_fallback": false
   },
   {
@@ -5562,7 +5516,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.9,
+    "latency_ms": 820.8,
     "used_fallback": false
   },
   {
@@ -5585,7 +5539,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.7,
+    "latency_ms": 892.4,
     "used_fallback": false
   },
   {
@@ -5608,7 +5562,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.9,
+    "latency_ms": 813.2,
     "used_fallback": false
   },
   {
@@ -5631,7 +5585,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.7,
+    "latency_ms": 943.5,
     "used_fallback": false
   },
   {
@@ -5654,7 +5608,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.7,
+    "latency_ms": 796.3,
     "used_fallback": false
   },
   {
@@ -5677,7 +5631,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.7,
+    "latency_ms": 790.2,
     "used_fallback": false
   },
   {
@@ -5700,7 +5654,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.7,
+    "latency_ms": 785.8,
     "used_fallback": false
   },
   {
@@ -5723,7 +5677,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.0,
+    "latency_ms": 780.8,
     "used_fallback": false
   },
   {
@@ -5746,7 +5700,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.3,
+    "latency_ms": 786.8,
     "used_fallback": false
   },
   {
@@ -5769,7 +5723,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.5,
+    "latency_ms": 786.4,
     "used_fallback": false
   },
   {
@@ -5792,7 +5746,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.0,
+    "latency_ms": 799.7,
     "used_fallback": false
   },
   {
@@ -5815,7 +5769,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.9,
+    "latency_ms": 918.5,
     "used_fallback": false
   },
   {
@@ -5838,7 +5792,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.7,
+    "latency_ms": 971.6,
     "used_fallback": false
   },
   {
@@ -5861,7 +5815,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.7,
+    "latency_ms": 946.3,
     "used_fallback": false
   },
   {
@@ -5884,7 +5838,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.6,
+    "latency_ms": 934.9,
     "used_fallback": false
   },
   {
@@ -5907,7 +5861,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.6,
+    "latency_ms": 875.2,
     "used_fallback": false
   },
   {
@@ -5930,7 +5884,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.5,
+    "latency_ms": 871.6,
     "used_fallback": false
   },
   {
@@ -5953,7 +5907,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.9,
+    "latency_ms": 873.2,
     "used_fallback": false
   },
   {
@@ -5976,7 +5930,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.1,
+    "latency_ms": 866.4,
     "used_fallback": false
   },
   {
@@ -5999,7 +5953,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.6,
+    "latency_ms": 955.5,
     "used_fallback": false
   },
   {
@@ -6022,7 +5976,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.4,
+    "latency_ms": 979.4,
     "used_fallback": false
   },
   {
@@ -6045,7 +5999,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.9,
+    "latency_ms": 980.0,
     "used_fallback": false
   },
   {
@@ -6068,7 +6022,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.1,
+    "latency_ms": 979.4,
     "used_fallback": false
   },
   {
@@ -6091,7 +6045,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.2,
+    "latency_ms": 968.3,
     "used_fallback": false
   },
   {
@@ -6114,7 +6068,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 759.5,
+    "latency_ms": 979.3,
     "used_fallback": false
   },
   {
@@ -6137,7 +6091,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.1,
+    "latency_ms": 978.6,
     "used_fallback": false
   },
   {
@@ -6160,7 +6114,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.6,
+    "latency_ms": 1004.7,
     "used_fallback": false
   },
   {
@@ -6183,7 +6137,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.2,
+    "latency_ms": 968.4,
     "used_fallback": false
   },
   {
@@ -6206,7 +6160,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.0,
+    "latency_ms": 963.1,
     "used_fallback": false
   },
   {
@@ -6229,7 +6183,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.8,
+    "latency_ms": 966.5,
     "used_fallback": false
   },
   {
@@ -6252,7 +6206,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.2,
+    "latency_ms": 977.6,
     "used_fallback": false
   },
   {
@@ -6275,7 +6229,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.3,
+    "latency_ms": 984.6,
     "used_fallback": false
   },
   {
@@ -6298,7 +6252,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.6,
+    "latency_ms": 1023.1,
     "used_fallback": false
   },
   {
@@ -6321,7 +6275,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.8,
+    "latency_ms": 997.0,
     "used_fallback": false
   },
   {
@@ -6344,7 +6298,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.5,
+    "latency_ms": 998.6,
     "used_fallback": false
   },
   {
@@ -6367,7 +6321,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.7,
+    "latency_ms": 995.9,
     "used_fallback": false
   },
   {
@@ -6390,7 +6344,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 731.0,
+    "latency_ms": 983.1,
     "used_fallback": false
   },
   {
@@ -6413,7 +6367,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.0,
+    "latency_ms": 989.3,
     "used_fallback": false
   },
   {
@@ -6436,7 +6390,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.2,
+    "latency_ms": 1008.4,
     "used_fallback": false
   },
   {
@@ -6459,7 +6413,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.2,
+    "latency_ms": 992.8,
     "used_fallback": false
   },
   {
@@ -6482,7 +6436,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.8,
+    "latency_ms": 1012.0,
     "used_fallback": false
   },
   {
@@ -6505,7 +6459,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 740.2,
+    "latency_ms": 1006.6,
     "used_fallback": false
   },
   {
@@ -6528,7 +6482,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.0,
+    "latency_ms": 990.6,
     "used_fallback": false
   },
   {
@@ -6551,7 +6505,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 773.3,
+    "latency_ms": 1000.1,
     "used_fallback": false
   },
   {
@@ -6574,7 +6528,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.1,
+    "latency_ms": 989.9,
     "used_fallback": false
   },
   {
@@ -6597,7 +6551,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.6,
+    "latency_ms": 993.8,
     "used_fallback": false
   },
   {
@@ -6620,7 +6574,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.0,
+    "latency_ms": 994.3,
     "used_fallback": false
   },
   {
@@ -6643,7 +6597,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 737.7,
+    "latency_ms": 1028.3,
     "used_fallback": false
   },
   {
@@ -6666,7 +6620,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.9,
+    "latency_ms": 985.2,
     "used_fallback": false
   },
   {
@@ -6689,7 +6643,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.4,
+    "latency_ms": 995.8,
     "used_fallback": false
   },
   {
@@ -6712,7 +6666,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 788.4,
+    "latency_ms": 1000.9,
     "used_fallback": false
   },
   {
@@ -6735,7 +6689,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 750.9,
+    "latency_ms": 1030.0,
     "used_fallback": false
   },
   {
@@ -6758,7 +6712,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 744.0,
+    "latency_ms": 985.3,
     "used_fallback": false
   },
   {
@@ -6781,7 +6735,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 737.3,
+    "latency_ms": 1004.3,
     "used_fallback": false
   },
   {
@@ -6804,7 +6758,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.1,
+    "latency_ms": 989.3,
     "used_fallback": false
   },
   {
@@ -6827,7 +6781,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.1,
+    "latency_ms": 990.8,
     "used_fallback": false
   },
   {
@@ -6850,7 +6804,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 745.1,
+    "latency_ms": 1009.2,
     "used_fallback": false
   },
   {
@@ -6873,7 +6827,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.0,
+    "latency_ms": 1040.9,
     "used_fallback": false
   },
   {
@@ -6896,7 +6850,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 735.0,
+    "latency_ms": 959.7,
     "used_fallback": false
   },
   {
@@ -6919,7 +6873,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.8,
+    "latency_ms": 1002.2,
     "used_fallback": false
   },
   {
@@ -6942,7 +6896,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.1,
+    "latency_ms": 1008.0,
     "used_fallback": false
   },
   {
@@ -6965,7 +6919,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 732.5,
+    "latency_ms": 985.4,
     "used_fallback": false
   },
   {
@@ -6988,7 +6942,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 771.1,
+    "latency_ms": 986.3,
     "used_fallback": false
   },
   {
@@ -7011,7 +6965,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.9,
+    "latency_ms": 999.1,
     "used_fallback": false
   },
   {
@@ -7034,7 +6988,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 748.4,
+    "latency_ms": 990.7,
     "used_fallback": false
   },
   {
@@ -7057,7 +7011,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 733.1,
+    "latency_ms": 1030.7,
     "used_fallback": false
   },
   {
@@ -7080,7 +7034,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 722.3,
+    "latency_ms": 886.3,
     "used_fallback": false
   },
   {
@@ -7103,7 +7057,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.8,
+    "latency_ms": 900.1,
     "used_fallback": false
   },
   {
@@ -7126,7 +7080,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 749.5,
+    "latency_ms": 852.8,
     "used_fallback": false
   },
   {
@@ -7149,7 +7103,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 743.1,
+    "latency_ms": 885.4,
     "used_fallback": false
   },
   {
@@ -7172,7 +7126,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 756.7,
+    "latency_ms": 782.7,
     "used_fallback": false
   },
   {
@@ -7195,7 +7149,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 751.4,
+    "latency_ms": 959.5,
     "used_fallback": false
   },
   {
@@ -7218,7 +7172,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 742.9,
+    "latency_ms": 1050.9,
     "used_fallback": false
   },
   {
@@ -7241,7 +7195,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.1,
+    "latency_ms": 1034.3,
     "used_fallback": false
   },
   {
@@ -7264,7 +7218,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 752.0,
+    "latency_ms": 1017.7,
     "used_fallback": false
   },
   {
@@ -7287,7 +7241,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 760.9,
+    "latency_ms": 1022.4,
     "used_fallback": false
   },
   {
@@ -7310,7 +7264,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.9,
+    "latency_ms": 1023.0,
     "used_fallback": false
   },
   {
@@ -7333,7 +7287,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.4,
+    "latency_ms": 1041.2,
     "used_fallback": false
   },
   {
@@ -7356,7 +7310,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.1,
+    "latency_ms": 785.5,
     "used_fallback": false
   },
   {
@@ -7379,7 +7333,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 763.5,
+    "latency_ms": 867.2,
     "used_fallback": false
   },
   {
@@ -7402,7 +7356,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.3,
+    "latency_ms": 979.8,
     "used_fallback": false
   },
   {
@@ -7425,7 +7379,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.4,
+    "latency_ms": 921.7,
     "used_fallback": false
   },
   {
@@ -7448,7 +7402,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.0,
+    "latency_ms": 896.6,
     "used_fallback": false
   },
   {
@@ -7471,7 +7425,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.1,
+    "latency_ms": 902.0,
     "used_fallback": false
   },
   {
@@ -7494,7 +7448,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.5,
+    "latency_ms": 895.2,
     "used_fallback": false
   },
   {
@@ -7517,7 +7471,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 834.3,
+    "latency_ms": 884.8,
     "used_fallback": false
   },
   {
@@ -7540,7 +7494,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 829.1,
+    "latency_ms": 881.9,
     "used_fallback": false
   },
   {
@@ -7563,7 +7517,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 783.2,
+    "latency_ms": 964.6,
     "used_fallback": false
   },
   {
@@ -7586,7 +7540,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.8,
+    "latency_ms": 951.1,
     "used_fallback": false
   },
   {
@@ -7609,7 +7563,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.9,
+    "latency_ms": 960.6,
     "used_fallback": false
   },
   {
@@ -7632,7 +7586,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 758.6,
+    "latency_ms": 952.1,
     "used_fallback": false
   },
   {
@@ -7655,7 +7609,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.5,
+    "latency_ms": 956.0,
     "used_fallback": false
   },
   {
@@ -7678,7 +7632,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.3,
+    "latency_ms": 956.5,
     "used_fallback": false
   },
   {
@@ -7701,7 +7655,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 785.9,
+    "latency_ms": 966.6,
     "used_fallback": false
   },
   {
@@ -7724,7 +7678,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.7,
+    "latency_ms": 948.9,
     "used_fallback": false
   },
   {
@@ -7747,7 +7701,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.8,
+    "latency_ms": 1004.4,
     "used_fallback": false
   },
   {
@@ -7770,7 +7724,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.2,
+    "latency_ms": 1010.2,
     "used_fallback": false
   },
   {
@@ -7793,7 +7747,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.1,
+    "latency_ms": 1003.4,
     "used_fallback": false
   },
   {
@@ -7816,7 +7770,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 777.5,
+    "latency_ms": 1004.9,
     "used_fallback": false
   },
   {
@@ -7839,7 +7793,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 754.0,
+    "latency_ms": 1053.9,
     "used_fallback": false
   },
   {
@@ -7862,7 +7816,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.6,
+    "latency_ms": 1008.1,
     "used_fallback": false
   },
   {
@@ -7885,7 +7839,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.5,
+    "latency_ms": 1018.2,
     "used_fallback": false
   },
   {
@@ -7908,7 +7862,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.6,
+    "latency_ms": 1019.2,
     "used_fallback": false
   },
   {
@@ -7931,7 +7885,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 823.4,
+    "latency_ms": 1017.9,
     "used_fallback": false
   },
   {
@@ -7954,7 +7908,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 818.2,
+    "latency_ms": 1015.3,
     "used_fallback": false
   },
   {
@@ -7977,7 +7931,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.0,
+    "latency_ms": 1015.4,
     "used_fallback": false
   },
   {
@@ -8000,7 +7954,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 818.9,
+    "latency_ms": 1016.5,
     "used_fallback": false
   },
   {
@@ -8023,7 +7977,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.6,
+    "latency_ms": 1001.2,
     "used_fallback": false
   },
   {
@@ -8046,7 +8000,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.9,
+    "latency_ms": 1016.6,
     "used_fallback": false
   },
   {
@@ -8069,7 +8023,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.1,
+    "latency_ms": 1014.4,
     "used_fallback": false
   },
   {
@@ -8092,7 +8046,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 787.7,
+    "latency_ms": 1006.8,
     "used_fallback": false
   },
   {
@@ -8115,7 +8069,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 816.5,
+    "latency_ms": 1013.9,
     "used_fallback": false
   },
   {
@@ -8138,7 +8092,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.8,
+    "latency_ms": 1005.9,
     "used_fallback": false
   },
   {
@@ -8161,7 +8115,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 823.5,
+    "latency_ms": 1017.1,
     "used_fallback": false
   },
   {
@@ -8184,7 +8138,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.0,
+    "latency_ms": 1047.1,
     "used_fallback": false
   },
   {
@@ -8207,7 +8161,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 813.7,
+    "latency_ms": 1015.2,
     "used_fallback": false
   },
   {
@@ -8230,7 +8184,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.7,
+    "latency_ms": 1007.5,
     "used_fallback": false
   },
   {
@@ -8253,7 +8207,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 823.7,
+    "latency_ms": 1018.9,
     "used_fallback": false
   },
   {
@@ -8276,7 +8230,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.5,
+    "latency_ms": 1014.9,
     "used_fallback": false
   },
   {
@@ -8299,7 +8253,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 824.6,
+    "latency_ms": 1016.9,
     "used_fallback": false
   },
   {
@@ -8322,7 +8276,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.0,
+    "latency_ms": 1011.9,
     "used_fallback": false
   },
   {
@@ -8345,7 +8299,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.5,
+    "latency_ms": 1014.4,
     "used_fallback": false
   },
   {
@@ -8368,7 +8322,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 822.1,
+    "latency_ms": 1023.0,
     "used_fallback": false
   },
   {
@@ -8391,7 +8345,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.0,
+    "latency_ms": 1015.9,
     "used_fallback": false
   },
   {
@@ -8414,7 +8368,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.4,
+    "latency_ms": 1021.2,
     "used_fallback": false
   },
   {
@@ -8437,7 +8391,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.7,
+    "latency_ms": 1014.3,
     "used_fallback": false
   },
   {
@@ -8460,7 +8414,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.0,
+    "latency_ms": 1023.8,
     "used_fallback": false
   },
   {
@@ -8483,7 +8437,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.3,
+    "latency_ms": 1024.3,
     "used_fallback": false
   },
   {
@@ -8506,7 +8460,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.0,
+    "latency_ms": 1018.8,
     "used_fallback": false
   },
   {
@@ -8529,7 +8483,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.9,
+    "latency_ms": 962.5,
     "used_fallback": false
   },
   {
@@ -8552,7 +8506,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.2,
+    "latency_ms": 902.4,
     "used_fallback": false
   },
   {
@@ -8575,7 +8529,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.2,
+    "latency_ms": 921.8,
     "used_fallback": false
   },
   {
@@ -8598,7 +8552,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.7,
+    "latency_ms": 967.0,
     "used_fallback": false
   },
   {
@@ -8621,7 +8575,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.2,
+    "latency_ms": 1027.3,
     "used_fallback": false
   },
   {
@@ -8644,7 +8598,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.2,
+    "latency_ms": 1021.1,
     "used_fallback": false
   },
   {
@@ -8667,7 +8621,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 774.9,
+    "latency_ms": 1018.6,
     "used_fallback": false
   },
   {
@@ -8690,7 +8644,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 757.2,
+    "latency_ms": 906.1,
     "used_fallback": false
   },
   {
@@ -8713,7 +8667,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 818.2,
+    "latency_ms": 791.5,
     "used_fallback": false
   },
   {
@@ -8736,7 +8690,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.2,
+    "latency_ms": 999.5,
     "used_fallback": false
   },
   {
@@ -8759,7 +8713,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.7,
+    "latency_ms": 954.2,
     "used_fallback": false
   },
   {
@@ -8782,7 +8736,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 826.6,
+    "latency_ms": 1020.3,
     "used_fallback": false
   },
   {
@@ -8805,7 +8759,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 813.5,
+    "latency_ms": 1051.8,
     "used_fallback": false
   },
   {
@@ -8828,7 +8782,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.6,
+    "latency_ms": 1023.5,
     "used_fallback": false
   },
   {
@@ -8851,7 +8805,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.6,
+    "latency_ms": 916.9,
     "used_fallback": false
   },
   {
@@ -8874,7 +8828,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.7,
+    "latency_ms": 868.7,
     "used_fallback": false
   },
   {
@@ -8897,7 +8851,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.1,
+    "latency_ms": 852.6,
     "used_fallback": false
   },
   {
@@ -8920,7 +8874,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.5,
+    "latency_ms": 998.3,
     "used_fallback": false
   },
   {
@@ -8943,7 +8897,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 816.1,
+    "latency_ms": 812.0,
     "used_fallback": false
   },
   {
@@ -8966,7 +8920,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 782.1,
+    "latency_ms": 898.5,
     "used_fallback": false
   },
   {
@@ -8989,7 +8943,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 828.2,
+    "latency_ms": 1001.6,
     "used_fallback": false
   },
   {
@@ -9012,7 +8966,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.4,
+    "latency_ms": 1023.3,
     "used_fallback": false
   },
   {
@@ -9035,7 +8989,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.7,
+    "latency_ms": 966.3,
     "used_fallback": false
   },
   {
@@ -9058,7 +9012,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.8,
+    "latency_ms": 782.2,
     "used_fallback": false
   },
   {
@@ -9081,7 +9035,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.4,
+    "latency_ms": 775.7,
     "used_fallback": false
   },
   {
@@ -9104,7 +9058,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 786.7,
+    "latency_ms": 776.0,
     "used_fallback": false
   },
   {
@@ -9127,7 +9081,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.6,
+    "latency_ms": 844.8,
     "used_fallback": false
   },
   {
@@ -9150,7 +9104,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.3,
+    "latency_ms": 919.8,
     "used_fallback": false
   },
   {
@@ -9173,7 +9127,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.5,
+    "latency_ms": 941.9,
     "used_fallback": false
   },
   {
@@ -9196,7 +9150,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.3,
+    "latency_ms": 906.5,
     "used_fallback": false
   },
   {
@@ -9219,7 +9173,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.7,
+    "latency_ms": 919.5,
     "used_fallback": false
   },
   {
@@ -9242,7 +9196,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 787.1,
+    "latency_ms": 998.2,
     "used_fallback": false
   },
   {
@@ -9265,7 +9219,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 812.2,
+    "latency_ms": 823.4,
     "used_fallback": false
   },
   {
@@ -9288,7 +9242,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.6,
+    "latency_ms": 803.6,
     "used_fallback": false
   },
   {
@@ -9311,7 +9265,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 816.1,
+    "latency_ms": 813.9,
     "used_fallback": false
   },
   {
@@ -9334,7 +9288,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.1,
+    "latency_ms": 812.5,
     "used_fallback": false
   },
   {
@@ -9357,7 +9311,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 782.1,
+    "latency_ms": 775.6,
     "used_fallback": false
   },
   {
@@ -9380,7 +9334,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.5,
+    "latency_ms": 784.2,
     "used_fallback": false
   },
   {
@@ -9403,7 +9357,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.0,
+    "latency_ms": 780.0,
     "used_fallback": false
   },
   {
@@ -9426,7 +9380,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.2,
+    "latency_ms": 783.9,
     "used_fallback": false
   },
   {
@@ -9449,7 +9403,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 818.2,
+    "latency_ms": 789.2,
     "used_fallback": false
   },
   {
@@ -9472,7 +9426,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.1,
+    "latency_ms": 793.8,
     "used_fallback": false
   },
   {
@@ -9495,7 +9449,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.8,
+    "latency_ms": 794.9,
     "used_fallback": false
   },
   {
@@ -9518,7 +9472,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 746.6,
+    "latency_ms": 776.0,
     "used_fallback": false
   },
   {
@@ -9541,7 +9495,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.7,
+    "latency_ms": 778.8,
     "used_fallback": false
   },
   {
@@ -9564,7 +9518,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 816.0,
+    "latency_ms": 790.1,
     "used_fallback": false
   },
   {
@@ -9587,7 +9541,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.2,
+    "latency_ms": 841.5,
     "used_fallback": false
   },
   {
@@ -9610,7 +9564,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.9,
+    "latency_ms": 812.2,
     "used_fallback": false
   },
   {
@@ -9633,7 +9587,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.7,
+    "latency_ms": 801.9,
     "used_fallback": false
   },
   {
@@ -9656,7 +9610,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.6,
+    "latency_ms": 818.2,
     "used_fallback": false
   },
   {
@@ -9679,7 +9633,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 835.6,
+    "latency_ms": 827.1,
     "used_fallback": false
   },
   {
@@ -9702,7 +9656,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 825.5,
+    "latency_ms": 843.6,
     "used_fallback": false
   },
   {
@@ -9725,7 +9679,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.8,
+    "latency_ms": 820.0,
     "used_fallback": false
   },
   {
@@ -9748,7 +9702,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.8,
+    "latency_ms": 810.2,
     "used_fallback": false
   },
   {
@@ -9771,7 +9725,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.4,
+    "latency_ms": 808.4,
     "used_fallback": false
   },
   {
@@ -9794,7 +9748,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 910.3,
+    "latency_ms": 791.8,
     "used_fallback": false
   },
   {
@@ -9817,7 +9771,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 904.8,
+    "latency_ms": 778.5,
     "used_fallback": false
   },
   {
@@ -9840,7 +9794,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.4,
+    "latency_ms": 770.7,
     "used_fallback": false
   },
   {
@@ -9863,7 +9817,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.1,
+    "latency_ms": 790.4,
     "used_fallback": false
   },
   {
@@ -9886,7 +9840,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 774.5,
+    "latency_ms": 756.0,
     "used_fallback": false
   },
   {
@@ -9909,7 +9863,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.9,
+    "latency_ms": 751.1,
     "used_fallback": false
   },
   {
@@ -9932,7 +9886,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 783.2,
+    "latency_ms": 746.1,
     "used_fallback": false
   },
   {
@@ -9955,7 +9909,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 827.3,
+    "latency_ms": 796.8,
     "used_fallback": false
   },
   {
@@ -9978,7 +9932,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 819.7,
+    "latency_ms": 751.6,
     "used_fallback": false
   },
   {
@@ -10001,7 +9955,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.5,
+    "latency_ms": 761.8,
     "used_fallback": false
   },
   {
@@ -10024,7 +9978,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.4,
+    "latency_ms": 758.2,
     "used_fallback": false
   },
   {
@@ -10047,7 +10001,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 812.1,
+    "latency_ms": 758.5,
     "used_fallback": false
   },
   {
@@ -10070,7 +10024,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 783.4,
+    "latency_ms": 735.6,
     "used_fallback": false
   },
   {
@@ -10093,7 +10047,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.2,
+    "latency_ms": 750.6,
     "used_fallback": false
   },
   {
@@ -10116,7 +10070,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.8,
+    "latency_ms": 724.5,
     "used_fallback": false
   },
   {
@@ -10139,7 +10093,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.4,
+    "latency_ms": 751.5,
     "used_fallback": false
   },
   {
@@ -10162,7 +10116,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 783.8,
+    "latency_ms": 756.7,
     "used_fallback": false
   },
   {
@@ -10185,7 +10139,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.1,
+    "latency_ms": 767.6,
     "used_fallback": false
   },
   {
@@ -10208,7 +10162,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.3,
+    "latency_ms": 744.9,
     "used_fallback": false
   },
   {
@@ -10231,7 +10185,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.1,
+    "latency_ms": 777.6,
     "used_fallback": false
   },
   {
@@ -10254,7 +10208,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.6,
+    "latency_ms": 758.7,
     "used_fallback": false
   },
   {
@@ -10277,7 +10231,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.9,
+    "latency_ms": 769.3,
     "used_fallback": false
   },
   {
@@ -10300,7 +10254,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.0,
+    "latency_ms": 768.5,
     "used_fallback": false
   },
   {
@@ -10323,7 +10277,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.8,
+    "latency_ms": 762.6,
     "used_fallback": false
   },
   {
@@ -10346,7 +10300,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 755.4,
+    "latency_ms": 707.5,
     "used_fallback": false
   },
   {
@@ -10369,7 +10323,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 725.6,
+    "latency_ms": 724.9,
     "used_fallback": false
   },
   {
@@ -10392,7 +10346,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 728.2,
+    "latency_ms": 726.8,
     "used_fallback": false
   },
   {
@@ -10415,7 +10369,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.4,
+    "latency_ms": 758.6,
     "used_fallback": false
   },
   {
@@ -10438,7 +10392,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.1,
+    "latency_ms": 744.8,
     "used_fallback": false
   },
   {
@@ -10461,7 +10415,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.7,
+    "latency_ms": 818.9,
     "used_fallback": false
   },
   {
@@ -10484,7 +10438,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.2,
+    "latency_ms": 956.8,
     "used_fallback": false
   },
   {
@@ -10507,7 +10461,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.7,
+    "latency_ms": 951.7,
     "used_fallback": false
   },
   {
@@ -10530,7 +10484,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.5,
+    "latency_ms": 945.4,
     "used_fallback": false
   },
   {
@@ -10553,7 +10507,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.1,
+    "latency_ms": 899.0,
     "used_fallback": false
   },
   {
@@ -10576,7 +10530,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.4,
+    "latency_ms": 885.6,
     "used_fallback": false
   },
   {
@@ -10599,7 +10553,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.0,
+    "latency_ms": 946.9,
     "used_fallback": false
   },
   {
@@ -10622,7 +10576,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.3,
+    "latency_ms": 1007.2,
     "used_fallback": false
   },
   {
@@ -10645,7 +10599,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.4,
+    "latency_ms": 986.1,
     "used_fallback": false
   },
   {
@@ -10668,7 +10622,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.7,
+    "latency_ms": 982.3,
     "used_fallback": false
   },
   {
@@ -10691,7 +10645,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.9,
+    "latency_ms": 959.1,
     "used_fallback": false
   },
   {
@@ -10714,7 +10668,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.9,
+    "latency_ms": 954.4,
     "used_fallback": false
   },
   {
@@ -10737,7 +10691,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.9,
+    "latency_ms": 967.1,
     "used_fallback": false
   },
   {
@@ -10760,7 +10714,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.2,
+    "latency_ms": 985.8,
     "used_fallback": false
   },
   {
@@ -10783,7 +10737,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.1,
+    "latency_ms": 962.6,
     "used_fallback": false
   },
   {
@@ -10806,7 +10760,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 835.4,
+    "latency_ms": 987.5,
     "used_fallback": false
   },
   {
@@ -10829,7 +10783,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.5,
+    "latency_ms": 986.9,
     "used_fallback": false
   },
   {
@@ -10852,7 +10806,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 782.7,
+    "latency_ms": 948.5,
     "used_fallback": false
   },
   {
@@ -10875,7 +10829,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.6,
+    "latency_ms": 958.5,
     "used_fallback": false
   },
   {
@@ -10898,7 +10852,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.9,
+    "latency_ms": 955.5,
     "used_fallback": false
   },
   {
@@ -10921,7 +10875,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 780.3,
+    "latency_ms": 938.7,
     "used_fallback": false
   },
   {
@@ -10944,7 +10898,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 771.4,
+    "latency_ms": 955.8,
     "used_fallback": false
   },
   {
@@ -10967,7 +10921,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.3,
+    "latency_ms": 959.5,
     "used_fallback": false
   },
   {
@@ -10990,7 +10944,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.3,
+    "latency_ms": 955.4,
     "used_fallback": false
   },
   {
@@ -11013,7 +10967,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 780.0,
+    "latency_ms": 874.4,
     "used_fallback": false
   },
   {
@@ -11036,7 +10990,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.1,
+    "latency_ms": 874.4,
     "used_fallback": false
   },
   {
@@ -11059,7 +11013,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.7,
+    "latency_ms": 879.0,
     "used_fallback": false
   },
   {
@@ -11082,7 +11036,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.7,
+    "latency_ms": 878.7,
     "used_fallback": false
   },
   {
@@ -11105,7 +11059,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.6,
+    "latency_ms": 939.0,
     "used_fallback": false
   },
   {
@@ -11128,7 +11082,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.3,
+    "latency_ms": 958.6,
     "used_fallback": false
   },
   {
@@ -11151,7 +11105,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.6,
+    "latency_ms": 971.0,
     "used_fallback": false
   },
   {
@@ -11174,7 +11128,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.7,
+    "latency_ms": 988.5,
     "used_fallback": false
   },
   {
@@ -11197,7 +11151,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 796.5,
+    "latency_ms": 948.4,
     "used_fallback": false
   },
   {
@@ -11220,7 +11174,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.2,
+    "latency_ms": 977.6,
     "used_fallback": false
   },
   {
@@ -11243,7 +11197,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.6,
+    "latency_ms": 953.6,
     "used_fallback": false
   },
   {
@@ -11266,7 +11220,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 747.9,
+    "latency_ms": 958.8,
     "used_fallback": false
   },
   {
@@ -11289,7 +11243,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 788.6,
+    "latency_ms": 957.7,
     "used_fallback": false
   },
   {
@@ -11312,7 +11266,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.5,
+    "latency_ms": 974.3,
     "used_fallback": false
   },
   {
@@ -11335,7 +11289,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.1,
+    "latency_ms": 969.4,
     "used_fallback": false
   },
   {
@@ -11358,7 +11312,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.0,
+    "latency_ms": 963.5,
     "used_fallback": false
   },
   {
@@ -11381,7 +11335,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.8,
+    "latency_ms": 964.3,
     "used_fallback": false
   },
   {
@@ -11404,7 +11358,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.6,
+    "latency_ms": 952.6,
     "used_fallback": false
   },
   {
@@ -11427,7 +11381,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.4,
+    "latency_ms": 971.4,
     "used_fallback": false
   },
   {
@@ -11450,7 +11404,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.5,
+    "latency_ms": 965.7,
     "used_fallback": false
   },
   {
@@ -11473,7 +11427,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 789.2,
+    "latency_ms": 986.6,
     "used_fallback": false
   },
   {
@@ -11496,7 +11450,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.1,
+    "latency_ms": 965.4,
     "used_fallback": false
   },
   {
@@ -11519,7 +11473,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.7,
+    "latency_ms": 950.3,
     "used_fallback": false
   },
   {
@@ -11542,7 +11496,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.3,
+    "latency_ms": 948.7,
     "used_fallback": false
   },
   {
@@ -11565,7 +11519,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.9,
+    "latency_ms": 961.9,
     "used_fallback": false
   },
   {
@@ -11588,7 +11542,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 782.2,
+    "latency_ms": 972.7,
     "used_fallback": false
   },
   {
@@ -11611,7 +11565,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.9,
+    "latency_ms": 976.5,
     "used_fallback": false
   },
   {
@@ -11634,7 +11588,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.8,
+    "latency_ms": 963.8,
     "used_fallback": false
   },
   {
@@ -11657,7 +11611,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.7,
+    "latency_ms": 967.8,
     "used_fallback": false
   },
   {
@@ -11680,7 +11634,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 807.0,
+    "latency_ms": 963.6,
     "used_fallback": false
   },
   {
@@ -11703,7 +11657,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.5,
+    "latency_ms": 947.7,
     "used_fallback": false
   },
   {
@@ -11726,7 +11680,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.5,
+    "latency_ms": 911.3,
     "used_fallback": false
   },
   {
@@ -11749,7 +11703,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 813.5,
+    "latency_ms": 885.6,
     "used_fallback": false
   },
   {
@@ -11772,7 +11726,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.5,
+    "latency_ms": 886.4,
     "used_fallback": false
   },
   {
@@ -11795,7 +11749,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.0,
+    "latency_ms": 921.9,
     "used_fallback": false
   },
   {
@@ -11818,7 +11772,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 812.1,
+    "latency_ms": 895.7,
     "used_fallback": false
   },
   {
@@ -11841,7 +11795,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.3,
+    "latency_ms": 752.1,
     "used_fallback": false
   },
   {
@@ -11864,7 +11818,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 825.0,
+    "latency_ms": 755.0,
     "used_fallback": false
   },
   {
@@ -11887,7 +11841,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 786.9,
+    "latency_ms": 765.1,
     "used_fallback": false
   },
   {
@@ -11910,7 +11864,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 822.7,
+    "latency_ms": 905.1,
     "used_fallback": false
   },
   {
@@ -11933,7 +11887,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 825.0,
+    "latency_ms": 902.5,
     "used_fallback": false
   },
   {
@@ -11956,7 +11910,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.5,
+    "latency_ms": 903.1,
     "used_fallback": false
   },
   {
@@ -11979,7 +11933,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.6,
+    "latency_ms": 933.5,
     "used_fallback": false
   },
   {
@@ -12002,7 +11956,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.4,
+    "latency_ms": 933.8,
     "used_fallback": false
   },
   {
@@ -12025,7 +11979,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.2,
+    "latency_ms": 903.1,
     "used_fallback": false
   },
   {
@@ -12048,7 +12002,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 813.6,
+    "latency_ms": 919.3,
     "used_fallback": false
   },
   {
@@ -12071,7 +12025,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.7,
+    "latency_ms": 921.2,
     "used_fallback": false
   },
   {
@@ -12094,7 +12048,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 785.3,
+    "latency_ms": 917.1,
     "used_fallback": false
   },
   {
@@ -12117,7 +12071,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 783.7,
+    "latency_ms": 907.8,
     "used_fallback": false
   },
   {
@@ -12140,7 +12094,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 788.5,
+    "latency_ms": 932.3,
     "used_fallback": false
   },
   {
@@ -12163,7 +12117,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.2,
+    "latency_ms": 947.3,
     "used_fallback": false
   },
   {
@@ -12186,7 +12140,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 822.8,
+    "latency_ms": 887.5,
     "used_fallback": false
   },
   {
@@ -12209,7 +12163,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 822.2,
+    "latency_ms": 924.3,
     "used_fallback": false
   },
   {
@@ -12232,7 +12186,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 813.3,
+    "latency_ms": 911.3,
     "used_fallback": false
   },
   {
@@ -12255,7 +12209,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.3,
+    "latency_ms": 922.6,
     "used_fallback": false
   },
   {
@@ -12278,7 +12232,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 774.4,
+    "latency_ms": 881.4,
     "used_fallback": false
   },
   {
@@ -12301,7 +12255,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.2,
+    "latency_ms": 893.9,
     "used_fallback": false
   },
   {
@@ -12324,7 +12278,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 775.8,
+    "latency_ms": 830.5,
     "used_fallback": false
   },
   {
@@ -12347,7 +12301,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.8,
+    "latency_ms": 919.8,
     "used_fallback": false
   },
   {
@@ -12370,7 +12324,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 781.8,
+    "latency_ms": 778.0,
     "used_fallback": false
   },
   {
@@ -12393,7 +12347,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.8,
+    "latency_ms": 755.6,
     "used_fallback": false
   },
   {
@@ -12416,7 +12370,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.5,
+    "latency_ms": 736.4,
     "used_fallback": false
   },
   {
@@ -12439,7 +12393,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.4,
+    "latency_ms": 760.7,
     "used_fallback": false
   },
   {
@@ -12462,7 +12416,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.9,
+    "latency_ms": 760.7,
     "used_fallback": false
   },
   {
@@ -12485,7 +12439,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 825.0,
+    "latency_ms": 742.4,
     "used_fallback": false
   },
   {
@@ -12508,7 +12462,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 812.3,
+    "latency_ms": 753.5,
     "used_fallback": false
   },
   {
@@ -12531,7 +12485,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.9,
+    "latency_ms": 763.4,
     "used_fallback": false
   },
   {
@@ -12554,7 +12508,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.3,
+    "latency_ms": 747.0,
     "used_fallback": false
   },
   {
@@ -12577,7 +12531,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.6,
+    "latency_ms": 750.6,
     "used_fallback": false
   },
   {
@@ -12600,7 +12554,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.0,
+    "latency_ms": 739.7,
     "used_fallback": false
   },
   {
@@ -12623,7 +12577,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.7,
+    "latency_ms": 743.8,
     "used_fallback": false
   },
   {
@@ -12646,7 +12600,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.2,
+    "latency_ms": 748.2,
     "used_fallback": false
   },
   {
@@ -12669,7 +12623,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.7,
+    "latency_ms": 746.4,
     "used_fallback": false
   },
   {
@@ -12692,7 +12646,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.2,
+    "latency_ms": 723.6,
     "used_fallback": false
   },
   {
@@ -12715,7 +12669,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.7,
+    "latency_ms": 749.4,
     "used_fallback": false
   },
   {
@@ -12738,7 +12692,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 840.3,
+    "latency_ms": 740.5,
     "used_fallback": false
   },
   {
@@ -12761,7 +12715,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.5,
+    "latency_ms": 754.8,
     "used_fallback": false
   },
   {
@@ -12784,7 +12738,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.8,
+    "latency_ms": 712.4,
     "used_fallback": false
   },
   {
@@ -12807,7 +12761,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.7,
+    "latency_ms": 768.7,
     "used_fallback": false
   },
   {
@@ -12830,7 +12784,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.9,
+    "latency_ms": 749.8,
     "used_fallback": false
   },
   {
@@ -12853,7 +12807,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.0,
+    "latency_ms": 761.7,
     "used_fallback": false
   },
   {
@@ -12876,7 +12830,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 816.2,
+    "latency_ms": 757.9,
     "used_fallback": false
   },
   {
@@ -12899,7 +12853,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 829.9,
+    "latency_ms": 772.1,
     "used_fallback": false
   },
   {
@@ -12922,7 +12876,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.5,
+    "latency_ms": 770.5,
     "used_fallback": false
   },
   {
@@ -12945,7 +12899,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 823.5,
+    "latency_ms": 777.7,
     "used_fallback": false
   },
   {
@@ -12968,7 +12922,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.7,
+    "latency_ms": 759.4,
     "used_fallback": false
   },
   {
@@ -12991,7 +12945,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.6,
+    "latency_ms": 766.8,
     "used_fallback": false
   },
   {
@@ -13014,7 +12968,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.9,
+    "latency_ms": 722.0,
     "used_fallback": false
   },
   {
@@ -13037,7 +12991,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 832.7,
+    "latency_ms": 736.2,
     "used_fallback": false
   },
   {
@@ -13060,7 +13014,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.5,
+    "latency_ms": 752.4,
     "used_fallback": false
   },
   {
@@ -13083,7 +13037,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.3,
+    "latency_ms": 735.5,
     "used_fallback": false
   },
   {
@@ -13106,7 +13060,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 821.8,
+    "latency_ms": 752.8,
     "used_fallback": false
   },
   {
@@ -13129,7 +13083,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.9,
+    "latency_ms": 762.4,
     "used_fallback": false
   },
   {
@@ -13152,7 +13106,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.2,
+    "latency_ms": 762.2,
     "used_fallback": false
   },
   {
@@ -13175,7 +13129,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.3,
+    "latency_ms": 755.5,
     "used_fallback": false
   },
   {
@@ -13198,7 +13152,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.0,
+    "latency_ms": 759.4,
     "used_fallback": false
   },
   {
@@ -13221,7 +13175,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.0,
+    "latency_ms": 770.3,
     "used_fallback": false
   },
   {
@@ -13244,7 +13198,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 789.0,
+    "latency_ms": 751.9,
     "used_fallback": false
   },
   {
@@ -13267,7 +13221,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.5,
+    "latency_ms": 766.2,
     "used_fallback": false
   },
   {
@@ -13290,7 +13244,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 789.3,
+    "latency_ms": 766.2,
     "used_fallback": false
   },
   {
@@ -13313,7 +13267,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.8,
+    "latency_ms": 756.4,
     "used_fallback": false
   },
   {
@@ -13336,7 +13290,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.3,
+    "latency_ms": 761.1,
     "used_fallback": false
   },
   {
@@ -13359,7 +13313,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.6,
+    "latency_ms": 768.6,
     "used_fallback": false
   },
   {
@@ -13382,7 +13336,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.9,
+    "latency_ms": 763.2,
     "used_fallback": false
   },
   {
@@ -13405,7 +13359,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 805.8,
+    "latency_ms": 706.4,
     "used_fallback": false
   },
   {
@@ -13428,7 +13382,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.6,
+    "latency_ms": 806.0,
     "used_fallback": false
   },
   {
@@ -13451,7 +13405,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 821.0,
+    "latency_ms": 776.2,
     "used_fallback": false
   },
   {
@@ -13474,7 +13428,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 822.0,
+    "latency_ms": 747.7,
     "used_fallback": false
   },
   {
@@ -13497,7 +13451,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.9,
+    "latency_ms": 735.1,
     "used_fallback": false
   },
   {
@@ -13520,7 +13474,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 804.2,
+    "latency_ms": 750.5,
     "used_fallback": false
   },
   {
@@ -13543,7 +13497,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 828.7,
+    "latency_ms": 730.3,
     "used_fallback": false
   },
   {
@@ -13566,7 +13520,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.7,
+    "latency_ms": 719.2,
     "used_fallback": false
   },
   {
@@ -13589,7 +13543,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.5,
+    "latency_ms": 705.7,
     "used_fallback": false
   },
   {
@@ -13612,7 +13566,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.7,
+    "latency_ms": 724.9,
     "used_fallback": false
   },
   {
@@ -13635,7 +13589,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 815.5,
+    "latency_ms": 731.7,
     "used_fallback": false
   },
   {
@@ -13658,7 +13612,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.2,
+    "latency_ms": 719.5,
     "used_fallback": false
   },
   {
@@ -13681,7 +13635,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.5,
+    "latency_ms": 718.4,
     "used_fallback": false
   },
   {
@@ -13704,7 +13658,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 772.3,
+    "latency_ms": 705.1,
     "used_fallback": false
   },
   {
@@ -13727,7 +13681,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.8,
+    "latency_ms": 760.2,
     "used_fallback": false
   },
   {
@@ -13750,7 +13704,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 782.3,
+    "latency_ms": 674.6,
     "used_fallback": false
   },
   {
@@ -13773,7 +13727,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.1,
+    "latency_ms": 718.9,
     "used_fallback": false
   },
   {
@@ -13796,7 +13750,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.5,
+    "latency_ms": 703.7,
     "used_fallback": false
   },
   {
@@ -13819,7 +13773,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.4,
+    "latency_ms": 745.4,
     "used_fallback": false
   },
   {
@@ -13842,7 +13796,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 779.9,
+    "latency_ms": 723.1,
     "used_fallback": false
   },
   {
@@ -13865,7 +13819,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 809.8,
+    "latency_ms": 742.6,
     "used_fallback": false
   },
   {
@@ -13888,7 +13842,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 765.4,
+    "latency_ms": 721.2,
     "used_fallback": false
   },
   {
@@ -13911,7 +13865,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 818.7,
+    "latency_ms": 767.4,
     "used_fallback": false
   },
   {
@@ -13934,7 +13888,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 817.7,
+    "latency_ms": 742.1,
     "used_fallback": false
   },
   {
@@ -13957,7 +13911,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.9,
+    "latency_ms": 739.0,
     "used_fallback": false
   },
   {
@@ -13980,7 +13934,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 762.0,
+    "latency_ms": 760.5,
     "used_fallback": false
   },
   {
@@ -14003,7 +13957,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 827.0,
+    "latency_ms": 753.6,
     "used_fallback": false
   },
   {
@@ -14026,7 +13980,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.6,
+    "latency_ms": 742.9,
     "used_fallback": false
   },
   {
@@ -14049,7 +14003,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 820.8,
+    "latency_ms": 745.5,
     "used_fallback": false
   },
   {
@@ -14072,7 +14026,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.6,
+    "latency_ms": 756.2,
     "used_fallback": false
   },
   {
@@ -14095,7 +14049,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.9,
+    "latency_ms": 751.9,
     "used_fallback": false
   },
   {
@@ -14118,7 +14072,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 811.9,
+    "latency_ms": 762.8,
     "used_fallback": false
   },
   {
@@ -14141,7 +14095,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.7,
+    "latency_ms": 738.3,
     "used_fallback": false
   },
   {
@@ -14164,7 +14118,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.1,
+    "latency_ms": 731.4,
     "used_fallback": false
   },
   {
@@ -14187,7 +14141,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.9,
+    "latency_ms": 755.7,
     "used_fallback": false
   },
   {
@@ -14210,7 +14164,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.8,
+    "latency_ms": 798.8,
     "used_fallback": false
   },
   {
@@ -14233,7 +14187,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.8,
+    "latency_ms": 749.4,
     "used_fallback": false
   },
   {
@@ -14256,7 +14210,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.6,
+    "latency_ms": 752.6,
     "used_fallback": false
   },
   {
@@ -14279,7 +14233,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.9,
+    "latency_ms": 830.3,
     "used_fallback": false
   },
   {
@@ -14302,7 +14256,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.4,
+    "latency_ms": 866.6,
     "used_fallback": false
   },
   {
@@ -14325,7 +14279,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.7,
+    "latency_ms": 782.3,
     "used_fallback": false
   },
   {
@@ -14348,7 +14302,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.6,
+    "latency_ms": 767.0,
     "used_fallback": false
   },
   {
@@ -14371,7 +14325,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.6,
+    "latency_ms": 750.3,
     "used_fallback": false
   },
   {
@@ -14394,7 +14348,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 778.5,
+    "latency_ms": 774.4,
     "used_fallback": false
   },
   {
@@ -14417,7 +14371,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.0,
+    "latency_ms": 755.7,
     "used_fallback": false
   },
   {
@@ -14440,7 +14394,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.7,
+    "latency_ms": 759.5,
     "used_fallback": false
   },
   {
@@ -14463,7 +14417,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.7,
+    "latency_ms": 740.4,
     "used_fallback": false
   },
   {
@@ -14486,7 +14440,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.7,
+    "latency_ms": 768.2,
     "used_fallback": false
   },
   {
@@ -14509,7 +14463,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.5,
+    "latency_ms": 749.8,
     "used_fallback": false
   },
   {
@@ -14532,7 +14486,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 812.2,
+    "latency_ms": 745.0,
     "used_fallback": false
   },
   {
@@ -14555,7 +14509,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.6,
+    "latency_ms": 739.4,
     "used_fallback": false
   },
   {
@@ -14578,7 +14532,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.2,
+    "latency_ms": 742.7,
     "used_fallback": false
   },
   {
@@ -14601,7 +14555,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.2,
+    "latency_ms": 780.4,
     "used_fallback": false
   },
   {
@@ -14624,7 +14578,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.1,
+    "latency_ms": 774.8,
     "used_fallback": false
   },
   {
@@ -14647,7 +14601,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.2,
+    "latency_ms": 713.1,
     "used_fallback": false
   },
   {
@@ -14670,7 +14624,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 737.0,
+    "latency_ms": 733.1,
     "used_fallback": false
   },
   {
@@ -14693,7 +14647,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 753.4,
+    "latency_ms": 764.4,
     "used_fallback": false
   },
   {
@@ -14716,7 +14670,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.1,
+    "latency_ms": 739.1,
     "used_fallback": false
   },
   {
@@ -14739,7 +14693,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.3,
+    "latency_ms": 790.6,
     "used_fallback": false
   },
   {
@@ -14762,7 +14716,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 786.8,
+    "latency_ms": 752.9,
     "used_fallback": false
   },
   {
@@ -14785,7 +14739,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 791.9,
+    "latency_ms": 755.8,
     "used_fallback": false
   },
   {
@@ -14808,7 +14762,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.7,
+    "latency_ms": 749.6,
     "used_fallback": false
   },
   {
@@ -14831,7 +14785,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 806.4,
+    "latency_ms": 750.7,
     "used_fallback": false
   },
   {
@@ -14854,7 +14808,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 789.7,
+    "latency_ms": 764.5,
     "used_fallback": false
   },
   {
@@ -14877,7 +14831,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.2,
+    "latency_ms": 738.8,
     "used_fallback": false
   },
   {
@@ -14900,7 +14854,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 795.9,
+    "latency_ms": 821.2,
     "used_fallback": false
   },
   {
@@ -14923,7 +14877,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 800.5,
+    "latency_ms": 738.1,
     "used_fallback": false
   },
   {
@@ -14946,7 +14900,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.4,
+    "latency_ms": 715.6,
     "used_fallback": false
   },
   {
@@ -14969,7 +14923,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 784.8,
+    "latency_ms": 718.4,
     "used_fallback": false
   },
   {
@@ -14992,7 +14946,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 792.4,
+    "latency_ms": 757.0,
     "used_fallback": false
   },
   {
@@ -15015,7 +14969,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 819.1,
+    "latency_ms": 750.2,
     "used_fallback": false
   },
   {
@@ -15038,7 +14992,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.7,
+    "latency_ms": 767.0,
     "used_fallback": false
   },
   {
@@ -15061,7 +15015,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 790.0,
+    "latency_ms": 857.9,
     "used_fallback": false
   },
   {
@@ -15084,7 +15038,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 802.3,
+    "latency_ms": 752.0,
     "used_fallback": false
   },
   {
@@ -15107,7 +15061,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 801.3,
+    "latency_ms": 748.4,
     "used_fallback": false
   },
   {
@@ -15130,7 +15084,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.8,
+    "latency_ms": 750.5,
     "used_fallback": false
   },
   {
@@ -15153,7 +15107,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 794.7,
+    "latency_ms": 747.2,
     "used_fallback": false
   },
   {
@@ -15176,7 +15130,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.7,
+    "latency_ms": 745.0,
     "used_fallback": false
   },
   {
@@ -15199,7 +15153,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 786.9,
+    "latency_ms": 751.7,
     "used_fallback": false
   },
   {
@@ -15222,7 +15176,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.4,
+    "latency_ms": 800.3,
     "used_fallback": false
   },
   {
@@ -15245,7 +15199,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.2,
+    "latency_ms": 750.3,
     "used_fallback": false
   },
   {
@@ -15268,7 +15222,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 821.5,
+    "latency_ms": 743.8,
     "used_fallback": false
   },
   {
@@ -15291,7 +15245,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 814.5,
+    "latency_ms": 738.0,
     "used_fallback": false
   },
   {
@@ -15314,7 +15268,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 810.9,
+    "latency_ms": 738.0,
     "used_fallback": false
   },
   {
@@ -15337,7 +15291,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 799.3,
+    "latency_ms": 742.5,
     "used_fallback": false
   },
   {
@@ -15360,7 +15314,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 798.0,
+    "latency_ms": 774.7,
     "used_fallback": false
   },
   {
@@ -15383,7 +15337,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 808.1,
+    "latency_ms": 749.5,
     "used_fallback": false
   },
   {
@@ -15406,7 +15360,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 803.5,
+    "latency_ms": 799.7,
     "used_fallback": false
   },
   {
@@ -15429,7 +15383,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 797.9,
+    "latency_ms": 750.9,
     "used_fallback": false
   },
   {
@@ -15452,7 +15406,7 @@
       "get_peak_demand_status",
       "set_cooling_setpoint"
     ],
-    "latency_ms": 793.3,
+    "latency_ms": 737.2,
     "used_fallback": false
   }
 ]

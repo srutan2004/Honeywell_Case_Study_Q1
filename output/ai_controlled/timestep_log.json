@@ -14,7 +14,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 5873.9
+    "callback_latency_ms": 6800.0
   },
   {
     "month": 6,
@@ -31,7 +31,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.1
+    "callback_latency_ms": 898.6
   },
   {
     "month": 6,
@@ -48,7 +48,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 753.9
+    "callback_latency_ms": 926.0
   },
   {
     "month": 6,
@@ -65,7 +65,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 758.2
+    "callback_latency_ms": 934.1
   },
   {
     "month": 6,
@@ -82,7 +82,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 755.9
+    "callback_latency_ms": 919.8
   },
   {
     "month": 6,
@@ -99,7 +99,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 768.2
+    "callback_latency_ms": 922.6
   },
   {
     "month": 6,
@@ -116,7 +116,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 759.9
+    "callback_latency_ms": 915.6
   },
   {
     "month": 6,
@@ -133,7 +133,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 752.5
+    "callback_latency_ms": 932.8
   },
   {
     "month": 6,
@@ -150,7 +150,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.5
+    "callback_latency_ms": 935.0
   },
   {
     "month": 6,
@@ -167,7 +167,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 750.8
+    "callback_latency_ms": 885.4
   },
   {
     "month": 6,
@@ -184,7 +184,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 767.6
+    "callback_latency_ms": 916.2
   },
   {
     "month": 6,
@@ -201,7 +201,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.9
+    "callback_latency_ms": 915.3
   },
   {
     "month": 6,
@@ -218,7 +218,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 765.5
+    "callback_latency_ms": 919.3
   },
   {
     "month": 6,
@@ -235,7 +235,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 758.0
+    "callback_latency_ms": 912.8
   },
   {
     "month": 6,
@@ -252,7 +252,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 742.0
+    "callback_latency_ms": 920.3
   },
   {
     "month": 6,
@@ -269,7 +269,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 747.3
+    "callback_latency_ms": 915.2
   },
   {
     "month": 6,
@@ -286,7 +286,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.9
+    "callback_latency_ms": 919.5
   },
   {
     "month": 6,
@@ -303,7 +303,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 748.8
+    "callback_latency_ms": 957.3
   },
   {
     "month": 6,
@@ -320,7 +320,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 765.0
+    "callback_latency_ms": 913.1
   },
   {
     "month": 6,
@@ -337,7 +337,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 787.1
+    "callback_latency_ms": 920.7
   },
   {
     "month": 6,
@@ -354,7 +354,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 759.5
+    "callback_latency_ms": 924.6
   },
   {
     "month": 6,
@@ -371,7 +371,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.1
+    "callback_latency_ms": 921.4
   },
   {
     "month": 6,
@@ -388,7 +388,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 739.4
+    "callback_latency_ms": 916.4
   },
   {
     "month": 6,
@@ -405,7 +405,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 742.7
+    "callback_latency_ms": 899.8
   },
   {
     "month": 6,
@@ -422,7 +422,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 752.7
+    "callback_latency_ms": 938.0
   },
   {
     "month": 6,
@@ -439,7 +439,7 @@
     "total_power_w": 1631.8,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 766.8
+    "callback_latency_ms": 919.4
   },
   {
     "month": 6,
@@ -456,7 +456,7 @@
     "total_power_w": 1670.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 755.6
+    "callback_latency_ms": 929.8
   },
   {
     "month": 6,
@@ -473,7 +473,7 @@
     "total_power_w": 1716.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 765.5
+    "callback_latency_ms": 879.8
   },
   {
     "month": 6,
@@ -490,7 +490,7 @@
     "total_power_w": 1775.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 795.2
+    "callback_latency_ms": 892.6
   },
   {
     "month": 6,
@@ -507,7 +507,7 @@
     "total_power_w": 1859.9,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 750.6
+    "callback_latency_ms": 873.7
   },
   {
     "month": 6,
@@ -524,7 +524,7 @@
     "total_power_w": 2055.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 766.4
+    "callback_latency_ms": 882.2
   },
   {
     "month": 6,
@@ -541,7 +541,7 @@
     "total_power_w": 2191.4,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 751.2
+    "callback_latency_ms": 897.6
   },
   {
     "month": 6,
@@ -558,7 +558,7 @@
     "total_power_w": 2332.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 788.0
+    "callback_latency_ms": 892.9
   },
   {
     "month": 6,
@@ -575,7 +575,7 @@
     "total_power_w": 10793.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 810.6
+    "callback_latency_ms": 904.4
   },
   {
     "month": 6,
@@ -592,7 +592,7 @@
     "total_power_w": 11029.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 797.0
+    "callback_latency_ms": 893.7
   },
   {
     "month": 6,
@@ -609,7 +609,7 @@
     "total_power_w": 11019.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 803.9
+    "callback_latency_ms": 900.2
   },
   {
     "month": 6,
@@ -626,7 +626,7 @@
     "total_power_w": 11179.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 793.4
+    "callback_latency_ms": 898.0
   },
   {
     "month": 6,
@@ -643,7 +643,7 @@
     "total_power_w": 14176.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 802.1
+    "callback_latency_ms": 893.2
   },
   {
     "month": 6,
@@ -660,7 +660,7 @@
     "total_power_w": 14123.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 796.7
+    "callback_latency_ms": 903.0
   },
   {
     "month": 6,
@@ -677,7 +677,7 @@
     "total_power_w": 14447.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 796.8
+    "callback_latency_ms": 891.3
   },
   {
     "month": 6,
@@ -694,7 +694,7 @@
     "total_power_w": 14265.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 807.3
+    "callback_latency_ms": 942.4
   },
   {
     "month": 6,
@@ -711,7 +711,7 @@
     "total_power_w": 15256.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 792.2
+    "callback_latency_ms": 897.3
   },
   {
     "month": 6,
@@ -728,7 +728,7 @@
     "total_power_w": 15208.5,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 829.2
+    "callback_latency_ms": 896.2
   },
   {
     "month": 6,
@@ -745,7 +745,7 @@
     "total_power_w": 15621.4,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 804.6
+    "callback_latency_ms": 907.1
   },
   {
     "month": 6,
@@ -762,7 +762,7 @@
     "total_power_w": 14431.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 806.4
+    "callback_latency_ms": 899.3
   },
   {
     "month": 6,
@@ -779,7 +779,7 @@
     "total_power_w": 14772.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 800.1
+    "callback_latency_ms": 897.5
   },
   {
     "month": 6,
@@ -796,7 +796,7 @@
     "total_power_w": 15297.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 848.2
+    "callback_latency_ms": 889.5
   },
   {
     "month": 6,
@@ -813,7 +813,7 @@
     "total_power_w": 16168.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 735.5
+    "callback_latency_ms": 897.5
   },
   {
     "month": 6,
@@ -830,7 +830,7 @@
     "total_power_w": 14821.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 750.4
+    "callback_latency_ms": 934.5
   },
   {
     "month": 6,
@@ -847,92 +847,58 @@
     "total_power_w": 14372.4,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 750.5
-  },
-  {
-    "month": 6,
-    "day": 25,
-    "hour": 12,
-    "timestep_num": 3,
-    "sim_time": 12.875,
-    "zone_temp": 24.0,
-    "outdoor_temp": 26.25,
-    "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1696.1,
-    "chiller_power_w": 2709.5,
-    "hvac_power_w": 3487.9,
-    "total_power_w": 13987.9,
-    "humidity": 50.0,
-    "ai_setpoint": 25.5,
-    "callback_latency_ms": 734.1
-  },
-  {
-    "month": 6,
-    "day": 25,
-    "hour": 12,
-    "timestep_num": 4,
-    "sim_time": 13.083333333333334,
-    "zone_temp": 25.18,
-    "outdoor_temp": 26.1,
-    "cooling_setpoint": 25.5,
-    "cooling_rate_w": 978.9,
-    "chiller_power_w": 1545.4,
-    "hvac_power_w": 2284.9,
-    "total_power_w": 12784.9,
-    "humidity": 50.0,
-    "ai_setpoint": 24.0,
-    "callback_latency_ms": 731.6
+    "callback_latency_ms": 894.1
   },
   {
     "month": 6,
     "day": 25,
     "hour": 13,
     "timestep_num": 1,
-    "sim_time": 13.333333333333334,
+    "sim_time": 13.25,
     "zone_temp": 24.0,
     "outdoor_temp": 25.98,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1767.3,
-    "chiller_power_w": 2475.1,
-    "hvac_power_w": 3255.9,
-    "total_power_w": 13755.9,
+    "cooling_rate_w": 1907.7,
+    "chiller_power_w": 2626.6,
+    "hvac_power_w": 3440.2,
+    "total_power_w": 13940.2,
     "humidity": 50.0,
-    "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.1
+    "ai_setpoint": 25.5,
+    "callback_latency_ms": 890.4
   },
   {
     "month": 6,
     "day": 25,
     "hour": 13,
     "timestep_num": 2,
-    "sim_time": 13.625,
-    "zone_temp": 24.5,
+    "sim_time": 13.5625,
+    "zone_temp": 25.44,
     "outdoor_temp": 25.85,
-    "cooling_setpoint": 24.5,
-    "cooling_rate_w": 2093.4,
-    "chiller_power_w": 2620.9,
-    "hvac_power_w": 3455.0,
-    "total_power_w": 14705.0,
+    "cooling_setpoint": 25.5,
+    "cooling_rate_w": 1002.1,
+    "chiller_power_w": 1559.1,
+    "hvac_power_w": 2304.7,
+    "total_power_w": 13554.7,
     "humidity": 50.0,
-    "ai_setpoint": 25.0,
-    "callback_latency_ms": 748.1
+    "ai_setpoint": 24.0,
+    "callback_latency_ms": 903.5
   },
   {
     "month": 6,
     "day": 25,
     "hour": 13,
     "timestep_num": 3,
-    "sim_time": 13.875,
-    "zone_temp": 25.0,
+    "sim_time": 13.833333333333334,
+    "zone_temp": 24.0,
     "outdoor_temp": 25.73,
-    "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1822.3,
-    "chiller_power_w": 2056.5,
-    "hvac_power_w": 2836.6,
-    "total_power_w": 14086.6,
+    "cooling_setpoint": 24.0,
+    "cooling_rate_w": 1972.9,
+    "chiller_power_w": 3153.2,
+    "hvac_power_w": 4006.3,
+    "total_power_w": 15256.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 742.8
+    "callback_latency_ms": 937.1
   },
   {
     "month": 6,
@@ -943,13 +909,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 25.6,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1635.0,
-    "chiller_power_w": 2394.4,
-    "hvac_power_w": 3158.6,
-    "total_power_w": 14408.6,
+    "cooling_rate_w": 2130.4,
+    "chiller_power_w": 2558.2,
+    "hvac_power_w": 3376.2,
+    "total_power_w": 14626.2,
     "humidity": 50.0,
-    "ai_setpoint": 24.0,
-    "callback_latency_ms": 747.1
+    "ai_setpoint": 25.0,
+    "callback_latency_ms": 900.5
   },
   {
     "month": 6,
@@ -957,101 +923,101 @@
     "hour": 14,
     "timestep_num": 1,
     "sim_time": 14.375,
-    "zone_temp": 24.0,
+    "zone_temp": 25.0,
     "outdoor_temp": 25.73,
-    "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1994.4,
-    "chiller_power_w": 3218.3,
-    "hvac_power_w": 4056.4,
-    "total_power_w": 15306.4,
+    "cooling_setpoint": 25.0,
+    "cooling_rate_w": 1853.6,
+    "chiller_power_w": 2097.9,
+    "hvac_power_w": 2876.4,
+    "total_power_w": 14126.4,
     "humidity": 50.0,
-    "ai_setpoint": 25.0,
-    "callback_latency_ms": 768.7
+    "ai_setpoint": 24.5,
+    "callback_latency_ms": 895.8
   },
   {
     "month": 6,
     "day": 25,
     "hour": 14,
     "timestep_num": 2,
-    "sim_time": 14.5625,
-    "zone_temp": 25.0,
+    "sim_time": 14.625,
+    "zone_temp": 24.5,
     "outdoor_temp": 25.85,
-    "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1390.2,
-    "chiller_power_w": 2208.4,
-    "hvac_power_w": 2981.1,
-    "total_power_w": 14481.1,
+    "cooling_setpoint": 24.5,
+    "cooling_rate_w": 1715.1,
+    "chiller_power_w": 2519.6,
+    "hvac_power_w": 3297.5,
+    "total_power_w": 14797.5,
     "humidity": 50.0,
-    "ai_setpoint": 24.5,
-    "callback_latency_ms": 760.7
+    "ai_setpoint": 24.0,
+    "callback_latency_ms": 901.6
   },
   {
     "month": 6,
     "day": 25,
     "hour": 14,
     "timestep_num": 3,
-    "sim_time": 14.75,
-    "zone_temp": 24.57,
+    "sim_time": 14.875,
+    "zone_temp": 24.01,
     "outdoor_temp": 25.98,
-    "cooling_setpoint": 24.5,
-    "cooling_rate_w": 2489.5,
-    "chiller_power_w": 3416.0,
-    "hvac_power_w": 4326.0,
-    "total_power_w": 15826.0,
+    "cooling_setpoint": 24.0,
+    "cooling_rate_w": 2097.8,
+    "chiller_power_w": 3464.2,
+    "hvac_power_w": 4339.1,
+    "total_power_w": 15839.1,
     "humidity": 50.0,
-    "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.6
+    "ai_setpoint": 25.0,
+    "callback_latency_ms": 894.9
   },
   {
     "month": 6,
     "day": 25,
     "hour": 14,
     "timestep_num": 4,
-    "sim_time": 15.0,
-    "zone_temp": 24.51,
+    "sim_time": 15.0625,
+    "zone_temp": 25.0,
     "outdoor_temp": 26.1,
-    "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1887.3,
-    "chiller_power_w": 2716.0,
-    "hvac_power_w": 3532.6,
-    "total_power_w": 15032.6,
+    "cooling_setpoint": 25.0,
+    "cooling_rate_w": 1451.7,
+    "chiller_power_w": 2317.5,
+    "hvac_power_w": 3101.6,
+    "total_power_w": 14601.6,
     "humidity": 50.0,
-    "ai_setpoint": 25.0,
-    "callback_latency_ms": 744.8
+    "ai_setpoint": 24.5,
+    "callback_latency_ms": 882.5
   },
   {
     "month": 6,
     "day": 25,
     "hour": 15,
     "timestep_num": 1,
-    "sim_time": 15.375,
-    "zone_temp": 25.0,
+    "sim_time": 15.25,
+    "zone_temp": 24.57,
     "outdoor_temp": 25.98,
-    "cooling_setpoint": 25.0,
-    "cooling_rate_w": 2049.2,
-    "chiller_power_w": 2549.3,
-    "hvac_power_w": 3379.1,
-    "total_power_w": 14879.1,
+    "cooling_setpoint": 24.5,
+    "cooling_rate_w": 2531.0,
+    "chiller_power_w": 3544.0,
+    "hvac_power_w": 4477.2,
+    "total_power_w": 15977.2,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 765.3
+    "callback_latency_ms": 874.7
   },
   {
     "month": 6,
     "day": 25,
     "hour": 15,
     "timestep_num": 2,
-    "sim_time": 15.583333333333334,
-    "zone_temp": 24.0,
+    "sim_time": 15.625,
+    "zone_temp": 24.01,
     "outdoor_temp": 25.85,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 2109.4,
-    "chiller_power_w": 3464.0,
-    "hvac_power_w": 4371.4,
-    "total_power_w": 15371.4,
+    "cooling_rate_w": 2047.1,
+    "chiller_power_w": 3355.9,
+    "hvac_power_w": 4233.7,
+    "total_power_w": 15233.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 752.6
+    "callback_latency_ms": 791.9
   },
   {
     "month": 6,
@@ -1062,13 +1028,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 25.73,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 2248.3,
-    "chiller_power_w": 2951.1,
-    "hvac_power_w": 3836.6,
-    "total_power_w": 14836.6,
+    "cooling_rate_w": 2253.9,
+    "chiller_power_w": 3023.5,
+    "hvac_power_w": 3922.9,
+    "total_power_w": 14922.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 758.6
+    "callback_latency_ms": 772.5
   },
   {
     "month": 6,
@@ -1079,13 +1045,13 @@
     "zone_temp": 25.0,
     "outdoor_temp": 25.6,
     "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1947.6,
-    "chiller_power_w": 2336.4,
-    "hvac_power_w": 3165.4,
-    "total_power_w": 14165.4,
+    "cooling_rate_w": 1930.4,
+    "chiller_power_w": 2271.7,
+    "hvac_power_w": 3094.1,
+    "total_power_w": 14094.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 761.8
+    "callback_latency_ms": 777.9
   },
   {
     "month": 6,
@@ -1096,13 +1062,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 25.45,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1716.5,
-    "chiller_power_w": 2632.5,
-    "hvac_power_w": 3456.5,
-    "total_power_w": 14456.5,
+    "cooling_rate_w": 1703.9,
+    "chiller_power_w": 2622.0,
+    "hvac_power_w": 3443.2,
+    "total_power_w": 14443.2,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 765.5
+    "callback_latency_ms": 759.5
   },
   {
     "month": 6,
@@ -1113,13 +1079,13 @@
     "zone_temp": 24.0,
     "outdoor_temp": 25.3,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1888.0,
-    "chiller_power_w": 3105.6,
-    "hvac_power_w": 3984.8,
-    "total_power_w": 13984.8,
+    "cooling_rate_w": 1878.2,
+    "chiller_power_w": 3053.2,
+    "hvac_power_w": 3926.9,
+    "total_power_w": 13926.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 764.8
+    "callback_latency_ms": 771.0
   },
   {
     "month": 6,
@@ -1130,13 +1096,13 @@
     "zone_temp": 25.0,
     "outdoor_temp": 25.15,
     "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1822.4,
-    "chiller_power_w": 2035.3,
-    "hvac_power_w": 2858.6,
-    "total_power_w": 12858.6,
+    "cooling_rate_w": 1819.8,
+    "chiller_power_w": 2018.3,
+    "hvac_power_w": 2840.2,
+    "total_power_w": 12840.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 745.9
+    "callback_latency_ms": 779.6
   },
   {
     "month": 6,
@@ -1147,13 +1113,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 25.0,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1488.6,
-    "chiller_power_w": 2408.9,
-    "hvac_power_w": 3247.9,
-    "total_power_w": 13247.9,
+    "cooling_rate_w": 1483.2,
+    "chiller_power_w": 2401.8,
+    "hvac_power_w": 3239.0,
+    "total_power_w": 13239.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 745.7
+    "callback_latency_ms": 811.4
   },
   {
     "month": 6,
@@ -1164,13 +1130,13 @@
     "zone_temp": 24.0,
     "outdoor_temp": 24.73,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1740.9,
-    "chiller_power_w": 2938.6,
-    "hvac_power_w": 3722.9,
-    "total_power_w": 13722.9,
+    "cooling_rate_w": 1736.1,
+    "chiller_power_w": 2925.8,
+    "hvac_power_w": 3707.9,
+    "total_power_w": 13707.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 750.3
+    "callback_latency_ms": 808.2
   },
   {
     "month": 6,
@@ -1181,13 +1147,13 @@
     "zone_temp": 24.99,
     "outdoor_temp": 24.45,
     "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1366.9,
-    "chiller_power_w": 1797.7,
-    "hvac_power_w": 2520.1,
-    "total_power_w": 12520.1,
+    "cooling_rate_w": 1356.2,
+    "chiller_power_w": 1788.9,
+    "hvac_power_w": 2510.6,
+    "total_power_w": 12510.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 744.5
+    "callback_latency_ms": 847.3
   },
   {
     "month": 6,
@@ -1198,13 +1164,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 24.17,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1335.7,
-    "chiller_power_w": 2277.3,
-    "hvac_power_w": 3003.6,
-    "total_power_w": 13003.6,
+    "cooling_rate_w": 1333.5,
+    "chiller_power_w": 2273.6,
+    "hvac_power_w": 2999.0,
+    "total_power_w": 12999.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 753.1
+    "callback_latency_ms": 873.8
   },
   {
     "month": 6,
@@ -1215,13 +1181,13 @@
     "zone_temp": 24.0,
     "outdoor_temp": 23.9,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1521.6,
-    "chiller_power_w": 2654.2,
-    "hvac_power_w": 3406.1,
-    "total_power_w": 13406.1,
+    "cooling_rate_w": 1518.8,
+    "chiller_power_w": 2649.0,
+    "hvac_power_w": 3399.7,
+    "total_power_w": 13399.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 744.3
+    "callback_latency_ms": 806.6
   },
   {
     "month": 6,
@@ -1232,13 +1198,13 @@
     "zone_temp": 24.49,
     "outdoor_temp": 23.47,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1612.8,
-    "chiller_power_w": 2212.0,
-    "hvac_power_w": 2974.6,
-    "total_power_w": 12974.6,
+    "cooling_rate_w": 1608.3,
+    "chiller_power_w": 2207.0,
+    "hvac_power_w": 2968.5,
+    "total_power_w": 12968.5,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 746.9
+    "callback_latency_ms": 812.2
   },
   {
     "month": 6,
@@ -1249,13 +1215,13 @@
     "zone_temp": 23.94,
     "outdoor_temp": 23.05,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 863.7,
-    "chiller_power_w": 1796.6,
-    "hvac_power_w": 2477.3,
-    "total_power_w": 8477.3,
+    "cooling_rate_w": 863.6,
+    "chiller_power_w": 1795.3,
+    "hvac_power_w": 2475.3,
+    "total_power_w": 8475.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 737.5
+    "callback_latency_ms": 815.0
   },
   {
     "month": 6,
@@ -1266,13 +1232,13 @@
     "zone_temp": 24.0,
     "outdoor_temp": 22.62,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 924.0,
-    "chiller_power_w": 1598.3,
-    "hvac_power_w": 2289.1,
-    "total_power_w": 8289.1,
+    "cooling_rate_w": 919.2,
+    "chiller_power_w": 1594.9,
+    "hvac_power_w": 2284.9,
+    "total_power_w": 8284.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 757.3
+    "callback_latency_ms": 811.1
   },
   {
     "month": 6,
@@ -1283,13 +1249,13 @@
     "zone_temp": 23.84,
     "outdoor_temp": 22.2,
     "cooling_setpoint": 25.0,
-    "cooling_rate_w": 867.3,
-    "chiller_power_w": 1294.8,
-    "hvac_power_w": 1955.0,
-    "total_power_w": 7955.0,
+    "cooling_rate_w": 867.2,
+    "chiller_power_w": 1295.3,
+    "hvac_power_w": 1955.8,
+    "total_power_w": 7955.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 741.9
+    "callback_latency_ms": 827.7
   },
   {
     "month": 6,
@@ -1300,13 +1266,13 @@
     "zone_temp": 23.71,
     "outdoor_temp": 21.5,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 864.0,
-    "chiller_power_w": 1348.4,
-    "hvac_power_w": 2017.3,
-    "total_power_w": 8017.3,
+    "cooling_rate_w": 863.6,
+    "chiller_power_w": 1348.0,
+    "hvac_power_w": 2017.0,
+    "total_power_w": 8017.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 757.0
+    "callback_latency_ms": 805.7
   },
   {
     "month": 6,
@@ -1317,13 +1283,13 @@
     "zone_temp": 23.09,
     "outdoor_temp": 20.8,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 805.1,
-    "chiller_power_w": 1209.7,
-    "hvac_power_w": 1878.5,
-    "total_power_w": 4878.5,
+    "cooling_rate_w": 804.8,
+    "chiller_power_w": 1209.5,
+    "hvac_power_w": 1878.4,
+    "total_power_w": 4878.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 752.1
+    "callback_latency_ms": 803.6
   },
   {
     "month": 6,
@@ -1334,13 +1300,13 @@
     "zone_temp": 22.66,
     "outdoor_temp": 20.1,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 774.0,
-    "chiller_power_w": 1140.6,
+    "cooling_rate_w": 773.8,
+    "chiller_power_w": 1140.5,
     "hvac_power_w": 1814.2,
     "total_power_w": 4814.2,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 748.8
+    "callback_latency_ms": 806.8
   },
   {
     "month": 6,
@@ -1351,13 +1317,13 @@
     "zone_temp": 22.36,
     "outdoor_temp": 19.4,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 749.2,
-    "chiller_power_w": 1093.5,
-    "hvac_power_w": 1768.9,
-    "total_power_w": 4768.9,
+    "cooling_rate_w": 749.0,
+    "chiller_power_w": 1093.4,
+    "hvac_power_w": 1768.7,
+    "total_power_w": 4768.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 747.0
+    "callback_latency_ms": 812.6
   },
   {
     "month": 6,
@@ -1368,13 +1334,13 @@
     "zone_temp": 22.2,
     "outdoor_temp": 19.0,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 532.9,
-    "chiller_power_w": 1045.0,
-    "hvac_power_w": 1716.7,
-    "total_power_w": 4716.7,
+    "cooling_rate_w": 532.8,
+    "chiller_power_w": 1044.8,
+    "hvac_power_w": 1716.5,
+    "total_power_w": 4716.5,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 777.0
+    "callback_latency_ms": 805.5
   },
   {
     "month": 6,
@@ -1391,7 +1357,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 756.7
+    "callback_latency_ms": 817.4
   },
   {
     "month": 6,
@@ -1408,7 +1374,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 739.6
+    "callback_latency_ms": 794.4
   },
   {
     "month": 6,
@@ -1416,7 +1382,7 @@
     "hour": 20,
     "timestep_num": 4,
     "sim_time": 21.0,
-    "zone_temp": 22.47,
+    "zone_temp": 22.46,
     "outdoor_temp": 17.8,
     "cooling_setpoint": 28.0,
     "cooling_rate_w": 0.0,
@@ -1425,7 +1391,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 723.9
+    "callback_latency_ms": 808.0
   },
   {
     "month": 6,
@@ -1442,7 +1408,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 773.2
+    "callback_latency_ms": 831.7
   },
   {
     "month": 6,
@@ -1459,7 +1425,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 779.9
+    "callback_latency_ms": 817.8
   },
   {
     "month": 6,
@@ -1476,7 +1442,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 755.6
+    "callback_latency_ms": 799.0
   },
   {
     "month": 6,
@@ -1493,7 +1459,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 746.7
+    "callback_latency_ms": 808.4
   },
   {
     "month": 6,
@@ -1510,7 +1476,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 764.2
+    "callback_latency_ms": 807.0
   },
   {
     "month": 6,
@@ -1527,7 +1493,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 757.7
+    "callback_latency_ms": 831.9
   },
   {
     "month": 6,
@@ -1544,7 +1510,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 762.0
+    "callback_latency_ms": 810.6
   },
   {
     "month": 6,
@@ -1561,7 +1527,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 749.1
+    "callback_latency_ms": 802.7
   },
   {
     "month": 6,
@@ -1578,7 +1544,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 764.1
+    "callback_latency_ms": 809.3
   },
   {
     "month": 6,
@@ -1595,7 +1561,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 759.2
+    "callback_latency_ms": 810.7
   },
   {
     "month": 6,
@@ -1612,7 +1578,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 749.0
+    "callback_latency_ms": 822.5
   },
   {
     "month": 6,
@@ -1629,7 +1595,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 754.3
+    "callback_latency_ms": 818.4
   },
   {
     "month": 6,
@@ -1646,7 +1612,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 753.3
+    "callback_latency_ms": 809.6
   },
   {
     "month": 6,
@@ -1663,7 +1629,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 753.7
+    "callback_latency_ms": 801.0
   },
   {
     "month": 6,
@@ -1680,7 +1646,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 741.1
+    "callback_latency_ms": 800.5
   },
   {
     "month": 6,
@@ -1697,7 +1663,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 760.2
+    "callback_latency_ms": 808.2
   },
   {
     "month": 6,
@@ -1705,7 +1671,7 @@
     "hour": 1,
     "timestep_num": 1,
     "sim_time": 25.25,
-    "zone_temp": 20.43,
+    "zone_temp": 20.42,
     "outdoor_temp": 13.18,
     "cooling_setpoint": 29.0,
     "cooling_rate_w": 0.0,
@@ -1714,7 +1680,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 743.4
+    "callback_latency_ms": 826.8
   },
   {
     "month": 6,
@@ -1731,7 +1697,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 738.9
+    "callback_latency_ms": 806.6
   },
   {
     "month": 6,
@@ -1748,7 +1714,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 764.6
+    "callback_latency_ms": 807.4
   },
   {
     "month": 6,
@@ -1765,7 +1731,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 740.0
+    "callback_latency_ms": 799.2
   },
   {
     "month": 6,
@@ -1782,7 +1748,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 752.6
+    "callback_latency_ms": 806.0
   },
   {
     "month": 6,
@@ -1799,7 +1765,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 739.9
+    "callback_latency_ms": 798.4
   },
   {
     "month": 6,
@@ -1816,7 +1782,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.8
+    "callback_latency_ms": 808.3
   },
   {
     "month": 6,
@@ -1824,7 +1790,7 @@
     "hour": 2,
     "timestep_num": 4,
     "sim_time": 27.0,
-    "zone_temp": 20.07,
+    "zone_temp": 20.06,
     "outdoor_temp": 12.2,
     "cooling_setpoint": 28.5,
     "cooling_rate_w": 0.0,
@@ -1833,7 +1799,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 742.1
+    "callback_latency_ms": 811.1
   },
   {
     "month": 6,
@@ -1850,7 +1816,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 755.1
+    "callback_latency_ms": 809.2
   },
   {
     "month": 6,
@@ -1867,7 +1833,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 745.8
+    "callback_latency_ms": 796.5
   },
   {
     "month": 6,
@@ -1884,7 +1850,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 761.0
+    "callback_latency_ms": 811.1
   },
   {
     "month": 6,
@@ -1901,7 +1867,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 767.4
+    "callback_latency_ms": 808.5
   },
   {
     "month": 6,
@@ -1918,7 +1884,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 760.9
+    "callback_latency_ms": 822.7
   },
   {
     "month": 6,
@@ -1935,7 +1901,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 761.0
+    "callback_latency_ms": 809.8
   },
   {
     "month": 6,
@@ -1952,7 +1918,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 744.0
+    "callback_latency_ms": 810.8
   },
   {
     "month": 6,
@@ -1969,7 +1935,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 720.3
+    "callback_latency_ms": 800.1
   },
   {
     "month": 6,
@@ -1986,7 +1952,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 760.8
+    "callback_latency_ms": 805.5
   },
   {
     "month": 6,
@@ -1994,7 +1960,7 @@
     "hour": 5,
     "timestep_num": 2,
     "sim_time": 29.625,
-    "zone_temp": 19.88,
+    "zone_temp": 19.87,
     "outdoor_temp": 13.05,
     "cooling_setpoint": 28.5,
     "cooling_rate_w": 0.0,
@@ -2003,7 +1969,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 762.3
+    "callback_latency_ms": 806.1
   },
   {
     "month": 6,
@@ -2020,7 +1986,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 748.8
+    "callback_latency_ms": 795.1
   },
   {
     "month": 6,
@@ -2037,7 +2003,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 764.6
+    "callback_latency_ms": 810.3
   },
   {
     "month": 6,
@@ -2054,7 +2020,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 766.3
+    "callback_latency_ms": 829.9
   },
   {
     "month": 6,
@@ -2071,7 +2037,7 @@
     "total_power_w": 1817.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 758.3
+    "callback_latency_ms": 803.7
   },
   {
     "month": 6,
@@ -2084,11 +2050,11 @@
     "cooling_setpoint": 24.0,
     "cooling_rate_w": 0.0,
     "chiller_power_w": 804.3,
-    "hvac_power_w": 1381.9,
-    "total_power_w": 1856.9,
+    "hvac_power_w": 1382.0,
+    "total_power_w": 1857.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 752.3
+    "callback_latency_ms": 804.0
   },
   {
     "month": 6,
@@ -2105,7 +2071,7 @@
     "total_power_w": 1928.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 744.0
+    "callback_latency_ms": 799.3
   },
   {
     "month": 6,
@@ -2118,11 +2084,11 @@
     "cooling_setpoint": 24.0,
     "cooling_rate_w": 0.0,
     "chiller_power_w": 1033.1,
-    "hvac_power_w": 1635.1,
-    "total_power_w": 2110.1,
+    "hvac_power_w": 1635.2,
+    "total_power_w": 2110.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 752.4
+    "callback_latency_ms": 806.7
   },
   {
     "month": 6,
@@ -2135,11 +2101,11 @@
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 0.0,
     "chiller_power_w": 1099.5,
-    "hvac_power_w": 1706.8,
-    "total_power_w": 2181.8,
+    "hvac_power_w": 1706.9,
+    "total_power_w": 2181.9,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 759.4
+    "callback_latency_ms": 818.3
   },
   {
     "month": 6,
@@ -2152,11 +2118,11 @@
     "cooling_setpoint": 24.0,
     "cooling_rate_w": 0.0,
     "chiller_power_w": 1148.8,
-    "hvac_power_w": 1758.1,
-    "total_power_w": 2233.1,
+    "hvac_power_w": 1758.2,
+    "total_power_w": 2233.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 746.0
+    "callback_latency_ms": 805.1
   },
   {
     "month": 6,
@@ -2169,11 +2135,11 @@
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 0.0,
     "chiller_power_w": 1203.6,
-    "hvac_power_w": 1808.1,
-    "total_power_w": 2283.1,
+    "hvac_power_w": 1808.2,
+    "total_power_w": 2283.2,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 736.2
+    "callback_latency_ms": 803.2
   },
   {
     "month": 6,
@@ -2190,7 +2156,7 @@
     "total_power_w": 2334.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 749.2
+    "callback_latency_ms": 813.3
   },
   {
     "month": 6,
@@ -2207,7 +2173,7 @@
     "total_power_w": 10738.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 787.7
+    "callback_latency_ms": 808.3
   },
   {
     "month": 6,
@@ -2218,13 +2184,13 @@
     "zone_temp": 22.96,
     "outdoor_temp": 23.47,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 791.0,
-    "chiller_power_w": 1533.4,
+    "cooling_rate_w": 790.9,
+    "chiller_power_w": 1533.3,
     "hvac_power_w": 2151.9,
     "total_power_w": 10901.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.0
+    "callback_latency_ms": 805.3
   },
   {
     "month": 6,
@@ -2241,7 +2207,7 @@
     "total_power_w": 10911.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 749.1
+    "callback_latency_ms": 871.9
   },
   {
     "month": 6,
@@ -2252,13 +2218,13 @@
     "zone_temp": 23.51,
     "outdoor_temp": 24.45,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 837.6,
-    "chiller_power_w": 1655.2,
-    "hvac_power_w": 2281.4,
-    "total_power_w": 11031.4,
+    "cooling_rate_w": 837.5,
+    "chiller_power_w": 1655.3,
+    "hvac_power_w": 2281.5,
+    "total_power_w": 11031.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 748.7
+    "callback_latency_ms": 841.0
   },
   {
     "month": 6,
@@ -2271,11 +2237,11 @@
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 904.6,
     "chiller_power_w": 1661.8,
-    "hvac_power_w": 2330.9,
-    "total_power_w": 13955.9,
+    "hvac_power_w": 2330.8,
+    "total_power_w": 13955.8,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 780.9
+    "callback_latency_ms": 846.4
   },
   {
     "month": 6,
@@ -2286,13 +2252,13 @@
     "zone_temp": 24.0,
     "outdoor_temp": 25.55,
     "cooling_setpoint": 24.0,
-    "cooling_rate_w": 1427.2,
-    "chiller_power_w": 2469.4,
-    "hvac_power_w": 3231.6,
-    "total_power_w": 14856.6,
+    "cooling_rate_w": 1427.1,
+    "chiller_power_w": 2469.3,
+    "hvac_power_w": 3231.4,
+    "total_power_w": 14856.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 751.3
+    "callback_latency_ms": 803.1
   },
   {
     "month": 6,
@@ -2304,12 +2270,12 @@
     "outdoor_temp": 26.1,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 941.2,
-    "chiller_power_w": 1883.3,
-    "hvac_power_w": 2597.2,
-    "total_power_w": 14222.2,
+    "chiller_power_w": 1883.2,
+    "hvac_power_w": 2597.1,
+    "total_power_w": 14222.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.9
+    "callback_latency_ms": 888.5
   },
   {
     "month": 6,
@@ -2320,13 +2286,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 26.38,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1301.3,
-    "chiller_power_w": 2444.0,
-    "hvac_power_w": 3182.6,
-    "total_power_w": 14807.6,
+    "cooling_rate_w": 1301.2,
+    "chiller_power_w": 2443.8,
+    "hvac_power_w": 3182.5,
+    "total_power_w": 14807.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 749.9
+    "callback_latency_ms": 814.0
   },
   {
     "month": 6,
@@ -2337,13 +2303,13 @@
     "zone_temp": 24.99,
     "outdoor_temp": 26.65,
     "cooling_setpoint": 25.0,
-    "cooling_rate_w": 1147.1,
-    "chiller_power_w": 2250.7,
-    "hvac_power_w": 3017.4,
-    "total_power_w": 15017.4,
+    "cooling_rate_w": 1147.0,
+    "chiller_power_w": 2250.6,
+    "hvac_power_w": 3017.2,
+    "total_power_w": 15017.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 769.9
+    "callback_latency_ms": 804.6
   },
   {
     "month": 6,
@@ -2355,12 +2321,12 @@
     "outdoor_temp": 26.92,
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 1288.9,
-    "chiller_power_w": 2736.5,
-    "hvac_power_w": 3500.6,
-    "total_power_w": 15500.6,
+    "chiller_power_w": 2736.3,
+    "hvac_power_w": 3500.4,
+    "total_power_w": 15500.4,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 744.6
+    "callback_latency_ms": 811.1
   },
   {
     "month": 6,
@@ -2372,12 +2338,12 @@
     "outdoor_temp": 27.2,
     "cooling_setpoint": 26.0,
     "cooling_rate_w": 999.7,
-    "chiller_power_w": 1793.8,
+    "chiller_power_w": 1793.7,
     "hvac_power_w": 2553.2,
     "total_power_w": 14553.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 762.5
+    "callback_latency_ms": 803.6
   },
   {
     "month": 6,
@@ -2389,12 +2355,12 @@
     "outdoor_temp": 27.47,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 1383.4,
-    "chiller_power_w": 2555.4,
-    "hvac_power_w": 3328.4,
-    "total_power_w": 15328.4,
+    "chiller_power_w": 2555.3,
+    "hvac_power_w": 3328.3,
+    "total_power_w": 15328.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 759.8
+    "callback_latency_ms": 812.6
   },
   {
     "month": 6,
@@ -2406,12 +2372,12 @@
     "outdoor_temp": 27.75,
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 1538.5,
-    "chiller_power_w": 2916.6,
+    "chiller_power_w": 2916.5,
     "hvac_power_w": 3711.4,
     "total_power_w": 15336.4,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 766.0
+    "callback_latency_ms": 816.9
   },
   {
     "month": 6,
@@ -2428,7 +2394,7 @@
     "total_power_w": 14215.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 787.6
+    "callback_latency_ms": 816.4
   },
   {
     "month": 6,
@@ -2440,12 +2406,12 @@
     "outdoor_temp": 28.3,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 1420.3,
-    "chiller_power_w": 2645.5,
+    "chiller_power_w": 2645.4,
     "hvac_power_w": 3440.4,
     "total_power_w": 15065.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 748.3
+    "callback_latency_ms": 801.0
   },
   {
     "month": 6,
@@ -2457,12 +2423,12 @@
     "outdoor_temp": 28.45,
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 1715.0,
-    "chiller_power_w": 3106.0,
-    "hvac_power_w": 3923.9,
-    "total_power_w": 15548.9,
+    "chiller_power_w": 3105.9,
+    "hvac_power_w": 3923.8,
+    "total_power_w": 15548.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 745.0
+    "callback_latency_ms": 803.7
   },
   {
     "month": 6,
@@ -2479,7 +2445,7 @@
     "total_power_w": 13166.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 760.3
+    "callback_latency_ms": 812.7
   },
   {
     "month": 6,
@@ -2491,12 +2457,12 @@
     "outdoor_temp": 28.75,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 1743.2,
-    "chiller_power_w": 2670.1,
+    "chiller_power_w": 2670.0,
     "hvac_power_w": 3478.5,
     "total_power_w": 13978.5,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.4
+    "callback_latency_ms": 799.8
   },
   {
     "month": 6,
@@ -2508,12 +2474,12 @@
     "outdoor_temp": 28.9,
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 1514.5,
-    "chiller_power_w": 2723.5,
-    "hvac_power_w": 3524.4,
-    "total_power_w": 14024.4,
+    "chiller_power_w": 2723.4,
+    "hvac_power_w": 3524.3,
+    "total_power_w": 14024.3,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 753.7
+    "callback_latency_ms": 809.8
   },
   {
     "month": 6,
@@ -2530,7 +2496,7 @@
     "total_power_w": 13263.7,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 747.3
+    "callback_latency_ms": 807.6
   },
   {
     "month": 6,
@@ -2542,12 +2508,12 @@
     "outdoor_temp": 29.15,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 2133.5,
-    "chiller_power_w": 3150.8,
-    "hvac_power_w": 3994.4,
-    "total_power_w": 15244.4,
+    "chiller_power_w": 3150.7,
+    "hvac_power_w": 3994.3,
+    "total_power_w": 15244.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 751.8
+    "callback_latency_ms": 813.0
   },
   {
     "month": 6,
@@ -2558,13 +2524,13 @@
     "zone_temp": 24.5,
     "outdoor_temp": 29.27,
     "cooling_setpoint": 24.5,
-    "cooling_rate_w": 1868.9,
-    "chiller_power_w": 3281.4,
-    "hvac_power_w": 4114.5,
-    "total_power_w": 15364.5,
+    "cooling_rate_w": 1868.8,
+    "chiller_power_w": 3281.3,
+    "hvac_power_w": 4114.4,
+    "total_power_w": 15364.4,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 757.2
+    "callback_latency_ms": 815.5
   },
   {
     "month": 6,
@@ -2581,7 +2547,7 @@
     "total_power_w": 14060.7,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 767.9
+    "callback_latency_ms": 827.9
   },
   {
     "month": 6,
@@ -2593,12 +2559,12 @@
     "outdoor_temp": 29.7,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 1575.9,
-    "chiller_power_w": 2894.1,
+    "chiller_power_w": 2894.0,
     "hvac_power_w": 3709.7,
     "total_power_w": 14959.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 738.9
+    "callback_latency_ms": 811.0
   },
   {
     "month": 6,
@@ -2611,11 +2577,11 @@
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 2042.8,
     "chiller_power_w": 3695.3,
-    "hvac_power_w": 4556.6,
-    "total_power_w": 16056.6,
+    "hvac_power_w": 4556.5,
+    "total_power_w": 16056.5,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 752.7
+    "callback_latency_ms": 815.0
   },
   {
     "month": 6,
@@ -2632,7 +2598,7 @@
     "total_power_w": 14445.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 759.8
+    "callback_latency_ms": 829.0
   },
   {
     "month": 6,
@@ -2649,7 +2615,7 @@
     "total_power_w": 15492.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 745.6
+    "callback_latency_ms": 813.9
   },
   {
     "month": 6,
@@ -2666,7 +2632,7 @@
     "total_power_w": 16481.0,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 769.5
+    "callback_latency_ms": 832.2
   },
   {
     "month": 6,
@@ -2677,13 +2643,13 @@
     "zone_temp": 26.0,
     "outdoor_temp": 30.6,
     "cooling_setpoint": 26.0,
-    "cooling_rate_w": 1559.8,
+    "cooling_rate_w": 1559.7,
     "chiller_power_w": 2255.5,
     "hvac_power_w": 3042.9,
     "total_power_w": 14042.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 752.7
+    "callback_latency_ms": 804.0
   },
   {
     "month": 6,
@@ -2700,7 +2666,7 @@
     "total_power_w": 15111.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 754.7
+    "callback_latency_ms": 772.1
   },
   {
     "month": 6,
@@ -2713,11 +2679,11 @@
     "cooling_setpoint": 24.5,
     "cooling_rate_w": 2174.8,
     "chiller_power_w": 4195.2,
-    "hvac_power_w": 5079.7,
-    "total_power_w": 16079.7,
+    "hvac_power_w": 5079.6,
+    "total_power_w": 16079.6,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 749.1
+    "callback_latency_ms": 782.7
   },
   {
     "month": 6,
@@ -2734,7 +2700,7 @@
     "total_power_w": 14080.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 751.6
+    "callback_latency_ms": 787.9
   },
   {
     "month": 6,
@@ -2746,12 +2712,12 @@
     "outdoor_temp": 30.6,
     "cooling_setpoint": 25.0,
     "cooling_rate_w": 1504.8,
-    "chiller_power_w": 3043.8,
+    "chiller_power_w": 3043.7,
     "hvac_power_w": 3850.0,
     "total_power_w": 13850.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 740.4
+    "callback_latency_ms": 777.6
   },
   {
     "month": 6,
@@ -2768,7 +2734,7 @@
     "total_power_w": 14671.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 754.1
+    "callback_latency_ms": 793.7
   },
   {
     "month": 6,
@@ -2785,7 +2751,7 @@
     "total_power_w": 12913.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 751.2
+    "callback_latency_ms": 791.5
   },
   {
     "month": 6,
@@ -2802,7 +2768,7 @@
     "total_power_w": 13835.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 745.2
+    "callback_latency_ms": 787.5
   },
   {
     "month": 6,
@@ -2819,7 +2785,7 @@
     "total_power_w": 14424.9,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 743.1
+    "callback_latency_ms": 781.0
   },
   {
     "month": 6,
@@ -2836,7 +2802,7 @@
     "total_power_w": 12758.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 749.9
+    "callback_latency_ms": 787.5
   },
   {
     "month": 6,
@@ -2853,7 +2819,7 @@
     "total_power_w": 13423.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 774.2
+    "callback_latency_ms": 819.0
   },
   {
     "month": 6,
@@ -2870,7 +2836,7 @@
     "total_power_w": 13873.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 745.1
+    "callback_latency_ms": 799.3
   },
   {
     "month": 6,
@@ -2887,7 +2853,7 @@
     "total_power_w": 8525.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 754.7
+    "callback_latency_ms": 795.3
   },
   {
     "month": 6,
@@ -2904,7 +2870,7 @@
     "total_power_w": 8512.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 769.5
+    "callback_latency_ms": 811.8
   },
   {
     "month": 6,
@@ -2921,7 +2887,7 @@
     "total_power_w": 8496.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 746.2
+    "callback_latency_ms": 785.8
   },
   {
     "month": 6,
@@ -2938,7 +2904,7 @@
     "total_power_w": 8422.3,
     "humidity": 50.0,
     "ai_setpoint": 24.8,
-    "callback_latency_ms": 751.3
+    "callback_latency_ms": 798.6
   },
   {
     "month": 6,
@@ -2955,7 +2921,7 @@
     "total_power_w": 5374.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 750.9
+    "callback_latency_ms": 782.5
   },
   {
     "month": 6,
@@ -2972,7 +2938,7 @@
     "total_power_w": 5190.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 776.8
+    "callback_latency_ms": 777.6
   },
   {
     "month": 6,
@@ -2989,7 +2955,7 @@
     "total_power_w": 5141.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 740.3
+    "callback_latency_ms": 746.5
   },
   {
     "month": 6,
@@ -3006,7 +2972,7 @@
     "total_power_w": 5069.9,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 748.8
+    "callback_latency_ms": 773.7
   },
   {
     "month": 6,
@@ -3023,7 +2989,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 745.0
+    "callback_latency_ms": 787.9
   },
   {
     "month": 6,
@@ -3040,7 +3006,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 779.8
+    "callback_latency_ms": 742.8
   },
   {
     "month": 6,
@@ -3057,7 +3023,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 735.6
+    "callback_latency_ms": 757.7
   },
   {
     "month": 6,
@@ -3074,7 +3040,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 759.0
+    "callback_latency_ms": 776.3
   },
   {
     "month": 6,
@@ -3091,7 +3057,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 744.7
+    "callback_latency_ms": 781.2
   },
   {
     "month": 6,
@@ -3108,7 +3074,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 774.1
+    "callback_latency_ms": 784.8
   },
   {
     "month": 6,
@@ -3125,7 +3091,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 748.1
+    "callback_latency_ms": 793.1
   },
   {
     "month": 6,
@@ -3142,7 +3108,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 769.4
+    "callback_latency_ms": 785.2
   },
   {
     "month": 6,
@@ -3159,7 +3125,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.6
+    "callback_latency_ms": 782.1
   },
   {
     "month": 6,
@@ -3176,7 +3142,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 756.2
+    "callback_latency_ms": 788.8
   },
   {
     "month": 6,
@@ -3193,7 +3159,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 756.0
+    "callback_latency_ms": 787.2
   },
   {
     "month": 6,
@@ -3210,7 +3176,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 749.5
+    "callback_latency_ms": 788.5
   },
   {
     "month": 6,
@@ -3227,7 +3193,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 751.5
+    "callback_latency_ms": 792.3
   },
   {
     "month": 6,
@@ -3244,7 +3210,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 763.3
+    "callback_latency_ms": 782.4
   },
   {
     "month": 6,
@@ -3261,7 +3227,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 746.6
+    "callback_latency_ms": 792.5
   },
   {
     "month": 6,
@@ -3278,7 +3244,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 755.6
+    "callback_latency_ms": 781.0
   },
   {
     "month": 6,
@@ -3295,7 +3261,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 734.1
+    "callback_latency_ms": 787.7
   },
   {
     "month": 6,
@@ -3312,7 +3278,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 752.9
+    "callback_latency_ms": 794.0
   },
   {
     "month": 6,
@@ -3329,7 +3295,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.6
+    "callback_latency_ms": 783.9
   },
   {
     "month": 6,
@@ -3346,7 +3312,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 745.5
+    "callback_latency_ms": 787.3
   },
   {
     "month": 6,
@@ -3363,7 +3329,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 749.1
+    "callback_latency_ms": 877.3
   },
   {
     "month": 6,
@@ -3380,7 +3346,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 746.5
+    "callback_latency_ms": 893.5
   },
   {
     "month": 6,
@@ -3397,7 +3363,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 746.7
+    "callback_latency_ms": 905.4
   },
   {
     "month": 6,
@@ -3414,7 +3380,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 750.4
+    "callback_latency_ms": 915.8
   },
   {
     "month": 6,
@@ -3431,7 +3397,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 745.1
+    "callback_latency_ms": 934.0
   },
   {
     "month": 6,
@@ -3448,7 +3414,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 748.0
+    "callback_latency_ms": 901.3
   },
   {
     "month": 6,
@@ -3465,7 +3431,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 731.9
+    "callback_latency_ms": 904.3
   },
   {
     "month": 6,
@@ -3482,7 +3448,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.1
+    "callback_latency_ms": 920.6
   },
   {
     "month": 6,
@@ -3499,7 +3465,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 757.7
+    "callback_latency_ms": 962.9
   },
   {
     "month": 6,
@@ -3516,7 +3482,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 772.2
+    "callback_latency_ms": 927.1
   },
   {
     "month": 6,
@@ -3533,7 +3499,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 745.8
+    "callback_latency_ms": 913.1
   },
   {
     "month": 6,
@@ -3550,7 +3516,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 749.0
+    "callback_latency_ms": 928.1
   },
   {
     "month": 6,
@@ -3567,7 +3533,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 737.5
+    "callback_latency_ms": 897.6
   },
   {
     "month": 6,
@@ -3584,7 +3550,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 754.6
+    "callback_latency_ms": 956.1
   },
   {
     "month": 6,
@@ -3601,7 +3567,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 742.2
+    "callback_latency_ms": 784.4
   },
   {
     "month": 6,
@@ -3618,7 +3584,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 741.1
+    "callback_latency_ms": 813.1
   },
   {
     "month": 6,
@@ -3635,7 +3601,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 713.7
+    "callback_latency_ms": 739.3
   },
   {
     "month": 6,
@@ -3652,7 +3618,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 744.5
+    "callback_latency_ms": 787.0
   },
   {
     "month": 6,
@@ -3669,7 +3635,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 743.7
+    "callback_latency_ms": 772.8
   },
   {
     "month": 6,
@@ -3686,7 +3652,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 760.0
+    "callback_latency_ms": 791.0
   },
   {
     "month": 6,
@@ -3703,7 +3669,7 @@
     "total_power_w": 2069.2,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 745.4
+    "callback_latency_ms": 783.9
   },
   {
     "month": 6,
@@ -3720,7 +3686,7 @@
     "total_power_w": 2080.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 762.7
+    "callback_latency_ms": 774.9
   },
   {
     "month": 6,
@@ -3737,7 +3703,7 @@
     "total_power_w": 2109.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 739.1
+    "callback_latency_ms": 779.1
   },
   {
     "month": 6,
@@ -3754,7 +3720,7 @@
     "total_power_w": 2202.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 747.3
+    "callback_latency_ms": 785.9
   },
   {
     "month": 6,
@@ -3771,7 +3737,7 @@
     "total_power_w": 2292.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 739.3
+    "callback_latency_ms": 772.4
   },
   {
     "month": 6,
@@ -3788,7 +3754,7 @@
     "total_power_w": 2380.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.8
+    "callback_latency_ms": 769.3
   },
   {
     "month": 6,
@@ -3805,7 +3771,7 @@
     "total_power_w": 2470.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 740.5
+    "callback_latency_ms": 811.1
   },
   {
     "month": 6,
@@ -3822,7 +3788,7 @@
     "total_power_w": 2564.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 745.9
+    "callback_latency_ms": 788.9
   },
   {
     "month": 6,
@@ -3839,7 +3805,7 @@
     "total_power_w": 10926.5,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 751.1
+    "callback_latency_ms": 783.7
   },
   {
     "month": 6,
@@ -3856,7 +3822,7 @@
     "total_power_w": 11041.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 764.1
+    "callback_latency_ms": 774.7
   },
   {
     "month": 6,
@@ -3873,7 +3839,7 @@
     "total_power_w": 11081.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 759.5
+    "callback_latency_ms": 784.0
   },
   {
     "month": 6,
@@ -3890,7 +3856,7 @@
     "total_power_w": 11300.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 746.4
+    "callback_latency_ms": 895.9
   },
   {
     "month": 6,
@@ -3907,7 +3873,7 @@
     "total_power_w": 14384.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 741.3
+    "callback_latency_ms": 827.5
   },
   {
     "month": 6,
@@ -3924,7 +3890,7 @@
     "total_power_w": 14463.5,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 754.1
+    "callback_latency_ms": 891.0
   },
   {
     "month": 6,
@@ -3941,7 +3907,7 @@
     "total_power_w": 14920.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 753.1
+    "callback_latency_ms": 825.0
   },
   {
     "month": 6,
@@ -3958,7 +3924,7 @@
     "total_power_w": 15012.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 756.1
+    "callback_latency_ms": 777.3
   },
   {
     "month": 6,
@@ -3975,7 +3941,7 @@
     "total_power_w": 15914.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 744.7
+    "callback_latency_ms": 796.8
   },
   {
     "month": 6,
@@ -3992,7 +3958,7 @@
     "total_power_w": 15138.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 755.3
+    "callback_latency_ms": 785.7
   },
   {
     "month": 6,
@@ -4009,7 +3975,7 @@
     "total_power_w": 15878.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 754.1
+    "callback_latency_ms": 806.0
   },
   {
     "month": 6,
@@ -4026,7 +3992,7 @@
     "total_power_w": 16667.5,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 743.9
+    "callback_latency_ms": 779.5
   },
   {
     "month": 6,
@@ -4043,7 +4009,7 @@
     "total_power_w": 14912.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 749.1
+    "callback_latency_ms": 778.4
   },
   {
     "month": 6,
@@ -4060,7 +4026,7 @@
     "total_power_w": 15694.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 767.9
+    "callback_latency_ms": 810.5
   },
   {
     "month": 6,
@@ -4077,7 +4043,7 @@
     "total_power_w": 16318.3,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 751.5
+    "callback_latency_ms": 796.9
   },
   {
     "month": 6,
@@ -4094,7 +4060,7 @@
     "total_power_w": 15143.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 762.9
+    "callback_latency_ms": 781.2
   },
   {
     "month": 6,
@@ -4111,7 +4077,7 @@
     "total_power_w": 14499.4,
     "humidity": 50.0,
     "ai_setpoint": 26.5,
-    "callback_latency_ms": 747.9
+    "callback_latency_ms": 821.3
   },
   {
     "month": 6,
@@ -4128,7 +4094,7 @@
     "total_power_w": 14055.7,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 758.7
+    "callback_latency_ms": 894.3
   },
   {
     "month": 6,
@@ -4145,7 +4111,7 @@
     "total_power_w": 14197.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 750.4
+    "callback_latency_ms": 813.2
   },
   {
     "month": 6,
@@ -4162,7 +4128,7 @@
     "total_power_w": 16018.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 743.7
+    "callback_latency_ms": 944.0
   },
   {
     "month": 6,
@@ -4179,7 +4145,7 @@
     "total_power_w": 15163.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 753.7
+    "callback_latency_ms": 796.3
   },
   {
     "month": 6,
@@ -4196,7 +4162,7 @@
     "total_power_w": 16085.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 759.7
+    "callback_latency_ms": 790.2
   },
   {
     "month": 6,
@@ -4213,7 +4179,7 @@
     "total_power_w": 16724.3,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 745.7
+    "callback_latency_ms": 786.3
   },
   {
     "month": 6,
@@ -4230,7 +4196,7 @@
     "total_power_w": 15109.1,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 749.0
+    "callback_latency_ms": 781.4
   },
   {
     "month": 6,
@@ -4247,7 +4213,7 @@
     "total_power_w": 16540.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 759.3
+    "callback_latency_ms": 787.3
   },
   {
     "month": 6,
@@ -4264,7 +4230,7 @@
     "total_power_w": 17333.9,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 765.5
+    "callback_latency_ms": 786.9
   },
   {
     "month": 6,
@@ -4281,7 +4247,7 @@
     "total_power_w": 15512.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 743.0
+    "callback_latency_ms": 799.7
   },
   {
     "month": 6,
@@ -4298,7 +4264,7 @@
     "total_power_w": 16745.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 751.9
+    "callback_latency_ms": 918.5
   },
   {
     "month": 6,
@@ -4315,7 +4281,7 @@
     "total_power_w": 16760.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 748.7
+    "callback_latency_ms": 972.1
   },
   {
     "month": 6,
@@ -4332,7 +4298,7 @@
     "total_power_w": 14903.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 753.7
+    "callback_latency_ms": 946.3
   },
   {
     "month": 6,
@@ -4349,7 +4315,7 @@
     "total_power_w": 15747.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 744.6
+    "callback_latency_ms": 935.5
   },
   {
     "month": 6,
@@ -4366,7 +4332,7 @@
     "total_power_w": 16554.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 744.1
+    "callback_latency_ms": 875.2
   },
   {
     "month": 6,
@@ -4383,7 +4349,7 @@
     "total_power_w": 13407.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 750.5
+    "callback_latency_ms": 871.6
   },
   {
     "month": 6,
@@ -4400,7 +4366,7 @@
     "total_power_w": 14201.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 757.9
+    "callback_latency_ms": 873.7
   },
   {
     "month": 6,
@@ -4417,7 +4383,7 @@
     "total_power_w": 14766.6,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 762.1
+    "callback_latency_ms": 866.4
   },
   {
     "month": 6,
@@ -4434,7 +4400,7 @@
     "total_power_w": 13255.7,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 742.6
+    "callback_latency_ms": 955.5
   },
   {
     "month": 6,
@@ -4451,7 +4417,7 @@
     "total_power_w": 14037.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 749.4
+    "callback_latency_ms": 979.9
   },
   {
     "month": 6,
@@ -4468,7 +4434,7 @@
     "total_power_w": 14548.5,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 753.9
+    "callback_latency_ms": 980.5
   },
   {
     "month": 6,
@@ -4485,7 +4451,7 @@
     "total_power_w": 13295.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 758.1
+    "callback_latency_ms": 979.4
   },
   {
     "month": 6,
@@ -4502,7 +4468,7 @@
     "total_power_w": 14480.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 755.2
+    "callback_latency_ms": 968.9
   },
   {
     "month": 6,
@@ -4519,7 +4485,7 @@
     "total_power_w": 9494.1,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 759.5
+    "callback_latency_ms": 979.8
   },
   {
     "month": 6,
@@ -4536,7 +4502,7 @@
     "total_power_w": 9219.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 743.1
+    "callback_latency_ms": 978.6
   },
   {
     "month": 6,
@@ -4553,7 +4519,7 @@
     "total_power_w": 9178.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 753.6
+    "callback_latency_ms": 1005.2
   },
   {
     "month": 6,
@@ -4570,7 +4536,7 @@
     "total_power_w": 9136.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 756.2
+    "callback_latency_ms": 968.4
   },
   {
     "month": 6,
@@ -4587,7 +4553,7 @@
     "total_power_w": 6037.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 749.0
+    "callback_latency_ms": 963.1
   },
   {
     "month": 6,
@@ -4604,7 +4570,7 @@
     "total_power_w": 5942.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 756.3
+    "callback_latency_ms": 966.5
   },
   {
     "month": 6,
@@ -4621,7 +4587,7 @@
     "total_power_w": 5850.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 747.2
+    "callback_latency_ms": 977.6
   },
   {
     "month": 6,
@@ -4638,7 +4604,7 @@
     "total_power_w": 5757.6,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 753.3
+    "callback_latency_ms": 984.6
   },
   {
     "month": 6,
@@ -4655,7 +4621,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.5,
-    "callback_latency_ms": 756.6
+    "callback_latency_ms": 1023.1
   },
   {
     "month": 6,
@@ -4672,7 +4638,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 746.3
+    "callback_latency_ms": 997.0
   },
   {
     "month": 6,
@@ -4689,7 +4655,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 742.5
+    "callback_latency_ms": 998.6
   },
   {
     "month": 6,
@@ -4706,7 +4672,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 779.7
+    "callback_latency_ms": 995.9
   },
   {
     "month": 6,
@@ -4723,7 +4689,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 731.0
+    "callback_latency_ms": 983.1
   },
   {
     "month": 6,
@@ -4740,7 +4706,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.0
+    "callback_latency_ms": 989.8
   },
   {
     "month": 6,
@@ -4757,7 +4723,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 755.2
+    "callback_latency_ms": 1008.4
   },
   {
     "month": 6,
@@ -4774,7 +4740,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 749.2
+    "callback_latency_ms": 993.4
   },
   {
     "month": 6,
@@ -4791,7 +4757,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 745.8
+    "callback_latency_ms": 1012.5
   },
   {
     "month": 6,
@@ -4808,7 +4774,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 740.2
+    "callback_latency_ms": 1006.6
   },
   {
     "month": 6,
@@ -4825,7 +4791,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 749.0
+    "callback_latency_ms": 992.5
   },
   {
     "month": 6,
@@ -4842,7 +4808,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 773.3
+    "callback_latency_ms": 1000.1
   },
   {
     "month": 6,
@@ -4859,7 +4825,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 756.1
+    "callback_latency_ms": 989.9
   },
   {
     "month": 6,
@@ -4876,7 +4842,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.6
+    "callback_latency_ms": 994.4
   },
   {
     "month": 6,
@@ -4893,7 +4859,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 760.0
+    "callback_latency_ms": 994.8
   },
   {
     "month": 6,
@@ -4910,7 +4876,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 737.7
+    "callback_latency_ms": 1028.3
   },
   {
     "month": 6,
@@ -4927,7 +4893,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 746.4
+    "callback_latency_ms": 985.7
   },
   {
     "month": 6,
@@ -4944,7 +4910,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 753.4
+    "callback_latency_ms": 995.8
   },
   {
     "month": 6,
@@ -4961,7 +4927,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 788.4
+    "callback_latency_ms": 1000.9
   },
   {
     "month": 6,
@@ -4978,7 +4944,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 750.9
+    "callback_latency_ms": 1030.0
   },
   {
     "month": 6,
@@ -4995,7 +4961,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 744.5
+    "callback_latency_ms": 985.8
   },
   {
     "month": 6,
@@ -5012,7 +4978,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 737.3
+    "callback_latency_ms": 1004.3
   },
   {
     "month": 6,
@@ -5029,7 +4995,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 757.1
+    "callback_latency_ms": 989.3
   },
   {
     "month": 6,
@@ -5046,7 +5012,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 754.1
+    "callback_latency_ms": 991.3
   },
   {
     "month": 6,
@@ -5063,7 +5029,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 745.1
+    "callback_latency_ms": 1009.7
   },
   {
     "month": 6,
@@ -5080,7 +5046,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 748.0
+    "callback_latency_ms": 1040.9
   },
   {
     "month": 6,
@@ -5097,7 +5063,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 735.0
+    "callback_latency_ms": 959.7
   },
   {
     "month": 6,
@@ -5114,7 +5080,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 756.8
+    "callback_latency_ms": 1002.2
   },
   {
     "month": 6,
@@ -5131,7 +5097,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 756.1
+    "callback_latency_ms": 1009.1
   },
   {
     "month": 6,
@@ -5148,7 +5114,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 732.5
+    "callback_latency_ms": 985.4
   },
   {
     "month": 6,
@@ -5165,7 +5131,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 771.7
+    "callback_latency_ms": 986.8
   },
   {
     "month": 6,
@@ -5182,7 +5148,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 757.9
+    "callback_latency_ms": 999.7
   },
   {
     "month": 6,
@@ -5199,7 +5165,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 748.4
+    "callback_latency_ms": 990.7
   },
   {
     "month": 6,
@@ -5216,7 +5182,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 733.1
+    "callback_latency_ms": 1030.7
   },
   {
     "month": 6,
@@ -5233,7 +5199,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 722.3
+    "callback_latency_ms": 886.3
   },
   {
     "month": 6,
@@ -5250,7 +5216,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 746.8
+    "callback_latency_ms": 900.1
   },
   {
     "month": 6,
@@ -5267,7 +5233,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 749.5
+    "callback_latency_ms": 853.4
   },
   {
     "month": 6,
@@ -5284,7 +5250,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 743.1
+    "callback_latency_ms": 885.4
   },
   {
     "month": 6,
@@ -5301,7 +5267,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 756.7
+    "callback_latency_ms": 782.7
   },
   {
     "month": 6,
@@ -5318,7 +5284,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 751.4
+    "callback_latency_ms": 959.5
   },
   {
     "month": 6,
@@ -5335,7 +5301,7 @@
     "total_power_w": 2752.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 742.9
+    "callback_latency_ms": 1051.4
   },
   {
     "month": 6,
@@ -5352,7 +5318,7 @@
     "total_power_w": 2892.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 757.1
+    "callback_latency_ms": 1034.9
   },
   {
     "month": 6,
@@ -5369,7 +5335,7 @@
     "total_power_w": 3062.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 752.0
+    "callback_latency_ms": 1018.2
   },
   {
     "month": 6,
@@ -5386,7 +5352,7 @@
     "total_power_w": 3257.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 760.9
+    "callback_latency_ms": 1023.0
   },
   {
     "month": 6,
@@ -5403,7 +5369,7 @@
     "total_power_w": 3363.8,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 765.9
+    "callback_latency_ms": 1023.0
   },
   {
     "month": 6,
@@ -5420,7 +5386,7 @@
     "total_power_w": 3527.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 754.4
+    "callback_latency_ms": 1041.8
   },
   {
     "month": 6,
@@ -5437,7 +5403,7 @@
     "total_power_w": 3643.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 779.1
+    "callback_latency_ms": 786.0
   },
   {
     "month": 6,
@@ -5454,7 +5420,7 @@
     "total_power_w": 3962.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 763.5
+    "callback_latency_ms": 867.7
   },
   {
     "month": 6,
@@ -5471,7 +5437,7 @@
     "total_power_w": 12518.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 804.3
+    "callback_latency_ms": 980.4
   },
   {
     "month": 6,
@@ -5488,7 +5454,7 @@
     "total_power_w": 12700.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 807.4
+    "callback_latency_ms": 921.7
   },
   {
     "month": 6,
@@ -5505,7 +5471,7 @@
     "total_power_w": 12764.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 809.0
+    "callback_latency_ms": 896.6
   },
   {
     "month": 6,
@@ -5522,7 +5488,7 @@
     "total_power_w": 12749.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 800.1
+    "callback_latency_ms": 902.5
   },
   {
     "month": 6,
@@ -5539,7 +5505,7 @@
     "total_power_w": 16112.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 793.5
+    "callback_latency_ms": 895.2
   },
   {
     "month": 6,
@@ -5556,7 +5522,7 @@
     "total_power_w": 16025.7,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 834.3
+    "callback_latency_ms": 885.3
   },
   {
     "month": 6,
@@ -5573,7 +5539,7 @@
     "total_power_w": 15610.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 829.1
+    "callback_latency_ms": 881.9
   },
   {
     "month": 6,
@@ -5590,7 +5556,7 @@
     "total_power_w": 17454.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 783.2
+    "callback_latency_ms": 964.6
   },
   {
     "month": 6,
@@ -5607,7 +5573,7 @@
     "total_power_w": 16008.4,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 810.3
+    "callback_latency_ms": 951.1
   },
   {
     "month": 6,
@@ -5624,7 +5590,7 @@
     "total_power_w": 17201.5,
     "humidity": 50.0,
     "ai_setpoint": 26.5,
-    "callback_latency_ms": 800.5
+    "callback_latency_ms": 960.6
   },
   {
     "month": 6,
@@ -5641,7 +5607,7 @@
     "total_power_w": 15713.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 758.6
+    "callback_latency_ms": 952.7
   },
   {
     "month": 6,
@@ -5658,7 +5624,7 @@
     "total_power_w": 18617.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 795.5
+    "callback_latency_ms": 956.6
   },
   {
     "month": 6,
@@ -5675,7 +5641,7 @@
     "total_power_w": 15886.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 796.3
+    "callback_latency_ms": 957.0
   },
   {
     "month": 6,
@@ -5692,7 +5658,7 @@
     "total_power_w": 15512.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 785.9
+    "callback_latency_ms": 966.6
   },
   {
     "month": 6,
@@ -5709,7 +5675,7 @@
     "total_power_w": 17893.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 793.7
+    "callback_latency_ms": 949.5
   },
   {
     "month": 6,
@@ -5726,7 +5692,7 @@
     "total_power_w": 16738.9,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 794.8
+    "callback_latency_ms": 1004.9
   },
   {
     "month": 6,
@@ -5743,7 +5709,7 @@
     "total_power_w": 14161.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 820.2
+    "callback_latency_ms": 1010.2
   },
   {
     "month": 6,
@@ -5760,7 +5726,7 @@
     "total_power_w": 15953.1,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 808.1
+    "callback_latency_ms": 1003.4
   },
   {
     "month": 6,
@@ -5777,7 +5743,7 @@
     "total_power_w": 14303.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 777.5
+    "callback_latency_ms": 1005.6
   },
   {
     "month": 6,
@@ -5794,7 +5760,7 @@
     "total_power_w": 15006.1,
     "humidity": 50.0,
     "ai_setpoint": 26.5,
-    "callback_latency_ms": 754.0
+    "callback_latency_ms": 1053.9
   },
   {
     "month": 6,
@@ -5811,7 +5777,7 @@
     "total_power_w": 15163.6,
     "humidity": 50.0,
     "ai_setpoint": 27.0,
-    "callback_latency_ms": 817.6
+    "callback_latency_ms": 1008.1
   },
   {
     "month": 6,
@@ -5828,7 +5794,7 @@
     "total_power_w": 15159.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 805.5
+    "callback_latency_ms": 1018.2
   },
   {
     "month": 6,
@@ -5845,7 +5811,7 @@
     "total_power_w": 18239.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 799.6
+    "callback_latency_ms": 1019.2
   },
   {
     "month": 6,
@@ -5862,7 +5828,7 @@
     "total_power_w": 16958.5,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 823.4
+    "callback_latency_ms": 1017.9
   },
   {
     "month": 6,
@@ -5879,7 +5845,7 @@
     "total_power_w": 15628.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 818.2
+    "callback_latency_ms": 1015.3
   },
   {
     "month": 6,
@@ -5896,7 +5862,7 @@
     "total_power_w": 17916.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 803.0
+    "callback_latency_ms": 1015.9
   },
   {
     "month": 6,
@@ -5913,7 +5879,7 @@
     "total_power_w": 17050.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 818.9
+    "callback_latency_ms": 1016.5
   },
   {
     "month": 6,
@@ -5930,7 +5896,7 @@
     "total_power_w": 15313.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 799.6
+    "callback_latency_ms": 1001.2
   },
   {
     "month": 6,
@@ -5947,7 +5913,7 @@
     "total_power_w": 17010.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 790.9
+    "callback_latency_ms": 1016.6
   },
   {
     "month": 6,
@@ -5964,7 +5930,7 @@
     "total_power_w": 16418.9,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 817.1
+    "callback_latency_ms": 1015.0
   },
   {
     "month": 6,
@@ -5981,7 +5947,7 @@
     "total_power_w": 14966.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 787.7
+    "callback_latency_ms": 1006.8
   },
   {
     "month": 6,
@@ -5998,7 +5964,7 @@
     "total_power_w": 17142.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 816.5
+    "callback_latency_ms": 1013.9
   },
   {
     "month": 6,
@@ -6015,7 +5981,7 @@
     "total_power_w": 15164.0,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 816.3
+    "callback_latency_ms": 1005.9
   },
   {
     "month": 6,
@@ -6032,7 +5998,7 @@
     "total_power_w": 13660.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 823.5
+    "callback_latency_ms": 1017.1
   },
   {
     "month": 6,
@@ -6049,7 +6015,7 @@
     "total_power_w": 15710.8,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 811.0
+    "callback_latency_ms": 1047.7
   },
   {
     "month": 6,
@@ -6066,7 +6032,7 @@
     "total_power_w": 13653.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 813.7
+    "callback_latency_ms": 1015.7
   },
   {
     "month": 6,
@@ -6083,7 +6049,7 @@
     "total_power_w": 14419.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 805.7
+    "callback_latency_ms": 1007.5
   },
   {
     "month": 6,
@@ -6100,7 +6066,7 @@
     "total_power_w": 14935.5,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 823.7
+    "callback_latency_ms": 1019.4
   },
   {
     "month": 6,
@@ -6117,7 +6083,7 @@
     "total_power_w": 13329.6,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 806.5
+    "callback_latency_ms": 1014.9
   },
   {
     "month": 6,
@@ -6134,7 +6100,7 @@
     "total_power_w": 13841.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 824.6
+    "callback_latency_ms": 1017.4
   },
   {
     "month": 6,
@@ -6151,7 +6117,7 @@
     "total_power_w": 9378.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 803.0
+    "callback_latency_ms": 1011.9
   },
   {
     "month": 6,
@@ -6168,7 +6134,7 @@
     "total_power_w": 9054.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 795.5
+    "callback_latency_ms": 1014.4
   },
   {
     "month": 6,
@@ -6185,7 +6151,7 @@
     "total_power_w": 9094.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 822.1
+    "callback_latency_ms": 1023.5
   },
   {
     "month": 6,
@@ -6202,7 +6168,7 @@
     "total_power_w": 8749.6,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 815.0
+    "callback_latency_ms": 1016.5
   },
   {
     "month": 6,
@@ -6219,7 +6185,7 @@
     "total_power_w": 5710.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 793.4
+    "callback_latency_ms": 1021.7
   },
   {
     "month": 6,
@@ -6236,7 +6202,7 @@
     "total_power_w": 5677.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 815.7
+    "callback_latency_ms": 1014.3
   },
   {
     "month": 6,
@@ -6253,7 +6219,7 @@
     "total_power_w": 5645.7,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 814.0
+    "callback_latency_ms": 1023.8
   },
   {
     "month": 6,
@@ -6270,7 +6236,7 @@
     "total_power_w": 5614.3,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 805.3
+    "callback_latency_ms": 1024.3
   },
   {
     "month": 6,
@@ -6287,7 +6253,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 804.0
+    "callback_latency_ms": 1018.8
   },
   {
     "month": 6,
@@ -6304,7 +6270,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 817.9
+    "callback_latency_ms": 962.5
   },
   {
     "month": 6,
@@ -6321,7 +6287,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 808.2
+    "callback_latency_ms": 902.4
   },
   {
     "month": 6,
@@ -6338,7 +6304,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 804.2
+    "callback_latency_ms": 922.3
   },
   {
     "month": 6,
@@ -6355,7 +6321,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 792.7
+    "callback_latency_ms": 967.0
   },
   {
     "month": 6,
@@ -6372,7 +6338,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 817.2
+    "callback_latency_ms": 1027.3
   },
   {
     "month": 6,
@@ -6389,7 +6355,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 814.2
+    "callback_latency_ms": 1021.1
   },
   {
     "month": 6,
@@ -6406,7 +6372,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 774.9
+    "callback_latency_ms": 1018.6
   },
   {
     "month": 6,
@@ -6423,7 +6389,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 757.2
+    "callback_latency_ms": 906.7
   },
   {
     "month": 6,
@@ -6440,7 +6406,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 818.2
+    "callback_latency_ms": 791.5
   },
   {
     "month": 6,
@@ -6457,7 +6423,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 802.8
+    "callback_latency_ms": 999.5
   },
   {
     "month": 6,
@@ -6474,7 +6440,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 804.7
+    "callback_latency_ms": 954.2
   },
   {
     "month": 6,
@@ -6491,7 +6457,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 826.6
+    "callback_latency_ms": 1020.3
   },
   {
     "month": 6,
@@ -6508,7 +6474,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 813.5
+    "callback_latency_ms": 1052.4
   },
   {
     "month": 6,
@@ -6525,7 +6491,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 809.1
+    "callback_latency_ms": 1023.5
   },
   {
     "month": 6,
@@ -6542,7 +6508,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 796.6
+    "callback_latency_ms": 916.9
   },
   {
     "month": 6,
@@ -6559,7 +6525,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 802.7
+    "callback_latency_ms": 868.7
   },
   {
     "month": 6,
@@ -6576,7 +6542,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 799.1
+    "callback_latency_ms": 852.6
   },
   {
     "month": 6,
@@ -6593,7 +6559,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 803.5
+    "callback_latency_ms": 998.3
   },
   {
     "month": 6,
@@ -6610,7 +6576,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 816.1
+    "callback_latency_ms": 812.0
   },
   {
     "month": 6,
@@ -6627,7 +6593,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 782.1
+    "callback_latency_ms": 898.5
   },
   {
     "month": 6,
@@ -6644,7 +6610,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 828.2
+    "callback_latency_ms": 1001.6
   },
   {
     "month": 6,
@@ -6661,7 +6627,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 798.4
+    "callback_latency_ms": 1023.3
   },
   {
     "month": 6,
@@ -6678,7 +6644,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 809.7
+    "callback_latency_ms": 966.3
   },
   {
     "month": 6,
@@ -6695,7 +6661,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 799.8
+    "callback_latency_ms": 782.7
   },
   {
     "month": 6,
@@ -6712,7 +6678,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 809.4
+    "callback_latency_ms": 776.2
   },
   {
     "month": 6,
@@ -6729,7 +6695,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 786.7
+    "callback_latency_ms": 776.0
   },
   {
     "month": 6,
@@ -6746,7 +6712,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 810.6
+    "callback_latency_ms": 845.3
   },
   {
     "month": 6,
@@ -6763,7 +6729,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 802.3
+    "callback_latency_ms": 920.4
   },
   {
     "month": 6,
@@ -6780,7 +6746,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 797.5
+    "callback_latency_ms": 942.4
   },
   {
     "month": 6,
@@ -6797,7 +6763,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 820.3
+    "callback_latency_ms": 906.5
   },
   {
     "month": 6,
@@ -6814,7 +6780,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 820.7
+    "callback_latency_ms": 919.5
   },
   {
     "month": 6,
@@ -6831,7 +6797,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 787.1
+    "callback_latency_ms": 998.2
   },
   {
     "month": 6,
@@ -6848,7 +6814,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 812.2
+    "callback_latency_ms": 823.9
   },
   {
     "month": 6,
@@ -6865,7 +6831,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 791.6
+    "callback_latency_ms": 803.6
   },
   {
     "month": 6,
@@ -6882,7 +6848,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 816.1
+    "callback_latency_ms": 815.9
   },
   {
     "month": 6,
@@ -6899,7 +6865,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 802.1
+    "callback_latency_ms": 812.5
   },
   {
     "month": 6,
@@ -6916,7 +6882,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 782.1
+    "callback_latency_ms": 775.6
   },
   {
     "month": 6,
@@ -6933,7 +6899,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 809.5
+    "callback_latency_ms": 784.7
   },
   {
     "month": 6,
@@ -6950,7 +6916,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 807.0
+    "callback_latency_ms": 780.0
   },
   {
     "month": 6,
@@ -6967,7 +6933,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 810.2
+    "callback_latency_ms": 783.9
   },
   {
     "month": 6,
@@ -6984,7 +6950,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 818.2
+    "callback_latency_ms": 789.2
   },
   {
     "month": 6,
@@ -7001,7 +6967,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 815.1
+    "callback_latency_ms": 793.8
   },
   {
     "month": 6,
@@ -7018,7 +6984,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 808.3
+    "callback_latency_ms": 794.9
   },
   {
     "month": 6,
@@ -7035,7 +7001,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 746.6
+    "callback_latency_ms": 776.0
   },
   {
     "month": 6,
@@ -7052,7 +7018,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 780.4
+    "callback_latency_ms": 779.3
   },
   {
     "month": 6,
@@ -7069,7 +7035,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 816.0
+    "callback_latency_ms": 790.6
   },
   {
     "month": 6,
@@ -7086,7 +7052,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.9,
-    "callback_latency_ms": 803.2
+    "callback_latency_ms": 841.5
   },
   {
     "month": 6,
@@ -7103,7 +7069,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 807.9
+    "callback_latency_ms": 812.2
   },
   {
     "month": 6,
@@ -7120,7 +7086,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 810.7
+    "callback_latency_ms": 801.9
   },
   {
     "month": 6,
@@ -7137,7 +7103,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 801.6
+    "callback_latency_ms": 818.2
   },
   {
     "month": 6,
@@ -7154,7 +7120,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 835.6
+    "callback_latency_ms": 827.1
   },
   {
     "month": 6,
@@ -7171,7 +7137,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 825.5
+    "callback_latency_ms": 843.6
   },
   {
     "month": 6,
@@ -7188,7 +7154,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 808.8
+    "callback_latency_ms": 820.0
   },
   {
     "month": 6,
@@ -7205,7 +7171,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 815.8
+    "callback_latency_ms": 810.2
   },
   {
     "month": 6,
@@ -7222,7 +7188,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 810.4
+    "callback_latency_ms": 808.4
   },
   {
     "month": 6,
@@ -7239,7 +7205,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 910.3
+    "callback_latency_ms": 792.4
   },
   {
     "month": 6,
@@ -7256,7 +7222,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 904.8
+    "callback_latency_ms": 778.5
   },
   {
     "month": 6,
@@ -7273,7 +7239,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 798.4
+    "callback_latency_ms": 771.2
   },
   {
     "month": 6,
@@ -7290,7 +7256,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 806.1
+    "callback_latency_ms": 790.4
   },
   {
     "month": 6,
@@ -7307,7 +7273,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 774.5
+    "callback_latency_ms": 756.0
   },
   {
     "month": 6,
@@ -7324,7 +7290,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 812.4
+    "callback_latency_ms": 751.1
   },
   {
     "month": 6,
@@ -7341,7 +7307,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 783.2
+    "callback_latency_ms": 746.1
   },
   {
     "month": 6,
@@ -7358,7 +7324,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 827.3
+    "callback_latency_ms": 796.8
   },
   {
     "month": 6,
@@ -7375,7 +7341,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 819.7
+    "callback_latency_ms": 752.2
   },
   {
     "month": 6,
@@ -7392,7 +7358,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 797.5
+    "callback_latency_ms": 761.8
   },
   {
     "month": 6,
@@ -7409,7 +7375,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 802.4
+    "callback_latency_ms": 758.2
   },
   {
     "month": 6,
@@ -7426,7 +7392,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 812.1
+    "callback_latency_ms": 759.0
   },
   {
     "month": 6,
@@ -7443,7 +7409,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 783.4
+    "callback_latency_ms": 735.6
   },
   {
     "month": 6,
@@ -7460,7 +7426,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 791.2
+    "callback_latency_ms": 750.6
   },
   {
     "month": 6,
@@ -7477,7 +7443,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 799.8
+    "callback_latency_ms": 725.0
   },
   {
     "month": 6,
@@ -7494,7 +7460,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 820.4
+    "callback_latency_ms": 751.5
   },
   {
     "month": 6,
@@ -7511,7 +7477,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 783.8
+    "callback_latency_ms": 757.2
   },
   {
     "month": 6,
@@ -7528,7 +7494,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 809.1
+    "callback_latency_ms": 767.6
   },
   {
     "month": 6,
@@ -7545,7 +7511,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 815.3
+    "callback_latency_ms": 744.9
   },
   {
     "month": 6,
@@ -7562,7 +7528,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 815.1
+    "callback_latency_ms": 777.6
   },
   {
     "month": 6,
@@ -7579,7 +7545,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 790.6
+    "callback_latency_ms": 759.2
   },
   {
     "month": 6,
@@ -7596,7 +7562,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 803.9
+    "callback_latency_ms": 769.8
   },
   {
     "month": 6,
@@ -7613,7 +7579,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 800.0
+    "callback_latency_ms": 769.1
   },
   {
     "month": 6,
@@ -7630,7 +7596,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 794.8
+    "callback_latency_ms": 762.6
   },
   {
     "month": 6,
@@ -7647,7 +7613,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 755.4
+    "callback_latency_ms": 707.5
   },
   {
     "month": 6,
@@ -7664,7 +7630,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 725.6
+    "callback_latency_ms": 724.9
   },
   {
     "month": 6,
@@ -7681,7 +7647,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 728.2
+    "callback_latency_ms": 727.4
   },
   {
     "month": 6,
@@ -7698,7 +7664,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 798.4
+    "callback_latency_ms": 758.6
   },
   {
     "month": 6,
@@ -7715,7 +7681,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 814.1
+    "callback_latency_ms": 744.8
   },
   {
     "month": 6,
@@ -7732,7 +7698,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 799.7
+    "callback_latency_ms": 818.9
   },
   {
     "month": 6,
@@ -7749,7 +7715,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 806.2
+    "callback_latency_ms": 956.8
   },
   {
     "month": 6,
@@ -7766,7 +7732,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 805.7
+    "callback_latency_ms": 951.7
   },
   {
     "month": 6,
@@ -7783,7 +7749,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 798.5
+    "callback_latency_ms": 945.4
   },
   {
     "month": 6,
@@ -7800,7 +7766,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 808.1
+    "callback_latency_ms": 899.0
   },
   {
     "month": 6,
@@ -7817,7 +7783,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 803.4
+    "callback_latency_ms": 885.6
   },
   {
     "month": 6,
@@ -7834,7 +7800,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 806.0
+    "callback_latency_ms": 946.9
   },
   {
     "month": 6,
@@ -7851,7 +7817,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 796.3
+    "callback_latency_ms": 1007.7
   },
   {
     "month": 6,
@@ -7868,7 +7834,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 817.4
+    "callback_latency_ms": 986.1
   },
   {
     "month": 6,
@@ -7885,7 +7851,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 794.7
+    "callback_latency_ms": 982.3
   },
   {
     "month": 6,
@@ -7902,7 +7868,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 798.9
+    "callback_latency_ms": 959.1
   },
   {
     "month": 6,
@@ -7919,7 +7885,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 806.9
+    "callback_latency_ms": 955.0
   },
   {
     "month": 6,
@@ -7936,7 +7902,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 804.9
+    "callback_latency_ms": 967.1
   },
   {
     "month": 6,
@@ -7953,7 +7919,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 795.2
+    "callback_latency_ms": 985.8
   },
   {
     "month": 6,
@@ -7970,7 +7936,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 794.1
+    "callback_latency_ms": 963.1
   },
   {
     "month": 6,
@@ -7987,7 +7953,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 836.0
+    "callback_latency_ms": 987.5
   },
   {
     "month": 6,
@@ -8004,7 +7970,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 796.5
+    "callback_latency_ms": 987.5
   },
   {
     "month": 6,
@@ -8021,7 +7987,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 782.7
+    "callback_latency_ms": 948.5
   },
   {
     "month": 6,
@@ -8038,7 +8004,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 798.6
+    "callback_latency_ms": 958.5
   },
   {
     "month": 6,
@@ -8055,7 +8021,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 805.9
+    "callback_latency_ms": 955.5
   },
   {
     "month": 6,
@@ -8072,7 +8038,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 780.3
+    "callback_latency_ms": 938.7
   },
   {
     "month": 6,
@@ -8089,7 +8055,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 771.4
+    "callback_latency_ms": 955.8
   },
   {
     "month": 6,
@@ -8106,7 +8072,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 798.3
+    "callback_latency_ms": 959.5
   },
   {
     "month": 6,
@@ -8123,7 +8089,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 807.3
+    "callback_latency_ms": 955.4
   },
   {
     "month": 6,
@@ -8140,7 +8106,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 780.0
+    "callback_latency_ms": 875.0
   },
   {
     "month": 6,
@@ -8157,7 +8123,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 810.1
+    "callback_latency_ms": 874.4
   },
   {
     "month": 6,
@@ -8174,7 +8140,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 800.7
+    "callback_latency_ms": 879.0
   },
   {
     "month": 6,
@@ -8191,7 +8157,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 804.7
+    "callback_latency_ms": 878.7
   },
   {
     "month": 6,
@@ -8208,7 +8174,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 802.6
+    "callback_latency_ms": 939.6
   },
   {
     "month": 6,
@@ -8225,7 +8191,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 803.3
+    "callback_latency_ms": 958.6
   },
   {
     "month": 6,
@@ -8242,7 +8208,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 799.6
+    "callback_latency_ms": 971.0
   },
   {
     "month": 6,
@@ -8259,7 +8225,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 798.2
+    "callback_latency_ms": 988.5
   },
   {
     "month": 6,
@@ -8276,7 +8242,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 796.5
+    "callback_latency_ms": 948.4
   },
   {
     "month": 6,
@@ -8293,7 +8259,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 800.2
+    "callback_latency_ms": 978.1
   },
   {
     "month": 6,
@@ -8310,7 +8276,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 762.6
+    "callback_latency_ms": 954.2
   },
   {
     "month": 6,
@@ -8327,7 +8293,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 747.9
+    "callback_latency_ms": 958.8
   },
   {
     "month": 6,
@@ -8344,7 +8310,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 788.6
+    "callback_latency_ms": 957.7
   },
   {
     "month": 6,
@@ -8361,7 +8327,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 799.5
+    "callback_latency_ms": 974.3
   },
   {
     "month": 6,
@@ -8378,7 +8344,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 805.1
+    "callback_latency_ms": 969.9
   },
   {
     "month": 6,
@@ -8395,7 +8361,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 797.0
+    "callback_latency_ms": 963.5
   },
   {
     "month": 6,
@@ -8412,7 +8378,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 807.8
+    "callback_latency_ms": 964.3
   },
   {
     "month": 6,
@@ -8429,7 +8395,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 790.6
+    "callback_latency_ms": 953.1
   },
   {
     "month": 6,
@@ -8446,7 +8412,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 801.4
+    "callback_latency_ms": 972.0
   },
   {
     "month": 6,
@@ -8463,7 +8429,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 811.5
+    "callback_latency_ms": 965.7
   },
   {
     "month": 6,
@@ -8480,7 +8446,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 789.2
+    "callback_latency_ms": 987.2
   },
   {
     "month": 6,
@@ -8497,7 +8463,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 792.1
+    "callback_latency_ms": 965.4
   },
   {
     "month": 6,
@@ -8514,7 +8480,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 798.7
+    "callback_latency_ms": 950.3
   },
   {
     "month": 6,
@@ -8531,7 +8497,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 791.8
+    "callback_latency_ms": 948.7
   },
   {
     "month": 6,
@@ -8548,7 +8514,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 791.9
+    "callback_latency_ms": 962.5
   },
   {
     "month": 6,
@@ -8565,7 +8531,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 782.2
+    "callback_latency_ms": 972.7
   },
   {
     "month": 6,
@@ -8582,7 +8548,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 805.9
+    "callback_latency_ms": 976.5
   },
   {
     "month": 6,
@@ -8599,7 +8565,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 792.8
+    "callback_latency_ms": 963.8
   },
   {
     "month": 6,
@@ -8616,7 +8582,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 817.7
+    "callback_latency_ms": 967.8
   },
   {
     "month": 6,
@@ -8633,7 +8599,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 807.0
+    "callback_latency_ms": 963.6
   },
   {
     "month": 6,
@@ -8650,7 +8616,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 809.5
+    "callback_latency_ms": 947.7
   },
   {
     "month": 6,
@@ -8667,7 +8633,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 807.0
+    "callback_latency_ms": 911.8
   },
   {
     "month": 6,
@@ -8684,7 +8650,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 813.5
+    "callback_latency_ms": 885.6
   },
   {
     "month": 6,
@@ -8701,7 +8667,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 798.5
+    "callback_latency_ms": 886.4
   },
   {
     "month": 6,
@@ -8718,7 +8684,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 806.0
+    "callback_latency_ms": 922.4
   },
   {
     "month": 6,
@@ -8735,7 +8701,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 812.1
+    "callback_latency_ms": 895.7
   },
   {
     "month": 6,
@@ -8752,7 +8718,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 793.3
+    "callback_latency_ms": 752.1
   },
   {
     "month": 6,
@@ -8769,7 +8735,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 825.0
+    "callback_latency_ms": 755.6
   },
   {
     "month": 6,
@@ -8786,7 +8752,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 786.9
+    "callback_latency_ms": 765.6
   },
   {
     "month": 6,
@@ -8803,7 +8769,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 822.7
+    "callback_latency_ms": 905.1
   },
   {
     "month": 6,
@@ -8820,7 +8786,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 825.0
+    "callback_latency_ms": 902.5
   },
   {
     "month": 6,
@@ -8837,7 +8803,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 790.5
+    "callback_latency_ms": 903.1
   },
   {
     "month": 6,
@@ -8854,7 +8820,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 799.6
+    "callback_latency_ms": 934.0
   },
   {
     "month": 6,
@@ -8871,7 +8837,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 806.4
+    "callback_latency_ms": 934.3
   },
   {
     "month": 6,
@@ -8888,7 +8854,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 794.2
+    "callback_latency_ms": 903.6
   },
   {
     "month": 6,
@@ -8905,7 +8871,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 813.6
+    "callback_latency_ms": 919.3
   },
   {
     "month": 6,
@@ -8922,7 +8888,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.7,
-    "callback_latency_ms": 810.7
+    "callback_latency_ms": 921.2
   },
   {
     "month": 6,
@@ -8939,7 +8905,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 786.3
+    "callback_latency_ms": 917.6
   },
   {
     "month": 6,
@@ -8956,7 +8922,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.7,
-    "callback_latency_ms": 783.7
+    "callback_latency_ms": 907.8
   },
   {
     "month": 6,
@@ -8973,7 +8939,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 788.5
+    "callback_latency_ms": 932.9
   },
   {
     "month": 6,
@@ -8990,7 +8956,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 804.2
+    "callback_latency_ms": 947.8
   },
   {
     "month": 6,
@@ -9007,7 +8973,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.5,
-    "callback_latency_ms": 822.8
+    "callback_latency_ms": 887.5
   },
   {
     "month": 6,
@@ -9024,7 +8990,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 822.2
+    "callback_latency_ms": 924.3
   },
   {
     "month": 6,
@@ -9041,7 +9007,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.5,
-    "callback_latency_ms": 813.3
+    "callback_latency_ms": 911.3
   },
   {
     "month": 6,
@@ -9058,7 +9024,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 811.3
+    "callback_latency_ms": 922.6
   },
   {
     "month": 6,
@@ -9075,7 +9041,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 774.4
+    "callback_latency_ms": 881.4
   },
   {
     "month": 6,
@@ -9092,7 +9058,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 794.2
+    "callback_latency_ms": 893.9
   },
   {
     "month": 6,
@@ -9109,7 +9075,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 775.8
+    "callback_latency_ms": 830.5
   },
   {
     "month": 6,
@@ -9126,7 +9092,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 803.8
+    "callback_latency_ms": 919.8
   },
   {
     "month": 6,
@@ -9143,7 +9109,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 781.8
+    "callback_latency_ms": 778.5
   },
   {
     "month": 6,
@@ -9160,7 +9126,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 811.8
+    "callback_latency_ms": 756.2
   },
   {
     "month": 6,
@@ -9177,7 +9143,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 795.5
+    "callback_latency_ms": 736.4
   },
   {
     "month": 6,
@@ -9194,7 +9160,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 803.4
+    "callback_latency_ms": 760.7
   },
   {
     "month": 6,
@@ -9211,7 +9177,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 792.9
+    "callback_latency_ms": 760.7
   },
   {
     "month": 6,
@@ -9228,7 +9194,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 825.0
+    "callback_latency_ms": 742.4
   },
   {
     "month": 6,
@@ -9245,7 +9211,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 812.3
+    "callback_latency_ms": 754.1
   },
   {
     "month": 6,
@@ -9262,7 +9228,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 817.9
+    "callback_latency_ms": 764.4
   },
   {
     "month": 6,
@@ -9279,7 +9245,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 23.5,
-    "callback_latency_ms": 799.3
+    "callback_latency_ms": 747.5
   },
   {
     "month": 6,
@@ -9296,7 +9262,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 806.6
+    "callback_latency_ms": 750.6
   },
   {
     "month": 6,
@@ -9313,7 +9279,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 814.6
+    "callback_latency_ms": 739.7
   },
   {
     "month": 6,
@@ -9330,7 +9296,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 806.2
+    "callback_latency_ms": 743.8
   },
   {
     "month": 6,
@@ -9347,7 +9313,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 814.2
+    "callback_latency_ms": 748.7
   },
   {
     "month": 6,
@@ -9364,7 +9330,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 797.7
+    "callback_latency_ms": 746.9
   },
   {
     "month": 6,
@@ -9381,7 +9347,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 792.2
+    "callback_latency_ms": 723.6
   },
   {
     "month": 6,
@@ -9398,7 +9364,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 801.7
+    "callback_latency_ms": 749.4
   },
   {
     "month": 6,
@@ -9415,7 +9381,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 840.3
+    "callback_latency_ms": 741.0
   },
   {
     "month": 6,
@@ -9432,7 +9398,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 808.5
+    "callback_latency_ms": 754.8
   },
   {
     "month": 6,
@@ -9449,7 +9415,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 793.8
+    "callback_latency_ms": 712.4
   },
   {
     "month": 6,
@@ -9466,7 +9432,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 814.7
+    "callback_latency_ms": 768.7
   },
   {
     "month": 6,
@@ -9483,7 +9449,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 795.9
+    "callback_latency_ms": 749.8
   },
   {
     "month": 6,
@@ -9500,7 +9466,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 802.0
+    "callback_latency_ms": 762.3
   },
   {
     "month": 6,
@@ -9517,7 +9483,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 816.2
+    "callback_latency_ms": 757.9
   },
   {
     "month": 6,
@@ -9534,7 +9500,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 829.9
+    "callback_latency_ms": 772.1
   },
   {
     "month": 6,
@@ -9551,7 +9517,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 815.5
+    "callback_latency_ms": 770.5
   },
   {
     "month": 6,
@@ -9568,7 +9534,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 824.0
+    "callback_latency_ms": 778.3
   },
   {
     "month": 6,
@@ -9585,7 +9551,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 809.7
+    "callback_latency_ms": 759.4
   },
   {
     "month": 6,
@@ -9602,7 +9568,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 792.6
+    "callback_latency_ms": 766.8
   },
   {
     "month": 6,
@@ -9619,7 +9585,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 806.9
+    "callback_latency_ms": 722.0
   },
   {
     "month": 6,
@@ -9636,7 +9602,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 832.7
+    "callback_latency_ms": 736.7
   },
   {
     "month": 6,
@@ -9653,7 +9619,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 792.5
+    "callback_latency_ms": 752.4
   },
   {
     "month": 6,
@@ -9670,7 +9636,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 791.3
+    "callback_latency_ms": 735.5
   },
   {
     "month": 6,
@@ -9687,7 +9653,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 821.8
+    "callback_latency_ms": 753.3
   },
   {
     "month": 6,
@@ -9704,7 +9670,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 803.9
+    "callback_latency_ms": 762.4
   },
   {
     "month": 6,
@@ -9721,7 +9687,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 802.2
+    "callback_latency_ms": 762.8
   },
   {
     "month": 6,
@@ -9738,7 +9704,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 799.3
+    "callback_latency_ms": 755.5
   },
   {
     "month": 6,
@@ -9755,7 +9721,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 792.0
+    "callback_latency_ms": 759.9
   },
   {
     "month": 6,
@@ -9772,7 +9738,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 814.0
+    "callback_latency_ms": 770.3
   },
   {
     "month": 6,
@@ -9789,7 +9755,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 789.0
+    "callback_latency_ms": 751.9
   },
   {
     "month": 7,
@@ -9806,7 +9772,7 @@
     "total_power_w": 1375.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 804.5
+    "callback_latency_ms": 766.7
   },
   {
     "month": 7,
@@ -9823,7 +9789,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 789.3
+    "callback_latency_ms": 766.7
   },
   {
     "month": 7,
@@ -9840,7 +9806,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 820.8
+    "callback_latency_ms": 758.2
   },
   {
     "month": 7,
@@ -9857,7 +9823,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 800.3
+    "callback_latency_ms": 761.1
   },
   {
     "month": 7,
@@ -9874,7 +9840,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 795.6
+    "callback_latency_ms": 769.2
   },
   {
     "month": 7,
@@ -9891,7 +9857,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 801.9
+    "callback_latency_ms": 763.2
   },
   {
     "month": 7,
@@ -9908,7 +9874,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 805.8
+    "callback_latency_ms": 706.4
   },
   {
     "month": 7,
@@ -9925,7 +9891,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 815.6
+    "callback_latency_ms": 806.5
   },
   {
     "month": 7,
@@ -9942,7 +9908,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 821.0
+    "callback_latency_ms": 776.2
   },
   {
     "month": 7,
@@ -9959,7 +9925,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 822.0
+    "callback_latency_ms": 747.7
   },
   {
     "month": 7,
@@ -9976,7 +9942,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 810.9
+    "callback_latency_ms": 735.1
   },
   {
     "month": 7,
@@ -9993,7 +9959,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 804.2
+    "callback_latency_ms": 750.5
   },
   {
     "month": 7,
@@ -10010,7 +9976,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 828.7
+    "callback_latency_ms": 730.3
   },
   {
     "month": 7,
@@ -10027,7 +9993,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 814.7
+    "callback_latency_ms": 719.7
   },
   {
     "month": 7,
@@ -10044,7 +10010,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 792.5
+    "callback_latency_ms": 705.7
   },
   {
     "month": 7,
@@ -10061,7 +10027,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 817.7
+    "callback_latency_ms": 724.9
   },
   {
     "month": 7,
@@ -10078,7 +10044,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 815.5
+    "callback_latency_ms": 731.7
   },
   {
     "month": 7,
@@ -10095,7 +10061,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 800.2
+    "callback_latency_ms": 720.0
   },
   {
     "month": 7,
@@ -10112,7 +10078,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 792.5
+    "callback_latency_ms": 718.4
   },
   {
     "month": 7,
@@ -10129,7 +10095,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 772.3
+    "callback_latency_ms": 705.1
   },
   {
     "month": 7,
@@ -10146,7 +10112,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 814.8
+    "callback_latency_ms": 760.2
   },
   {
     "month": 7,
@@ -10163,7 +10129,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 782.3
+    "callback_latency_ms": 675.8
   },
   {
     "month": 7,
@@ -10180,7 +10146,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 800.1
+    "callback_latency_ms": 718.9
   },
   {
     "month": 7,
@@ -10197,7 +10163,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 809.5
+    "callback_latency_ms": 704.3
   },
   {
     "month": 7,
@@ -10214,7 +10180,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 806.4
+    "callback_latency_ms": 746.0
   },
   {
     "month": 7,
@@ -10231,7 +10197,7 @@
     "total_power_w": 2194.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 779.9
+    "callback_latency_ms": 723.1
   },
   {
     "month": 7,
@@ -10248,7 +10214,7 @@
     "total_power_w": 2181.2,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 809.8
+    "callback_latency_ms": 743.1
   },
   {
     "month": 7,
@@ -10265,7 +10231,7 @@
     "total_power_w": 2180.6,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 765.4
+    "callback_latency_ms": 721.7
   },
   {
     "month": 7,
@@ -10282,7 +10248,7 @@
     "total_power_w": 2178.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 818.7
+    "callback_latency_ms": 767.4
   },
   {
     "month": 7,
@@ -10299,7 +10265,7 @@
     "total_power_w": 2202.8,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 817.7
+    "callback_latency_ms": 742.1
   },
   {
     "month": 7,
@@ -10316,7 +10282,7 @@
     "total_power_w": 2229.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 797.9
+    "callback_latency_ms": 739.0
   },
   {
     "month": 7,
@@ -10333,7 +10299,7 @@
     "total_power_w": 2258.4,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 762.0
+    "callback_latency_ms": 760.5
   },
   {
     "month": 7,
@@ -10350,7 +10316,7 @@
     "total_power_w": 2287.5,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 827.0
+    "callback_latency_ms": 753.6
   },
   {
     "month": 7,
@@ -10367,7 +10333,7 @@
     "total_power_w": 10570.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 808.6
+    "callback_latency_ms": 742.9
   },
   {
     "month": 7,
@@ -10384,7 +10350,7 @@
     "total_power_w": 10591.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 820.8
+    "callback_latency_ms": 745.5
   },
   {
     "month": 7,
@@ -10401,7 +10367,7 @@
     "total_power_w": 10614.1,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 806.6
+    "callback_latency_ms": 756.2
   },
   {
     "month": 7,
@@ -10418,7 +10384,7 @@
     "total_power_w": 10644.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 802.9
+    "callback_latency_ms": 752.5
   },
   {
     "month": 7,
@@ -10435,7 +10401,7 @@
     "total_power_w": 13555.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 811.9
+    "callback_latency_ms": 762.8
   },
   {
     "month": 7,
@@ -10452,7 +10418,7 @@
     "total_power_w": 13583.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 792.7
+    "callback_latency_ms": 738.9
   },
   {
     "month": 7,
@@ -10469,7 +10435,7 @@
     "total_power_w": 13730.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 810.1
+    "callback_latency_ms": 731.9
   },
   {
     "month": 7,
@@ -10486,7 +10452,7 @@
     "total_power_w": 13666.7,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 803.9
+    "callback_latency_ms": 755.7
   },
   {
     "month": 7,
@@ -10503,7 +10469,7 @@
     "total_power_w": 14321.7,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 802.8
+    "callback_latency_ms": 799.3
   },
   {
     "month": 7,
@@ -10520,7 +10486,7 @@
     "total_power_w": 14284.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 790.8
+    "callback_latency_ms": 749.4
   },
   {
     "month": 7,
@@ -10537,7 +10503,7 @@
     "total_power_w": 14647.1,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 810.6
+    "callback_latency_ms": 753.1
   },
   {
     "month": 7,
@@ -10554,7 +10520,7 @@
     "total_power_w": 14608.8,
     "humidity": 50.0,
     "ai_setpoint": 24.8,
-    "callback_latency_ms": 801.9
+    "callback_latency_ms": 830.3
   },
   {
     "month": 7,
@@ -10571,7 +10537,7 @@
     "total_power_w": 14462.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 798.4
+    "callback_latency_ms": 866.6
   },
   {
     "month": 7,
@@ -10588,7 +10554,7 @@
     "total_power_w": 13948.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 800.7
+    "callback_latency_ms": 782.3
   },
   {
     "month": 7,
@@ -10605,7 +10571,7 @@
     "total_power_w": 14484.7,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 803.6
+    "callback_latency_ms": 767.0
   },
   {
     "month": 7,
@@ -10622,7 +10588,7 @@
     "total_power_w": 14252.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 803.6
+    "callback_latency_ms": 750.8
   },
   {
     "month": 7,
@@ -10639,7 +10605,7 @@
     "total_power_w": 13088.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 778.5
+    "callback_latency_ms": 774.9
   },
   {
     "month": 7,
@@ -10656,7 +10622,7 @@
     "total_power_w": 13540.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 801.0
+    "callback_latency_ms": 755.7
   },
   {
     "month": 7,
@@ -10673,7 +10639,7 @@
     "total_power_w": 12861.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 801.7
+    "callback_latency_ms": 760.0
   },
   {
     "month": 7,
@@ -10690,7 +10656,7 @@
     "total_power_w": 13419.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 798.7
+    "callback_latency_ms": 740.4
   },
   {
     "month": 7,
@@ -10707,7 +10673,7 @@
     "total_power_w": 13823.0,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 808.7
+    "callback_latency_ms": 768.7
   },
   {
     "month": 7,
@@ -10724,7 +10690,7 @@
     "total_power_w": 14114.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 800.5
+    "callback_latency_ms": 750.3
   },
   {
     "month": 7,
@@ -10741,7 +10707,7 @@
     "total_power_w": 13854.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 812.2
+    "callback_latency_ms": 745.0
   },
   {
     "month": 7,
@@ -10758,7 +10724,7 @@
     "total_power_w": 14127.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 797.6
+    "callback_latency_ms": 739.9
   },
   {
     "month": 7,
@@ -10775,7 +10741,7 @@
     "total_power_w": 15102.9,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 792.2
+    "callback_latency_ms": 743.2
   },
   {
     "month": 7,
@@ -10792,7 +10758,7 @@
     "total_power_w": 14101.5,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 810.2
+    "callback_latency_ms": 780.4
   },
   {
     "month": 7,
@@ -10809,7 +10775,7 @@
     "total_power_w": 15116.2,
     "humidity": 50.0,
     "ai_setpoint": 26.0,
-    "callback_latency_ms": 806.1
+    "callback_latency_ms": 774.8
   },
   {
     "month": 7,
@@ -10826,7 +10792,7 @@
     "total_power_w": 13668.6,
     "humidity": 50.0,
     "ai_setpoint": 25.5,
-    "callback_latency_ms": 802.2
+    "callback_latency_ms": 713.1
   },
   {
     "month": 7,
@@ -10843,7 +10809,7 @@
     "total_power_w": 13164.3,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 737.0
+    "callback_latency_ms": 733.1
   },
   {
     "month": 7,
@@ -10860,7 +10826,7 @@
     "total_power_w": 14550.9,
     "humidity": 50.0,
     "ai_setpoint": 25.5,
-    "callback_latency_ms": 753.4
+    "callback_latency_ms": 764.4
   },
   {
     "month": 7,
@@ -10877,7 +10843,7 @@
     "total_power_w": 13146.5,
     "humidity": 50.0,
     "ai_setpoint": 24.0,
-    "callback_latency_ms": 795.1
+    "callback_latency_ms": 739.1
   },
   {
     "month": 7,
@@ -10894,7 +10860,7 @@
     "total_power_w": 13879.3,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 791.3
+    "callback_latency_ms": 791.1
   },
   {
     "month": 7,
@@ -10911,7 +10877,7 @@
     "total_power_w": 12023.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 786.8
+    "callback_latency_ms": 752.9
   },
   {
     "month": 7,
@@ -10928,7 +10894,7 @@
     "total_power_w": 12223.2,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 791.9
+    "callback_latency_ms": 755.8
   },
   {
     "month": 7,
@@ -10945,7 +10911,7 @@
     "total_power_w": 11963.4,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 794.7
+    "callback_latency_ms": 749.6
   },
   {
     "month": 7,
@@ -10962,7 +10928,7 @@
     "total_power_w": 12249.1,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 806.4
+    "callback_latency_ms": 750.7
   },
   {
     "month": 7,
@@ -10979,7 +10945,7 @@
     "total_power_w": 11978.9,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 789.7
+    "callback_latency_ms": 765.0
   },
   {
     "month": 7,
@@ -10996,7 +10962,7 @@
     "total_power_w": 12257.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 802.2
+    "callback_latency_ms": 738.8
   },
   {
     "month": 7,
@@ -11013,7 +10979,7 @@
     "total_power_w": 12037.1,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 795.9
+    "callback_latency_ms": 821.7
   },
   {
     "month": 7,
@@ -11030,7 +10996,7 @@
     "total_power_w": 12312.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 800.5
+    "callback_latency_ms": 738.1
   },
   {
     "month": 7,
@@ -11047,7 +11013,7 @@
     "total_power_w": 8051.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 794.4
+    "callback_latency_ms": 715.6
   },
   {
     "month": 7,
@@ -11064,7 +11030,7 @@
     "total_power_w": 8044.8,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 784.8
+    "callback_latency_ms": 718.4
   },
   {
     "month": 7,
@@ -11081,7 +11047,7 @@
     "total_power_w": 8040.3,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 792.4
+    "callback_latency_ms": 757.0
   },
   {
     "month": 7,
@@ -11098,7 +11064,7 @@
     "total_power_w": 8035.0,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 819.1
+    "callback_latency_ms": 750.7
   },
   {
     "month": 7,
@@ -11115,7 +11081,7 @@
     "total_power_w": 5023.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 801.7
+    "callback_latency_ms": 767.5
   },
   {
     "month": 7,
@@ -11132,7 +11098,7 @@
     "total_power_w": 5013.5,
     "humidity": 50.0,
     "ai_setpoint": 25.0,
-    "callback_latency_ms": 790.0
+    "callback_latency_ms": 857.9
   },
   {
     "month": 7,
@@ -11149,7 +11115,7 @@
     "total_power_w": 4990.8,
     "humidity": 50.0,
     "ai_setpoint": 24.5,
-    "callback_latency_ms": 802.3
+    "callback_latency_ms": 752.0
   },
   {
     "month": 7,
@@ -11166,7 +11132,7 @@
     "total_power_w": 4975.2,
     "humidity": 50.0,
     "ai_setpoint": 28.0,
-    "callback_latency_ms": 801.3
+    "callback_latency_ms": 748.4
   },
   {
     "month": 7,
@@ -11183,7 +11149,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 803.8
+    "callback_latency_ms": 751.0
   },
   {
     "month": 7,
@@ -11200,7 +11166,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 794.7
+    "callback_latency_ms": 747.2
   },
   {
     "month": 7,
@@ -11217,7 +11183,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 808.7
+    "callback_latency_ms": 745.0
   },
   {
     "month": 7,
@@ -11234,7 +11200,7 @@
     "total_power_w": 1600.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 786.9
+    "callback_latency_ms": 751.7
   },
   {
     "month": 7,
@@ -11251,7 +11217,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 798.4
+    "callback_latency_ms": 800.3
   },
   {
     "month": 7,
@@ -11268,7 +11234,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 793.2
+    "callback_latency_ms": 750.3
   },
   {
     "month": 7,
@@ -11285,7 +11251,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 821.5
+    "callback_latency_ms": 743.8
   },
   {
     "month": 7,
@@ -11302,7 +11268,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 814.5
+    "callback_latency_ms": 738.0
   },
   {
     "month": 7,
@@ -11319,7 +11285,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 810.9
+    "callback_latency_ms": 738.5
   },
   {
     "month": 7,
@@ -11336,7 +11302,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 799.3
+    "callback_latency_ms": 743.0
   },
   {
     "month": 7,
@@ -11353,7 +11319,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 798.0
+    "callback_latency_ms": 774.7
   },
   {
     "month": 7,
@@ -11370,7 +11336,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 808.1
+    "callback_latency_ms": 749.5
   },
   {
     "month": 7,
@@ -11387,7 +11353,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 803.5
+    "callback_latency_ms": 799.7
   },
   {
     "month": 7,
@@ -11404,7 +11370,7 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 28.5,
-    "callback_latency_ms": 797.9
+    "callback_latency_ms": 750.9
   },
   {
     "month": 7,
@@ -11421,6 +11387,6 @@
     "total_power_w": 475.0,
     "humidity": 50.0,
     "ai_setpoint": 29.0,
-    "callback_latency_ms": 793.3
+    "callback_latency_ms": 737.2
   }
 ]
